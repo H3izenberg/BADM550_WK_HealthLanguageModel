@@ -1,0 +1,179 @@
+{
+    "cases": [
+      {
+        "case_id": "NEJMcpc2100279",
+        "case_summary": "A previously healthy 22-year-old woman presented with an 8-day history of constitutional symptoms, neurological manifestations (headache, neck pain, sonophobia, confusion), and respiratory symptoms (dyspnea). Laboratory findings included leukocytosis, thrombocytopenia, and CSF showing neutrophil-predominant pleocytosis with low glucose. Imaging revealed subarachnoid hemorrhage, cerebral infarcts, pleural effusions, interstitial edema, and multifocal pulmonary nodules. Physical exam notable for meningismus, respiratory distress, mitral regurgitation murmur, petechiae, and splenomegaly.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Infective Endocarditis",
+            "reasoning": "1) Presence of mitral regurgitation murmur suggesting valve vegetation or damage. 2) Multiple systemic manifestations including neurological (subarachnoid hemorrhage, cerebral infarcts) consistent with septic emboli. 3) Petechial rash - classic finding in endocarditis due to microemboli. 4) Pulmonary nodules consistent with septic emboli. 5) Splenomegaly - common in subacute endocarditis. 6) CSF findings (neutrophilic pleocytosis, low glucose) consistent with CNS inflammation due to bacterial seeding. 7) Multisystem involvement (cardiovascular, neurologic, pulmonary, cutaneous) is highly characteristic of endocarditis. 8) Young adult with no apparent risk factors - subacute bacterial endocarditis can occur in structurally normal hearts.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Meningococcemia with Meningitis",
+            "reasoning": "1) Acute onset of high fever, headache, neck stiffness (meningismus), and confusion - classic for bacterial meningitis. 2) Neutrophil-predominant pleocytosis and low glucose in CSF - typical of bacterial meningitis. 3) Petechial rash - characteristic of meningococcemia. 4) Young adult demographic aligns with risk profile. 5) Thrombocytopenia and leukocytosis consistent with severe bacterial infection. 6) Multiple organ involvement including pulmonary manifestations. 7) However, mitral regurgitation murmur is not typically associated with meningococcemia unless there is pre-existing valve disease. 8) Cerebral infarcts and subarachnoid hemorrhage can occur but are less common than in endocarditis.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Systemic Lupus Erythematosus with Libman-Sacks Endocarditis",
+            "reasoning": "1) Young female - demographic fits autoimmune disease profile. 2) Multisystem involvement (cardiac, pulmonary, neurologic, hematologic). 3) Mitral valve involvement with Libman-Sacks endocarditis can cause regurgitation. 4) Neuropsychiatric manifestations including confusion. 5) History of depression could potentially be early neuropsychiatric lupus. 6) Thrombocytopenia - could represent immune-mediated platelet destruction. 7) Subarachnoid hemorrhage and infarcts could be explained by vasculitis. 8) However, the acute presentation and neutrophilic CSF profile is more suggestive of infection than autoimmune disease. 9) Absence of other typical lupus manifestations like arthritis, photosensitivity, or malar rash. 10) Splenomegaly is not a prominent feature of lupus.",
+            "confidence_level": "Low-Medium"
+          },
+          {
+            "diagnosis": "Disseminated Tuberculosis with CNS Involvement",
+            "reasoning": "1) Subacute presentation over 8 days with constitutional symptoms. 2) Pulmonary nodules could represent miliary TB. 3) Meningitis with elevated CSF pressure, pleocytosis and low glucose - consistent with TB meningitis. 4) Multisystem involvement including CNS and pulmonary. 5) Splenomegaly can occur in disseminated TB. 6) However, subarachnoid hemorrhage is uncommon in TB meningitis. 7) Mitral regurgitation murmur is not typically associated with TB unless there's pre-existing valve disease. 8) Petechial rash is not characteristic of TB. 9) The acute progression is faster than typical TB meningitis, which usually has a more indolent course.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Viral Hemorrhagic Fever",
+            "reasoning": "1) Acute presentation with constitutional symptoms, headache, and confusion. 2) Subarachnoid hemorrhage and thrombocytopenia suggests coagulopathy. 3) Multisystem involvement. 4) Petechial rash is consistent with hemorrhagic fevers. 5) However, lack of travel history or exposure risk makes this less likely. 6) Mitral regurgitation murmur is not typically associated with viral hemorrhagic fevers. 7) The neutrophilic CSF profile is more consistent with bacterial than viral infection. 8) Pulmonary nodules are not typical manifestations of viral hemorrhagic fevers. 9) Splenomegaly can occur but along with hepatomegaly, which was not mentioned.",
+            "confidence_level": "Very Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Infective Endocarditis",
+          "justification": "The constellation of findings strongly points to infective endocarditis as the most likely diagnosis. The presence of a new mitral regurgitation murmur is highly suggestive of valve vegetation. The neurological manifestations (subarachnoid hemorrhage, cerebral infarcts) represent septic emboli, a common complication of endocarditis. The pulmonary nodules are consistent with septic pulmonary emboli. The petechial rash and splenomegaly are classic findings in subacute endocarditis. The CSF findings, while nonspecific, are consistent with meningeal inflammation due to embolic seeding. The multisystem involvement (cardiovascular, neurologic, pulmonary, cutaneous) creates a clinical picture that is highly characteristic of endocarditis. While the patient lacks traditional risk factors (IV drug use, prosthetic valve), endocarditis can occur in previously healthy individuals with structurally normal hearts, especially with virulent organisms."
+        },
+        "next_steps_recommended_tests": [
+          "Transesophageal echocardiography (TEE): To visualize cardiac valves and identify vegetations, which would confirm the diagnosis of infective endocarditis.",
+          "Multiple sets of blood cultures: To identify the causative organism and guide antibiotic therapy. Cultures should be obtained before antibiotic administration when possible.",
+          "Immunologic studies (ANA, RF, anti-dsDNA, complement levels): To rule out autoimmune conditions such as SLE that might cause Libman-Sacks endocarditis.",
+          "ESR and CRP: To assess the degree of inflammation and potentially monitor response to therapy.",
+          "MRI brain with contrast: For better characterization of cerebral infarcts and to identify additional embolic complications not visible on CT.",
+          "Complete rheumatologic workup including ANCA, anti-phospholipid antibodies: To exclude vasculitis or other autoimmune conditions that might explain the multisystem involvement."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2300900",
+        "case_summary": "Patient presents with systolic murmur, ECG changes (rightward axis, T-wave inversions, new Q-wave in aVL), and significant structural cardiac abnormalities including left ventricular hypertrophy (18 mm), right ventricular thickening, biatrial dilation, and mild mitral valve thickening. Cardiac MRI showed focal late gadolinium enhancement suggestive of hypertrophic cardiomyopathy, though genetic testing was negative. Exercise testing revealed severe impairment with reduced peak VO₂ and stroke volume. Clinical examination demonstrated elevated jugular venous pressure, Kussmaul's sign, and angiomas. Past medical history includes arthritis and orthopedic surgeries.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Cardiac Amyloidosis",
+            "reasoning": "1) Biventricular thickening with LV hypertrophy of 18mm is characteristic of infiltrative cardiomyopathy. 2) Biatrial dilation suggests restrictive physiology. 3) Elevated jugular venous pressure and Kussmaul's sign indicate right heart failure with restrictive filling. 4) Skin angiomas may represent cutaneous manifestations of systemic disease. 5) History of arthritis could suggest systemic inflammatory condition predisposing to amyloidosis. 6) ECG changes including low voltage relative to wall thickness (inferred from severe LVH). 7) Negative genetic testing for HCM supports an alternative diagnosis. 8) Late gadolinium enhancement pattern on cardiac MRI, while interpreted as HCM, is also consistent with amyloidosis which typically shows diffuse subendocardial enhancement. 9) Poor exercise capacity and stroke volume suggest restrictive physiology.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+            "reasoning": "1) Significant left ventricular hypertrophy (18 mm) exceeds the diagnostic threshold for HCM. 2) Systolic murmur may represent left ventricular outflow tract obstruction. 3) Focal late gadolinium enhancement on cardiac MRI was interpreted as suggestive of HCM. 4) ECG changes including T-wave inversions are common in HCM. 5) Hyperdynamic left ventricle is consistent with HCM. 6) However, negative genetic testing reduces likelihood (though only 60-70% of HCM cases have identifiable genetic mutations). 7) Biatrial enlargement and elevated JVP are less typical for HCM alone. 8) Right ventricular involvement is less common in classic HCM. 9) Kussmaul's sign suggests restrictive physiology, which is atypical for pure HCM.",
+            "confidence_level": "Medium-High"
+          },
+          {
+            "diagnosis": "Fabry Disease",
+            "reasoning": "1) Can present with significant left ventricular hypertrophy mimicking HCM. 2) Negative genetic testing for sarcomeric mutations (typical HCM) would not detect Fabry disease. 3) Can involve multiple organ systems, potentially explaining arthritis history. 4) Can display late gadolinium enhancement on cardiac MRI, typically in the basal inferolateral wall. 5) However, lack of mention of other systemic manifestations (renal dysfunction, neuropathy, angiokeratomas) makes this less likely. 6) Right ventricular involvement is less common. 7) Typically presents earlier in life with non-cardiac symptoms before cardiac manifestations develop. 8) Restriction pattern with elevated JVP and Kussmaul's sign is not typical for Fabry disease.",
+            "confidence_level": "Medium-Low"
+          },
+          {
+            "diagnosis": "Constrictive Pericarditis",
+            "reasoning": "1) Elevated jugular venous pressure and Kussmaul's sign are classic findings. 2) History of prior surgeries could potentially be related to a previous inflammatory/infectious process. 3) Can present with exercise intolerance and reduced stroke volume. 4) However, significant biventricular hypertrophy would be unusual. 5) Late gadolinium enhancement of the myocardium would not be expected. 6) No mention of pericardial thickening or calcification on imaging. 7) Systolic murmur is not typical. 8) ECG findings would more likely show low voltage rather than the described changes.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Sarcoidosis with Cardiac Involvement",
+            "reasoning": "1) Can present with myocardial thickening and infiltration. 2) Potential for multisystem involvement, possibly explaining arthritis history. 3) Late gadolinium enhancement on cardiac MRI, typically in a patchy, non-coronary distribution. 4) Could explain ECG changes. 5) However, biventricular involvement with such severe hypertrophy would be unusual. 6) Restrictive hemodynamics with Kussmaul's sign can occur but is less common than in other infiltrative diseases. 7) No mention of pulmonary involvement, which is common in sarcoidosis. 8) Angiomas are not typical manifestations of sarcoidosis.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Cardiac Amyloidosis",
+          "justification": "The clinical picture is most consistent with cardiac amyloidosis, presenting as an infiltrative cardiomyopathy. The combination of biventricular thickening, biatrial dilation, restrictive physiology (evidenced by elevated JVP and Kussmaul's sign), and significant exercise impairment with reduced stroke volume strongly suggests an infiltrative process. While the cardiac MRI was interpreted as suggestive of HCM, the pattern of late gadolinium enhancement in amyloidosis can sometimes be confused with HCM. The negative genetic testing for HCM further supports an alternative diagnosis. The history of arthritis could suggest a chronic inflammatory condition predisposing to amyloidosis (particularly AL amyloidosis), while the presence of angiomas may represent cutaneous manifestations of systemic disease. The treatment with diuretics suggests volume overload, which is more common with restrictive cardiomyopathies like amyloidosis than with typical HCM."
+        },
+        "next_steps_recommended_tests": [
+          "Serum and urine protein electrophoresis with immunofixation to evaluate for AL amyloidosis by detecting monoclonal light chains.",
+          "99mTc-PYP or DPD nuclear scintigraphy to evaluate for ATTR amyloidosis, which has high sensitivity and specificity for transthyretin amyloid deposition.",
+          "Endomyocardial biopsy with Congo red staining for definitive diagnosis of cardiac amyloidosis and typing of amyloid protein.",
+          "TTR gene sequencing to evaluate for hereditary ATTR amyloidosis, even with negative HCM genetic panel.",
+          "Comprehensive evaluation for systemic involvement including renal function, proteinuria assessment, liver function tests, and complete blood count.",
+          "Cardiac biomarkers (troponin and NT-proBNP) to assess disease severity and prognosis.",
+          "Hemodynamic assessment via right heart catheterization to confirm restrictive physiology."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309383",
+        "case_summary": "A 73-year-old man with a 22-month history of recurrent fever, initially with respiratory symptoms. Imaging revealed pulmonary nodules, hepatic lesions with central necrosis, and splenomegaly. Liver and bone marrow biopsies showed nonnecrotizing granulomas, fibrin-ring granulomas, and portal histiocytosis. Cultures from hepatic lesions grew E. coli and Enterococcus faecalis. Laboratory findings included leukopenia, anemia, and elevated alkaline phosphatase. History notable for military service overseas, pet exposure, and family history of autoimmune conditions. Multiple antibiotic courses and prednisone provided only temporary improvement.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Q Fever (Coxiella burnetii infection)",
+            "reasoning": "1) Prolonged recurrent fever is classic for chronic Q fever. 2) Hepatic involvement with fibrin-ring granulomas is highly characteristic of Q fever. 3) Splenomegaly is common in chronic Q fever. 4) Military service overseas suggests potential exposure to the pathogen. 5) Pet exposure (likely including cats, dogs, or other domesticated animals) is a risk factor for Q fever. 6) Partial response to doxycycline supports this diagnosis, as tetracyclines are effective against Coxiella. 7) Negative standard infectious stains are expected as Coxiella requires specialized testing. 8) Secondary bacterial infections (E. coli, Enterococcus) could represent superinfection of damaged tissue. 9) Granulomatous inflammation in liver and bone marrow is consistent with disseminated Q fever. 10) Chronicity of symptoms (22 months) fits with chronic Q fever.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Disseminated Mycobacterial Infection (TB or Non-tuberculous)",
+            "reasoning": "1) Chronic recurrent fever over 22 months. 2) Granulomatous inflammation in multiple organs. 3) Pulmonary nodules could represent pulmonary TB or NTM infection. 4) Hepatic and splenic involvement occurs in disseminated mycobacterial disease. 5) Military service overseas may have increased exposure risk. 6) Partial response to antibiotics could reflect some activity against certain mycobacteria. 7) However, fibrin-ring granulomas are not typical for mycobacterial infections. 8) Negative staining for acid-fast bacilli on biopsy argues against this diagnosis. 9) The presence of E. coli and Enterococcus in hepatic lesions would be unusual for primary mycobacterial infection.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Pyogenic Liver Abscess with Metastatic Infections",
+            "reasoning": "1) Culture-positive hepatic lesions with E. coli and Enterococcus faecalis. 2) Recurrent fever consistent with incompletely treated infection. 3) Hepatic lesions with central necrosis suggesting abscess formation. 4) Partial response to antibiotics. 5) History of cholecystectomy may indicate previous biliary disease predisposing to liver abscess. 6) However, the presence of granulomas rather than pure abscess on biopsy is atypical. 7) The 22-month duration without progression to fulminant sepsis is unusual for untreated pyogenic abscess. 8) Multiple organ involvement with identical pathology suggests a systemic process beyond primary liver abscess.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Sarcoidosis with Secondary Infection",
+            "reasoning": "1) Multisystem granulomatous disease affecting lungs, liver, and possibly bone marrow. 2) Nonnecrotizing granulomas are classic for sarcoidosis. 3) Family history of autoimmune conditions may suggest genetic predisposition to immune dysregulation. 4) Partial response to prednisone supports an inflammatory component. 5) However, normal ACE levels argue somewhat against active sarcoidosis. 6) Fibrin-ring granulomas are not typical for sarcoidosis. 7) The presence of bacterial cultures from lesions would be unusual. 8) The prolonged febrile course without more prominent pulmonary involvement is atypical for sarcoidosis.",
+            "confidence_level": "Low-Medium"
+          },
+          {
+            "diagnosis": "Brucellosis",
+            "reasoning": "1) Recurrent fever over prolonged period. 2) Military service overseas may have exposed patient to Brucella. 3) Hepatic and splenic involvement is common in brucellosis. 4) Granulomatous lesions can occur in brucellosis. 5) Could explain partial response to doxycycline, which has activity against Brucella. 6) However, the presence of fibrin-ring granulomas is not typically associated with brucellosis. 7) The growth of E. coli and Enterococcus rather than Brucella from hepatic lesions argues against this diagnosis. 8) The 22-month duration without definitive diagnosis is unusual for brucellosis, which typically has distinctive serological markers.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Q Fever (Coxiella burnetii infection)",
+          "justification": "The clinical presentation most strongly suggests chronic Q fever, particularly given the combination of prolonged recurrent fever, hepatic involvement with fibrin-ring granulomas (which are highly characteristic of Q fever), and splenomegaly. The patient's history of potential exposure through military service overseas and pet contact further supports this diagnosis. The partial response to doxycycline is consistent with Q fever, as tetracyclines are first-line therapy but may require prolonged treatment for chronic infection. Negative standard infectious stains are expected with Coxiella, which requires specialized immunohistochemical staining or PCR for detection. The secondary bacterial infections (E. coli, Enterococcus) could represent opportunistic infection of damaged tissue. The chronicity of symptoms and multiorgan involvement with granulomatous inflammation is highly consistent with chronic Q fever."
+        },
+        "next_steps_recommended_tests": [
+          "Serological testing for Coxiella burnetii phase I and phase II antibodies, with high phase I IgG titers (≥1:800) strongly suggesting chronic Q fever.",
+          "PCR for Coxiella burnetii DNA from blood, hepatic tissue, and bone marrow samples to confirm the diagnosis.",
+          "Immunohistochemical staining of liver and bone marrow biopsy specimens specifically for Coxiella burnetii antigens.",
+          "Transesophageal echocardiography to evaluate for endocarditis, a common manifestation of chronic Q fever, especially given the patient's age and cardiovascular risk factors.",
+          "CT-PET scan to identify areas of active inflammation and potential vascular infection sites that may require additional intervention.",
+          "Extended antibiotic therapy with doxycycline plus hydroxychloroquine, which is the recommended regimen for chronic Q fever, potentially for 18-24 months depending on clinical and serological response.",
+          "Serological testing for other potential zoonotic infections including Brucella, Bartonella, and Leishmania to exclude coinfection or alternative diagnoses."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309500",
+        "case_summary": "A 30-year-old woman presented six days postpartum with fever, chills, and abdominal pain following a spontaneous vaginal delivery at 35 weeks complicated by a second-degree perineal laceration. She developed inguinal pustules, ongoing vaginal bleeding, leukocytosis, and progressive symptoms despite broad-spectrum antibiotics. Imaging showed increasing ascites, pelvic fluid collections, and parametrial abscesses. Skin lesions progressed to ulceration despite drainage. She had a history of inflammatory skin conditions (rosacea, acne, hidradenitis suppurativa) and prior abdominal conditions (diverticulitis, epiploic appendagitis). Echocardiogram revealed dilated right heart chambers, and she developed anasarca.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Septic Pelvic Thrombophlebitis",
+            "reasoning": "1) Postpartum timing is classic for this condition, typically presenting within 1-2 weeks after delivery. 2) Fever and abdominal pain that persist despite broad-spectrum antibiotics is characteristic. 3) History of perineal laceration provides a potential entry point for infection. 4) Pelvic fluid collections and parametrial abscesses on imaging are consistent with pelvic infection. 5) Development of right heart dilation and anasarca suggests possible septic pulmonary emboli affecting right heart function. 6) Skin lesions could represent septic embolic phenomena from infected pelvic veins. 7) The lack of response to antibiotics alone is typical, as anticoagulation is often required for treatment. 8) However, MRI reportedly did not show thrombosis, though small vessel thrombophlebitis might have been missed. 9) Leukocytosis with neutrophil predominance supports ongoing bacterial infection.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Necrotizing Fasciitis with Endometritis",
+            "reasoning": "1) Progressive skin lesions evolving from pustules to ulceration despite drainage and antibiotics is concerning for necrotizing soft tissue infection. 2) History of inflammatory skin conditions (hidradenitis suppurativa) may predispose to complicated skin infections. 3) Leukocytosis with neutrophil predominance is consistent with severe bacterial infection. 4) Endometrial biopsy showing dense neutrophilic infiltration indicates concurrent endometritis. 5) Poor response to initial antibiotics could indicate resistant organisms or deep tissue infection requiring surgical debridement. 6) The postpartum state is a risk factor for both endometritis and necrotizing fasciitis. 7) However, typical rapid progression of necrotizing fasciitis (hours to days) seems longer in this case. 8) The distribution of skin lesions (inguinal) and systemic manifestations (anasarca) are somewhat atypical for isolated necrotizing fasciitis.",
+            "confidence_level": "Medium-High"
+          },
+          {
+            "diagnosis": "Postpartum Pyomyoma (Infected Fibroid)",
+            "reasoning": "1) Fever and abdominal pain in postpartum period. 2) Uterine tenderness on examination. 3) Pelvic fluid collections could represent rupture or leakage from an infected fibroid. 4) Poor response to antibiotics could occur if the infection is walled off within a fibroid. 5) Endometrial biopsy showing neutrophilic infiltration could be adjacent to an infected fibroid. 6) However, no specific mention of fibroids in the imaging findings makes this less likely. 7) The systemic manifestations (anasarca, skin lesions) would be unusual for an isolated pyomyoma. 8) The right heart dilation would not be typically explained by this diagnosis alone.",
+            "confidence_level": "Low-Medium"
+          },
+          {
+            "diagnosis": "Severe Peripartum Cardiomyopathy with Secondary Infection",
+            "reasoning": "1) Dilated right heart chambers on echocardiogram. 2) Development of anasarca suggesting heart failure. 3) Timing in peripartum period matches risk period for peripartum cardiomyopathy. 4) Initiation of furosemide suggests treatment for volume overload. 5) However, the prominent infectious symptoms (fever, leukocytosis, abscesses) would be unusual as the primary presentation of cardiomyopathy. 6) The skin lesions would not be explained by cardiomyopathy alone. 7) Typically, peripartum cardiomyopathy affects the left ventricle first, with right heart dilation occurring later. 8) The pelvic fluid collections and parametrial abscesses point more strongly toward an infectious rather than primary cardiac etiology.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Disseminated Fungal Infection (e.g., Candida)",
+            "reasoning": "1) Poor response to multiple broad-spectrum antibiotics. 2) Addition of micafungin suggests clinical suspicion for fungal infection. 3) Progressive nature of infection despite antibacterial therapy. 4) Pustular skin lesions could represent fungal dissemination. 5) Postpartum state is an immunomodulated condition that can increase risk for opportunistic infections. 6) However, fungal infections typically progress more slowly than the timeline presented. 7) The endometrial biopsy showing neutrophilic infiltration rather than fungal elements argues somewhat against this. 8) The specific pattern of pelvic infection with parametrial abscesses is more typical of bacterial than fungal disease.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Septic Pelvic Thrombophlebitis",
+          "justification": "The clinical presentation strongly suggests septic pelvic thrombophlebitis, a serious complication of postpartum infections. The timing (six days postpartum), persistent fever despite broad-spectrum antibiotics, and pelvic fluid collections/parametrial abscesses all align with this diagnosis. The development of right heart dilation and anasarca suggests pulmonary involvement, likely from septic emboli originating from infected pelvic veins. The skin lesions progressing from pustules to ulceration may represent septic embolic phenomena. While the MRI reportedly did not show thrombosis, small vessel thrombophlebitis can be difficult to visualize. The patient's poor response to antibiotics alone is characteristic of septic thrombophlebitis, which often requires anticoagulation in addition to antimicrobial therapy. Her history of inflammatory conditions may have predisposed her to more severe infection or altered her immune response. The combination of findings cannot be fully explained by any single alternative diagnosis."
+        },
+        "next_steps_recommended_tests": [
+          "CT venography or MR venography of the pelvis with specific attention to the ovarian veins and pelvic venous plexus to better evaluate for thrombophlebitis that may have been missed on initial imaging.",
+          "Blood cultures and cultures of the draining skin lesions to identify causative organisms and guide antimicrobial therapy.",
+          "Anticoagulation therapy (heparin) as both diagnostic and therapeutic intervention, with clinical response supporting the diagnosis of septic thrombophlebitis.",
+          "CT pulmonary angiogram to evaluate for septic pulmonary emboli, which would explain the right heart dilation and support the diagnosis of septic thrombophlebitis.",
+          "Surgical consultation for possible exploration and debridement of necrotic tissue if necrotizing fasciitis cannot be excluded.",
+          "Echocardiogram with focus on valvular structures to evaluate for endocarditis as a complication of septic thrombophlebitis.",
+          "Consider hysterectomy if infection remains uncontrolled despite maximal medical therapy, as the infected uterus may be the persistent source of septic emboli."
+        ]
+      }
+    ]
+  }

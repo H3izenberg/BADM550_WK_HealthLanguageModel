@@ -1,0 +1,164 @@
+{
+    "cases": [
+      {
+        "case_id": "NEJMcpc2100279",
+        "case_summary": "A 22-year-old woman presented with headache, fever, and respiratory failure. Initial symptoms included nausea, myalgias, chills, vomiting, neck pain, and photophobia, followed by confusion, dyspnea, and worsening headache. Examination showed respiratory distress, meningismus, tachycardia, thrombocytopenia, splenomegaly, and a new holosystolic murmur. Imaging revealed subarachnoid hemorrhage, cortical infarcts, pulmonary opacities, and splenic hypodensities. Laboratory findings indicated leukocytosis, elevated d-dimer, and protein abnormalities. CSF analysis showed neutrophilic pleocytosis and elevated opening pressure. The patient was empirically treated with broad-spectrum antimicrobials and supportive care.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Infective Endocarditis with Septic Emboli",
+            "reasoning": "The presence of fever, new-onset murmur, splenic infarcts, cortical infarcts, respiratory failure, and septic embolic findings on imaging strongly suggest infective endocarditis. The patient’s risk factors include health care exposure and possible transient bacteremia. The subarachnoid hemorrhage and cortical infarcts could be due to embolic strokes from infected cardiac valves.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Meningococcal Meningitis with Septic Shock",
+            "reasoning": "The patient has fever, photophobia, neck stiffness, altered mental status, and thrombocytopenia, consistent with bacterial meningitis. The subarachnoid hemorrhage could be secondary to vasculitis or septic thrombosis. However, the lack of classical meningococcal purpura and normal coagulation profile lowers confidence.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Disseminated Tuberculosis (TB)",
+            "reasoning": "Miliary TB can present with pulmonary nodules, neurological involvement, splenic infarcts, and systemic symptoms. The patient’s prior travel history to the Caribbean is relevant. However, rapid progression of symptoms and absence of granulomatous findings in initial testing reduce the likelihood.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Viral Hemorrhagic Fever (VHF) or Severe Rickettsial Infection",
+            "reasoning": "The combination of thrombocytopenia, diffuse petechiae, neurological symptoms, and respiratory distress raises concerns for VHF or rickettsial disease. Travel history does not strongly support VHF, but undetected vector-borne exposure remains a possibility.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Primary Central Nervous System Vasculitis (PACNS) or Autoimmune Vasculitis",
+            "reasoning": "The subarachnoid hemorrhage and cortical infarcts raise suspicion for vasculitis. Family history of autoimmune disease (cutaneous lupus erythematosus, Hashimoto’s) could suggest a predisposition. However, absence of autoantibodies and the presence of systemic infection markers make an infectious etiology more likely.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Infective Endocarditis with Septic Emboli",
+          "justification": "The patient's persistent fever, new cardiac murmur, multiple infarcts (brain and spleen), thrombocytopenia, and septic embolic phenomena strongly suggest infective endocarditis. Imaging findings, respiratory failure, and neutrophilic pleocytosis in CSF further support this diagnosis. Empirical antibiotic therapy aligns with suspected bacterial endocarditis."
+        },
+        "next_steps_recommended_tests": [
+          "Echocardiography (preferably transesophageal) to confirm vegetations and valve involvement.",
+          "Blood cultures to identify the causative organism and guide antibiotic therapy.",
+          "PCR and serology for atypical bacterial infections, including Coxiella burnetii (Q fever) and Bartonella species."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2300900",
+        "case_summary": "A 54-year-old male athlete with progressive exertional dyspnea and chest pain over 17 months. Initial testing revealed new systolic murmur, T-wave inversions, mild mitral regurgitation, and concentric left ventricular thickening (18mm) with late gadolinium enhancement on cardiac MRI. Cardiopulmonary exercise testing showed impaired oxygen consumption and stroke volume augmentation. Elevated NT-proBNP and troponin suggest cardiac stress. The patient was treated with diuretics for suspected heart failure.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+            "reasoning": "The presence of left ventricular hypertrophy (18mm), abnormal ECG changes, late gadolinium enhancement on MRI, and progressive exertional dyspnea strongly suggest hypertrophic cardiomyopathy. The absence of outflow obstruction and a negative genetic panel, however, make the diagnosis atypical but still probable.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Cardiac Amyloidosis",
+            "reasoning": "Concentric left ventricular thickening, biatrial enlargement, right ventricular involvement, and elevated NT-proBNP raise suspicion for cardiac amyloidosis. However, the absence of classic low voltage on ECG or restrictive hemodynamics lowers the probability.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Infiltrative Cardiomyopathy (Sarcoidosis or Fabry Disease)",
+            "reasoning": "The MRI findings with late gadolinium enhancement, conduction abnormalities, and systemic involvement suggest a possible infiltrative process such as sarcoidosis or Fabry disease. However, no history of systemic sarcoidosis or characteristic Fabry features (e.g., cornea verticillata) were noted.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Exercise-Induced Cardiac Remodeling with Early Heart Failure",
+            "reasoning": "As an endurance athlete, the patient may have developed physiological cardiac remodeling. However, the persistence of symptoms, ECG abnormalities, and elevated biomarkers argue against benign remodeling and suggest a pathological process.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Restrictive Pericarditis",
+            "reasoning": "The presence of Kussmaul's sign, jugular venous distension, and exercise intolerance raise the possibility of restrictive pericarditis. However, the absence of pericardial thickening on imaging makes this less likely.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+          "justification": "The combination of progressive exertional dyspnea, LV hypertrophy (18mm), abnormal ECG with T-wave inversions, late gadolinium enhancement, and impaired cardiopulmonary exercise test results support a diagnosis of hypertrophic cardiomyopathy, likely in a nonobstructive form."
+        },
+        "next_steps_recommended_tests": [
+          "Technetium-99m PYP scintigraphy or serum/urine free light chain analysis to rule out cardiac amyloidosis.",
+          "Cardiac biopsy if amyloidosis or other infiltrative cardiomyopathies remain a concern.",
+          "Holter monitoring for arrhythmia risk assessment in HCM."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309383",
+        "case_summary": "A 73-year-old man with recurrent fever, hepatic lesions, and splenomegaly over a 22-month period. He had intermittent antibiotic treatment without resolution. Imaging showed progressive hepatic and splenic hypodensities, and biopsy revealed nonnecrotizing granulomas. Cultures were intermittently positive for Klebsiella pneumoniae, Escherichia coli, and Enterococcus faecalis. Extensive infectious, autoimmune, and malignancy workup was largely negative. Despite treatment with doxycycline and multiple courses of broad-spectrum antibiotics, symptoms persisted.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Disseminated Bartonellosis",
+            "reasoning": "The presence of persistent fever, hepatic and splenic granulomas, a history of pet exposure, and negative initial blood cultures raise suspicion for disseminated Bartonella infection. This is supported by granulomatous hepatitis with fibrin-ring granulomas. Bartonella serology or PCR is warranted.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Hepatic Tuberculosis",
+            "reasoning": "Chronic febrile illness with granulomatous inflammation and splenic involvement is consistent with hepatic TB. However, multiple negative tuberculosis tests, including AFB stains and cultures, make this diagnosis less likely.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Brucellosis",
+            "reasoning": "Brucellosis can cause hepatosplenic granulomas and prolonged febrile illness. However, the patient lacks occupational exposure (e.g., livestock handling), and serologic tests for Brucella were negative, making this a less likely diagnosis.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Disseminated Fungal Infection (Histoplasmosis or Cryptococcosis)",
+            "reasoning": "Histoplasmosis and cryptococcosis can present with hepatosplenic granulomas, fever, and weight loss. Negative fungal cultures and antigen tests lower the probability, though fungal infections may be difficult to detect in immunocompetent hosts.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Primary Hepatic Lymphoma or Other Malignancy",
+            "reasoning": "Persistent hepatic lesions with no clear infectious etiology raise concern for malignancy, particularly hepatic lymphoma. However, normal flow cytometry and absence of systemic B symptoms make this diagnosis less probable.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Disseminated Bartonellosis",
+          "justification": "The combination of recurrent fever, hepatosplenic granulomas with fibrin-ring features, pet exposure, and negative routine cultures suggests chronic Bartonella infection. This condition often requires serologic or molecular diagnostic confirmation and prolonged antibiotic therapy."
+        },
+        "next_steps_recommended_tests": [
+          "Bartonella serology and PCR from blood and liver biopsy samples.",
+          "Repeat blood cultures using specialized media for fastidious organisms.",
+          "Empirical treatment with doxycycline and rifampin pending diagnostic confirmation."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309500",
+        "case_summary": "A 30-year-old postpartum woman developed persistent fever, worsening abdominal pain, leukocytosis, ascites, skin lesions progressing to necrotic ulcers, hepatosplenomegaly, and signs suggestive of septic emboli. Imaging showed pelvic fluid collections, and blood cultures were negative. The patient had a history of hidradenitis suppurativa and prior diverticulitis. Despite broad-spectrum antibiotics, her symptoms progressed, with new skin lesions and worsening systemic involvement.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Septic Pelvic Thrombophlebitis",
+            "reasoning": "Persistent fever, pelvic fluid collections, postpartum timing strongly suggests septic thrombophlebitis; however, absence of clear venous thrombosis on imaging is atypical.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Necrotizing Fasciitis",
+            "reasoning": "Rapidly progressing ulcerative skin lesions, systemic symptoms, postpartum setting could indicate necrotizing infection; however, lesions initially localized and imaging inconsistent.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Endometritis complicated by Pelvic Abscess",
+            "reasoning": "Fever, abdominal pain, postpartum state, and imaging findings consistent with infection/abscess; yet, ongoing systemic involvement atypical for uncomplicated endometritis.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Disseminated Intravascular Coagulation (DIC)",
+            "reasoning": "Elevated D-dimer, fibrinogen, skin lesions suggest DIC, but coagulation abnormalities relatively mild and platelet count elevated.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Pyoderma Gangrenosum (PG)",
+            "reasoning": "Ulcerative skin lesions might suggest PG associated with underlying inflammatory bowel disease or autoimmune conditions; however, severe systemic findings argue against it.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Septic Pelvic Thrombophlebitis",
+          "justification": "Persistent postpartum fever, pelvic abscess formation, rapidly progressive skin lesions suggesting septic embolic phenomena, hepatosplenomegaly, and severe systemic involvement strongly indicate septic pelvic thrombophlebitis."
+        },
+        "next_steps_recommended_tests": [
+          "Detailed pelvic MRI or MR venography to visualize venous thrombosis.",
+          "Blood and wound cultures to guide antibiotic therapy.",
+          "Possible surgical exploration and debridement if necrotizing infection suspected."
+        ]
+      }
+    ]
+  }

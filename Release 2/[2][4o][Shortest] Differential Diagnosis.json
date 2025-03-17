@@ -1,0 +1,172 @@
+{
+    "cases": [
+      {
+        "case_id": "NEJMcpc2100279",
+        "case_summary": "A 22-year-old woman with an 8-day viral prodrome develops headache, confusion, and respiratory failure. Imaging reveals subarachnoid hemorrhage (SAH) and infarcts, with thrombocytopenia and sepsis.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP)",
+            "reasoning": "The combination of thrombocytopenia, neurological symptoms (confusion), infarcts, and possible microangiopathic hemolytic anemia suggests TTP. The presence of SAH is unusual but could result from severe endothelial damage and microvascular thrombosis. Viral prodrome may have triggered the immune response leading to ADAMTS13 deficiency.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Bacterial Meningitis with Sepsis",
+            "reasoning": "The patient’s viral prodrome, fever, headache, and confusion suggest possible bacterial superinfection leading to meningitis and sepsis. SAH and infarcts could result from vasculitis or septic emboli. Thrombocytopenia may be secondary to sepsis-induced disseminated intravascular coagulation (DIC).",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Disseminated Intravascular Coagulation (DIC) Secondary to Sepsis",
+            "reasoning": "Sepsis can lead to DIC, causing thrombocytopenia, infarcts due to microthrombi, and bleeding tendencies like SAH. The viral prodrome could indicate an initial infection that progressed to sepsis. However, DIC alone is unlikely to explain the patient's neurological symptoms in the absence of shock or multiorgan failure.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Viral Hemorrhagic Fever (VHF)",
+            "reasoning": "A preceding viral illness, thrombocytopenia, and hemorrhagic manifestations (SAH) raise concern for a viral hemorrhagic fever. However, VHF typically presents with more systemic involvement (e.g., liver dysfunction, profound shock) and is less common in this setting.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Primary Central Nervous System Vasculitis (PACNS)",
+            "reasoning": "PACNS could explain the infarcts and hemorrhage but is rare in young adults and less likely to present with thrombocytopenia or sepsis. The viral prodrome does not fit well with PACNS, making it a less likely diagnosis.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP)",
+          "justification": "TTP is the most likely diagnosis given the presence of thrombocytopenia, neurological involvement (confusion, infarcts), and possible microangiopathic hemolysis. The viral prodrome may have triggered ADAMTS13 deficiency, leading to widespread microvascular thrombosis and SAH. Early recognition and plasma exchange therapy are crucial for treatment."
+        },
+        "next_steps_recommended_tests": [
+          "ADAMTS13 activity assay to confirm TTP.",
+          "Peripheral blood smear to assess for schistocytes, supporting microangiopathic hemolytic anemia.",
+          "Coagulation panel (PT, aPTT, fibrinogen, D-dimer) to rule out DIC.",
+          "Lumbar puncture with CSF analysis to assess for bacterial or viral meningitis.",
+          "Blood cultures to identify potential sepsis pathogens."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2300900",
+        "case_summary": "A 54-year-old athlete presents with 17 months of progressive dyspnea and chest pain. ECG and imaging show left ventricular (LV) thickening and reduced exercise capacity, suggestive of hypertrophic cardiomyopathy (HCM).",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+            "reasoning": "LV hypertrophy on imaging, progressive dyspnea, and chest pain are hallmark features of HCM. The patient’s athletic background may have delayed diagnosis, but progressive symptoms and reduced exercise capacity suggest worsening obstruction or diastolic dysfunction. Family history and genetic testing may further support this diagnosis.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Cardiac Amyloidosis",
+            "reasoning": "Infiltrative cardiomyopathy such as amyloidosis can mimic HCM with LV thickening and reduced exercise tolerance. The progressive nature of symptoms in an older patient raises suspicion. If present, low-voltage ECG relative to LV thickness, abnormal strain patterns on echocardiography, and biomarker elevation (NT-proBNP, troponin) would support this diagnosis.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Hypertensive Heart Disease",
+            "reasoning": "Chronic hypertension can lead to LV hypertrophy and diastolic dysfunction. However, hypertensive heart disease usually presents with more diffuse LV thickening without the asymmetric septal hypertrophy characteristic of HCM. The history of progressive exertional symptoms suggests a more specific cardiomyopathy rather than hypertensive changes alone.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Athlete’s Heart",
+            "reasoning": "Athlete’s heart can cause LV thickening, but it is usually non-pathological and does not cause significant symptoms like dyspnea or chest pain. Additionally, HCM typically presents with diastolic dysfunction and reduced exercise tolerance, whereas athlete’s heart maintains or enhances cardiac performance. Lack of regression after a period of deconditioning would favor a pathological process.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Fabry Disease",
+            "reasoning": "A late-onset presentation of Fabry disease can cause unexplained LV hypertrophy and cardiac symptoms. Additional systemic signs such as neuropathic pain, renal dysfunction, or corneal opacities would support this diagnosis. Enzyme assays and genetic testing are needed to confirm.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+          "justification": "The combination of progressive dyspnea, chest pain, LV hypertrophy, and reduced exercise tolerance strongly supports HCM. The patient’s age and athletic background may have delayed symptom recognition. Echocardiography findings (asymmetric septal hypertrophy, LV outflow tract obstruction) and possible genetic predisposition further confirm the diagnosis."
+        },
+        "next_steps_recommended_tests": [
+          "Echocardiography with Doppler to assess LV outflow tract obstruction and diastolic function.",
+          "Cardiac MRI to evaluate myocardial fibrosis and differentiating from infiltrative disease (e.g., amyloidosis).",
+          "Genetic testing for HCM-associated mutations if family history suggests inherited cardiomyopathy.",
+          "Serum and urine protein electrophoresis with immunofixation to rule out amyloidosis.",
+          "Alpha-galactosidase A activity assay or genetic testing to screen for Fabry disease."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309383",
+        "case_summary": "A 73-year-old man presents with a 22-month history of recurrent fever, progressive hepatic lesions, splenomegaly, and granulomas. A hepatic abscess culture later grew *Enterococcus faecalis*.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Chronic Hepatic Abscess due to Enterococcus faecalis",
+            "reasoning": "The presence of *E. faecalis* in a hepatic abscess suggests chronic infection as the primary etiology. *Enterococcus* species can originate from gastrointestinal translocation, biliary infections, or hematogenous spread, potentially from endocarditis. The chronicity and granulomatous response may indicate a persistent or inadequately treated infection.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Hepatosplenic Tuberculosis",
+            "reasoning": "Granulomas in the liver and spleen raise suspicion for disseminated tuberculosis. The chronic nature, fever, and progressive lesions fit TB, particularly in an immunocompromised host. However, the isolation of *E. faecalis* suggests a primary bacterial etiology rather than TB, though coinfection remains possible.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Brucellosis",
+            "reasoning": "Brucellosis is a chronic zoonotic infection that can present with recurrent fever, hepatosplenomegaly, and granulomas. It is associated with abscess formation in some cases. However, the isolation of *E. faecalis* makes primary brucellosis less likely unless it represents a secondary infection.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Fungal Hepatosplenic Infection (e.g., Histoplasmosis)",
+            "reasoning": "Chronic granulomatous disease of the liver and spleen can be caused by endemic fungal infections such as histoplasmosis, especially in immunosuppressed patients. However, fungal cultures or antigen testing would be needed, and the presence of *E. faecalis* suggests bacterial rather than fungal origin.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Chronic Granulomatous Disease (CGD) with Superimposed Infection",
+            "reasoning": "Although CGD is more common in younger patients, older individuals can have milder cases with recurrent granulomatous infections. The persistent hepatic lesions and recurrent fever fit, but the presence of *E. faecalis* as a single pathogen makes an acquired immune deficiency or localized hepatic infection more likely than a primary CGD diagnosis.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Chronic Hepatic Abscess due to Enterococcus faecalis",
+          "justification": "The 22-month history of fever, hepatic lesions, and granulomas is best explained by a chronic hepatic abscess. The isolation of *Enterococcus faecalis* suggests a persistent intrahepatic infection, likely due to hematogenous spread, biliary disease, or underlying gastrointestinal pathology. Further evaluation for an occult source (e.g., endocarditis) is warranted."
+        },
+        "next_steps_recommended_tests": [
+          "Echocardiography (preferably transesophageal) to evaluate for endocarditis as a potential source of *E. faecalis* bacteremia.",
+          "CT or MRCP (Magnetic Resonance Cholangiopancreatography) to assess for biliary obstruction or primary hepatobiliary disease.",
+          "Tuberculin skin test (TST) or interferon-gamma release assay (IGRA) to rule out hepatosplenic tuberculosis.",
+          "Brucella serology and blood cultures to exclude chronic brucellosis.",
+          "Fungal cultures and antigen testing (e.g., Histoplasma urine antigen) if clinical suspicion remains high for fungal involvement."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309500",
+        "case_summary": "A 30-year-old postpartum woman with endometritis presents with persistent fever and abdominal pain. Imaging reveals ascites, anasarca, and pelvic fluid collections. She later develops ulcerative skin lesions.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Septic Pelvic Thrombophlebitis (SPT)",
+            "reasoning": "Postpartum endometritis is a known risk factor for septic pelvic thrombophlebitis, which can present with persistent fever despite antibiotic therapy. The presence of pelvic fluid collections, ascites, and systemic involvement, including ulcerative skin lesions suggestive of septic emboli, supports this diagnosis. Imaging may not always reveal thrombi clearly, making clinical suspicion critical.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Necrotizing Fasciitis",
+            "reasoning": "The development of ulcerative skin lesions in a postpartum patient with ongoing fever raises concern for necrotizing soft tissue infection. However, the primary focus appears to be in the abdomen and pelvis rather than at an incision or perineal site, making a deep-seated infection such as septic thrombophlebitis more likely.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Endometritis Complicated by Pelvic Abscess",
+            "reasoning": "Postpartum endometritis can progress to pelvic abscess formation, leading to persistent fever and systemic inflammation. While abscesses can cause secondary bacteremia and embolic phenomena, the widespread distribution of findings, including anasarca and skin ulcerations, suggests a more systemic process like SPT rather than a localized abscess alone.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Disseminated Intravascular Coagulation (DIC)",
+            "reasoning": "Persistent infection and sepsis can lead to DIC, which could explain thrombocytopenia, widespread vascular involvement, and skin manifestations. However, DIC typically presents with overt bleeding or clotting abnormalities, and there is no clear evidence of coagulopathy in the given case.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Pyoderma Gangrenosum",
+            "reasoning": "The presence of ulcerative skin lesions could suggest an autoimmune condition such as pyoderma gangrenosum, particularly if the patient has an underlying inflammatory disorder. However, the systemic findings, including ascites and persistent fever, make an infectious cause much more likely.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Septic Pelvic Thrombophlebitis (SPT)",
+          "justification": "The combination of postpartum endometritis, persistent fever despite antibiotics, pelvic fluid collections, anasarca, and ulcerative skin lesions suggests septic pelvic thrombophlebitis with septic emboli. This condition occurs due to infected thrombi in the pelvic veins, leading to persistent infection and embolic complications. Imaging may not always show thrombosis, making clinical suspicion crucial."
+        },
+        "next_steps_recommended_tests": [
+          "Pelvic MRI or MR venography to assess for thrombosis in the ovarian or pelvic veins.",
+          "Blood cultures to identify bacteremia and guide antibiotic therapy.",
+          "Coagulation studies (D-dimer, fibrinogen) to evaluate for DIC.",
+          "Wound cultures or biopsy of skin lesions to assess for necrotizing fasciitis or other etiologies.",
+          "Echocardiography to rule out endocarditis as a potential embolic source."
+        ]
+      }
+    ]
+  }

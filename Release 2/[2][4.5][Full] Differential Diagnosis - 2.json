@@ -1,0 +1,153 @@
+{
+  "cases": [
+    {
+      "case_id": "NEJMcpc2100279",
+      "case_summary": "A previously healthy 22-year-old woman presented with severe headache, fever, respiratory failure, neurological changes, thrombocytopenia, and imaging consistent with infarcts and hemorrhage.",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Disseminated fungal infection (Aspergillosis or Histoplasmosis)",
+          "confidence_level": "High",
+          "reasoning": "Clinical features match disseminated fungal infection causing septic emboli, infarcts, pulmonary lesions, and neurological deterioration."
+        },
+        {
+          "diagnosis": "Culture-negative Bacterial Endocarditis",
+          "confidence_level": "Medium to High",
+          "reasoning": "Systemic embolization and cardiac murmur indicate possible endocarditis; negative cultures limit confidence."
+        },
+        {
+          "diagnosis": "Granulomatosis with Polyangiitis",
+          "confidence_level": "Medium",
+          "reasoning": "Systemic involvement fits vasculitis but lacks supportive serology."
+        },
+        {
+          "diagnosis": "Rocky Mountain Spotted Fever",
+          "confidence_level": "Low to Medium",
+          "reasoning": "Consistent systemic symptoms but lacks rash and epidemiological exposure."
+        },
+        {
+          "diagnosis": "Acute Lupus Cerebritis",
+          "confidence_level": "Low",
+          "reasoning": "Negative ANA and absence of lupus history decrease likelihood significantly."
+        }
+      ],
+      "final_diagnosis": "Disseminated fungal infection (likely Aspergillosis)",
+      "next_steps": [
+        "Serum fungal markers and biopsy",
+        "Echocardiogram",
+        "Immunologic testing"
+      ]
+    },
+    {
+      "case_id": "NEJMcpc2300900",
+      "case_summary": "54-year-old male athlete with progressive exertional dyspnea, restrictive cardiac physiology, biatrial enlargement, and discordant ECG findings.",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Cardiac ATTR Amyloidosis",
+          "confidence_level": "High",
+          "reasoning": "Typical infiltrative pattern with restrictive physiology, low-voltage ECG despite hypertrophy."
+        },
+        {
+          "diagnosis": "Genotype-negative Hypertrophic Cardiomyopathy",
+          "confidence_level": "Medium",
+          "reasoning": "Classic phenotype of hypertrophy, but negative genetic findings limit confidence."
+        },
+        {
+          "diagnosis": "Sarcoid Cardiomyopathy",
+          "confidence_level": "Medium to Low",
+          "reasoning": "Clinical lack of extracardiac sarcoidosis reduces likelihood."
+        },
+        {
+          "diagnosis": "Fabry Disease",
+          "confidence_level": "Low",
+          "reasoning": "Absence of typical systemic features and negative genetic testing makes unlikely."
+        },
+        {
+          "diagnosis": "Athlete's Heart Syndrome",
+          "confidence_level": "Very Low",
+          "reasoning": "Severity and progression inconsistent with benign athletic adaptation."
+        }
+      ],
+      "final_diagnosis": "ATTR Cardiac Amyloidosis",
+      "next_steps": [
+        "Technetium-99m Pyrophosphate Scan",
+        "Serum free light chains",
+        "Genetic testing for TTR mutations"
+      ]
+    },
+    {
+      "case_id": "NEJMcpc2309383",
+      "case_summary": "A 73-year-old man presented with chronic recurrent fever, hepatosplenic granulomatous lesions, splenomegaly, cytopenias, and negative infectious workup.",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Adult-Onset Immunodeficiency (GATA2 deficiency)",
+          "confidence_level": "High",
+          "reasoning": "Recurrent infections, granulomas, progressive cytopenias strongly suggest underlying immunodeficiency."
+        },
+        {
+          "diagnosis": "Chronic Granulomatous Disease (Adult-onset)",
+          "confidence_level": "Medium to High",
+          "reasoning": "Granulomatous infections match CGD phenotype, though typically earlier onset."
+        },
+        {
+          "diagnosis": "Sarcoidosis",
+          "confidence_level": "Medium",
+          "reasoning": "Absence of pulmonary involvement and lymphadenopathy makes this less likely."
+        },
+        {
+          "diagnosis": "Hepatosplenic Bartonellosis",
+          "confidence_level": "Low to Medium",
+          "reasoning": "Consistent lesions but negative testing reduces confidence."
+        },
+        {
+          "diagnosis": "Disseminated Tuberculosis",
+          "confidence_level": "Low",
+          "reasoning": "Repeated negative TB tests significantly lower suspicion."
+        }
+      ],
+      "final_diagnosis": "Adult-Onset Immunodeficiency (GATA2 deficiency)",
+      "next_steps": [
+        "Genetic testing (GATA2)",
+        "Flow cytometry",
+        "PET-CT"
+      ]
+    },
+    {
+      "case_id": "NEJMcpc2309500",
+      "case_summary": "30-year-old postpartum woman presented with fever, progressive abdominal pain, rapidly ulcerating skin lesions, and systemic inflammatory syndrome.",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Pyoderma Gangrenosum associated with Crohn’s Disease",
+          "confidence_level": "High",
+          "reasoning": "Pathergy, rapidly progressive neutrophilic ulcers, and family history of Crohn’s strongly support this diagnosis."
+        },
+        {
+          "diagnosis": "Sweet Syndrome",
+          "confidence_level": "Medium",
+          "reasoning": "Rapid onset neutrophilic skin lesions consistent, but deep ulceration uncommon."
+        },
+        {
+          "diagnosis": "Necrotizing Fasciitis",
+          "confidence_level": "Low to Medium",
+          "reasoning": "Repeated sterile cultures strongly oppose infectious etiology."
+        },
+        {
+          "diagnosis": "Catastrophic APS",
+          "confidence_level": "Low",
+          "reasoning": "Lack of clear thrombotic events or antiphospholipid antibodies."
+        },
+        {
+          "diagnosis": "Behçet Disease",
+          "confidence_level": "Very Low",
+          "reasoning": "Absence of classic mucocutaneous ulcers and other characteristic manifestations."
+        }
+      ],
+      "final_diagnosis": "Pyoderma Gangrenosum associated with underlying Crohn’s Disease",
+      "next_steps": [
+        "Skin biopsy",
+        "Colonoscopy",
+        "Autoimmune serologies",
+        "Deep tissue cultures"
+      ]
+    }
+  ]
+}

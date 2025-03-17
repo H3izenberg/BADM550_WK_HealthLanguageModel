@@ -1,0 +1,164 @@
+{
+    "cases": [
+      {
+        "case_id": "NEJMcpc2100279",
+        "case_summary": "A 22-year-old woman with no significant past medical history presented with an 8-day history of nausea, myalgias, chills, vomiting, neck pain, severe headache with sonophobia, progressing to confusion and dyspnea. Key findings include leukocytosis (WBC 12,300/μL), thrombocytopenia (platelets 95,000/μL), subarachnoid hemorrhage and ischemic changes on head CT, bilateral pleural effusions and pulmonary nodules on chest CT, CSF with neutrophil-predominant pleocytosis and low glucose, and physical exam showing meningismus, respiratory distress, mitral regurgitation murmur, petechiae, and splenomegaly.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Bacterial Meningitis with Secondary Subarachnoid Hemorrhage and Septic Emboli",
+            "reasoning": "Step 1: Key clues include neutrophil-predominant CSF pleocytosis, low CSF glucose, meningismus, and severe headache, strongly suggesting bacterial meningitis. Step 2: Subarachnoid hemorrhage and cortical infarcts could result from mycotic aneurysm rupture or septic emboli from endocarditis, supported by the mitral regurgitation murmur and petechiae. Step 3: Pulmonary nodules and effusions align with septic emboli to the lungs. Step 4: Thrombocytopenia and splenomegaly suggest systemic infection or disseminated intravascular coagulation (DIC). Step 5: No clear alternative fully explains the multisystem involvement. This fits a severe bacterial meningitis complicated by endovascular spread.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Tuberculous Meningitis with Pulmonary Involvement",
+            "reasoning": "Step 1: CSF pleocytosis, low glucose, and elevated opening pressure could indicate tuberculous meningitis. Step 2: Pulmonary nodules and effusions might suggest miliary TB. Step 3: Subarachnoid hemorrhage and infarcts could arise from vasculitis, a known TB complication. Step 4: However, the acute 8-day course, neutrophil predominance (rather than lymphocytic), and lack of TB risk factors (e.g., travel, exposure) reduce likelihood. Step 5: The rapid progression and systemic signs like petechiae are less typical for TB meningitis.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Viral Encephalitis with Hemorrhagic and Pulmonary Complications",
+            "reasoning": "Step 1: Headache, confusion, and myalgias could suggest viral encephalitis (e.g., herpes simplex virus). Step 2: Subarachnoid hemorrhage and infarcts might result from viral-induced vasculitis. Step 3: Pulmonary findings could indicate a systemic viral process. Step 4: However, CSF neutrophil predominance and low glucose are atypical for viral etiologies, which usually show lymphocytic pleocytosis and normal glucose. Step 5: The mitral murmur and petechiae are also poorly explained by this diagnosis.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Leptospirosis with Multisystem Involvement",
+            "reasoning": "Step 1: Myalgias, chills, headache, pulmonary nodules, pleural effusions, and thrombocytopenia align with severe leptospirosis. Step 2: Subarachnoid hemorrhage and meningitis could reflect severe systemic inflammation or vasculopathy. Step 3: Splenomegaly and petechiae support a systemic infection. Step 4: However, no animal exposure history (a key risk factor) and CSF findings (low glucose, neutrophil predominance) are less characteristic. Step 5: The mitral murmur and infarcts are not easily explained.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Systemic Lupus Erythematosus (SLE) with Neuropsychiatric and Pulmonary Manifestations",
+            "reasoning": "Step 1: Young woman with multisystem involvement (CNS, pulmonary, hematologic) and a history of depression could suggest SLE. Step 2: Subarachnoid hemorrhage and infarcts might reflect lupus vasculitis; petechiae and thrombocytopenia could indicate lupus-related hematologic issues. Step 3: Pulmonary effusions and nodules might be lupus pneumonitis. Step 4: However, acute meningitis with low CSF glucose and neutrophil predominance is not typical of SLE. Step 5: Lack of other classic SLE signs (e.g., rash, arthritis) lowers probability.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Bacterial Meningitis with Secondary Subarachnoid Hemorrhage and Septic Emboli",
+          "justification": "The combination of neutrophil-predominant CSF pleocytosis with low glucose, meningismus, and severe headache points to bacterial meningitis as the primary process. The subarachnoid hemorrhage, cortical infarcts, pulmonary nodules, and effusions strongly suggest secondary complications from septic emboli, likely from endocarditis (supported by the mitral regurgitation murmur and petechiae). Thrombocytopenia and splenomegaly further indicate a severe systemic infection. No other diagnosis cohesively explains the acute presentation and multisystem findings."
+        },
+        "next_steps_recommended_tests": [
+          "Blood cultures and CSF culture to identify the causative organism and guide antibiotic therapy.",
+          "Echocardiogram (transthoracic or transesophageal) to evaluate for endocarditis and confirm the source of septic emboli.",
+          "Repeat brain imaging (MRI/MRA) to assess for mycotic aneurysms or worsening ischemic changes."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2300900",
+        "case_summary": "A 52-year-old man presented with a 2-month history of exertional dyspnea, fatigue, and lower extremity edema. Key findings include a grade 2/6 systolic murmur, ECG changes (rightward axis, T-wave inversions, new Q-wave in aVL), echocardiography showing hyperdynamic left ventricle with concentric thickening (18 mm), right ventricular thickening, biatrial dilation, and mild mitral valve thickening. Cardiac MRI suggested hypertrophic cardiomyopathy (HCM) with focal late gadolinium enhancement, though genetic testing was negative. Cardiopulmonary exercise testing showed severe exercise impairment (peak VO₂ 59% predicted). Physical exam revealed elevated jugular venous pressure, Kussmaul’s sign, and angiomas. Past history includes arthritis and orthopedic surgeries; he takes aspirin.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Hypertrophic Cardiomyopathy (HCM) with Restrictive Physiology",
+            "reasoning": "Step 1: Key clues include concentric LV thickening (18 mm), hyperdynamic function, biatrial dilation, and late gadolinium enhancement on MRI, classic for HCM. Step 2: Dyspnea, fatigue, and edema align with heart failure; severe exercise impairment suggests restrictive physiology. Step 3: Elevated JVP and Kussmaul’s sign indicate right heart involvement, consistent with biventricular thickening. Step 4: Negative genetic testing does not rule out HCM, as 30-40% of cases are non-genetic. Step 5: Arthritis and angiomas are not directly explained but could be incidental. This fits well with HCM causing restrictive cardiomyopathy.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Amyloidosis (Cardiac)",
+            "reasoning": "Step 1: Concentric LV thickening, biatrial dilation, and restrictive physiology (low stroke volume, exercise impairment) are hallmarks of cardiac amyloidosis. Step 2: Elevated JVP, Kussmaul’s sign, and right ventricular involvement support infiltrative cardiomyopathy. Step 3: ECG changes (Q-wave, T-wave inversions) and mild mitral thickening could fit, though low voltage is more typical (not reported here). Step 4: Arthritis might suggest systemic amyloidosis (e.g., AL or AA), but no other systemic signs (e.g., neuropathy, proteinuria) are noted. Step 5: Late gadolinium enhancement pattern is less specific for amyloidosis than HCM.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Constrictive Pericarditis",
+            "reasoning": "Step 1: Elevated JVP, Kussmaul’s sign, dyspnea, and edema suggest pericardial constriction. Step 2: Exercise impairment and biatrial dilation could result from restricted diastolic filling. Step 3: Prior surgeries raise the possibility of pericardial scarring, though no direct pericardial findings (e.g., calcification) are noted on imaging. Step 4: LV thickening and hyperdynamic function are atypical, as constrictive pericarditis usually spares the myocardium. Step 5: MRI enhancement and ventricular changes favor myocardial over pericardial disease.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Hypertensive Heart Disease",
+            "reasoning": "Step 1: Concentric LV thickening and heart failure symptoms could indicate longstanding hypertension. Step 2: Rightward axis and RV thickening might suggest pulmonary hypertension secondary to left heart disease. Step 3: However, no hypertension history is provided, and the degree of thickening (18 mm) exceeds typical hypertensive changes. Step 4: Late gadolinium enhancement and severe exercise impairment are not characteristic. Step 5: This diagnosis does not fully explain the restrictive physiology or MRI findings.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Sarcoidosis (Cardiac)",
+            "reasoning": "Step 1: Myocardial thickening, ECG changes (Q-wave, T-wave inversions), and late gadolinium enhancement could indicate cardiac sarcoidosis. Step 2: Dyspnea and exercise impairment align with restrictive cardiomyopathy. Step 3: Arthritis might suggest systemic sarcoidosis, though no pulmonary or nodal involvement is noted. Step 4: Kussmaul’s sign and RV thickening are less typical, and hyperdynamic LV function is inconsistent with infiltrative disease. Step 5: Lack of systemic sarcoid features lowers likelihood.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Hypertrophic Cardiomyopathy (HCM) with Restrictive Physiology",
+          "justification": "The concentric LV thickening (18 mm), hyperdynamic function, biatrial dilation, and focal late gadolinium enhancement on MRI strongly support HCM. Severe exercise impairment and low stroke volume indicate restrictive physiology, consistent with advanced HCM. Elevated JVP, Kussmaul’s sign, and RV thickening suggest biventricular involvement, while the systolic murmur and mitral thickening align with outflow or valvular changes in HCM. Negative genetic testing does not exclude HCM, as many cases are sporadic. No alternative diagnosis better explains the myocardial findings and clinical picture."
+        },
+        "next_steps_recommended_tests": [
+          "Holter monitoring or electrophysiological study to assess for arrhythmias, given HCM’s arrhythmia risk and ECG changes.",
+          "Serum and urine protein electrophoresis with free light chains to rule out amyloidosis, given overlapping restrictive features.",
+          "Repeat echocardiography with strain imaging to quantify diastolic dysfunction and confirm HCM phenotype."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309383",
+        "case_summary": "A 73-year-old man presented with a 22-month history of recurrent fever, initially with cough and fatigue, partially responsive to antibiotics but recurring intermittently. Imaging revealed pulmonary nodules, hepatic lesions (up to 2.4 cm with necrosis), and progressive splenomegaly (15 cm). Biopsies showed nonnecrotizing and fibrin-ring granulomas in liver and bone marrow, with negative infectious stains. Later cultures from hepatic lesions grew E. coli and Enterococcus faecalis. Labs indicated leukopenia, anemia, and elevated alkaline phosphatase (238 U/L). Past history includes hypertension, hyperlipidemia, cholecystectomy, and he takes rosuvastatin and aspirin. He has pet exposure, overseas military service, and a family history of autoimmune disease.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Chronic Hepatobiliary Infection with Granulomatous Response",
+            "reasoning": "Step 1: Recurrent fever, hepatic lesions with necrosis, and cultures growing E. coli and Enterococcus suggest a chronic bacterial infection. Step 2: Pulmonary nodules and splenomegaly could indicate disseminated infection or septic emboli. Step 3: Nonnecrotizing and fibrin-ring granulomas are consistent with a granulomatous response to bacterial infection (e.g., post-cholecystectomy complication). Step 4: Partial antibiotic response and recurrence fit a smoldering infection. Step 5: Negative infectious stains on biopsy may reflect sampling error or prior treatment; pet exposure and military service increase infection risk.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Sarcoidosis with Secondary Infection",
+            "reasoning": "Step 1: Nonnecrotizing granulomas in liver and bone marrow, pulmonary nodules, and splenomegaly are classic for sarcoidosis. Step 2: Fever and fatigue could reflect systemic inflammation. Step 3: However, fibrin-ring granulomas and hepatic lesion cultures (E. coli, Enterococcus) are atypical for sarcoidosis alone. Step 4: Normal ACE levels do not exclude sarcoidosis but reduce likelihood. Step 5: Secondary infection of granulomatous tissue could explain bacterial growth, though sarcoidosis rarely presents with necrotizing lesions.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Q Fever (Coxiella burnetii Infection)",
+            "reasoning": "Step 1: Chronic fever, hepatic lesions, pulmonary nodules, and fibrin-ring granulomas strongly suggest Q fever, especially with pet exposure. Step 2: Splenomegaly and leukopenia align with systemic infection. Step 3: Military service overseas increases zoonotic exposure risk. Step 4: Negative biopsy stains could reflect fastidious organism (Coxiella is difficult to culture). Step 5: However, positive cultures for E. coli and Enterococcus complicate this, possibly indicating co-infection or contamination.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Granulomatosis with Polyangiitis (GPA)",
+            "reasoning": "Step 1: Pulmonary nodules, systemic symptoms, and granulomas could suggest GPA, a vasculitic condition. Step 2: Hepatic involvement and splenomegaly might reflect systemic inflammation. Step 3: Family history of autoimmune disease supports an autoimmune etiology. Step 4: However, absence of upper respiratory or renal involvement, negative ANCA (not reported but implied), and bacterial cultures argue against GPA. Step 5: Fibrin-ring granulomas are not typical for GPA.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Lymphoma with Granulomatous Reaction",
+            "reasoning": "Step 1: Fever, splenomegaly, pulmonary nodules, and hepatic lesions raise concern for lymphoma. Step 2: Nonnecrotizing granulomas can occur as a paraneoplastic response in lymphoma. Step 3: Leukopenia and anemia might suggest bone marrow involvement. Step 4: However, fibrin-ring granulomas and bacterial cultures are inconsistent with lymphoma alone. Step 5: Lack of lymphadenopathy or B-symptoms (weight loss, night sweats) lowers probability.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Chronic Hepatobiliary Infection with Granulomatous Response",
+          "justification": "The 22-month history of recurrent fever, hepatic lesions with necrosis yielding E. coli and Enterococcus faecalis, and granulomatous findings (nonnecrotizing and fibrin-ring) strongly indicate a chronic bacterial infection, likely hepatobiliary in origin (e.g., post-cholecystectomy complication). Pulmonary nodules and splenomegaly suggest dissemination or a systemic granulomatous response. Partial antibiotic response with recurrence fits a smoldering infection. Negative biopsy stains may reflect prior treatment or sampling issues, while pet exposure and military service increase infection risk. No alternative diagnosis fully accounts for the cultured organisms and necrotizing lesions."
+        },
+        "next_steps_recommended_tests": [
+          "Repeat imaging (CT/MRI) of liver and chest to assess lesion progression and guide further drainage or biopsy.",
+          "Serologic testing for Q fever (Coxiella burnetii IgG/IgM) to rule out co-infection, given fibrin-ring granulomas and exposure history.",
+          "PET-CT to evaluate for occult malignancy or additional infectious foci, given chronicity and multisystem involvement."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309500",
+        "case_summary": "A 30-year-old woman, six days postpartum after a 35-week spontaneous vaginal delivery with a second-degree perineal laceration, presented with fever, chills, abdominal pain, ongoing vaginal bleeding, and painful inguinal pustules draining purulent fluid. Physical exam showed uterine tenderness, right-sided inguinal pustules, leg swelling, and leukocytosis (WBC 19,230/μL, neutrophil-predominant). Imaging revealed ascites, pelvic fluid collections, and progressive skin ulcerations. Endometrial biopsy showed neutrophilic infiltration, MRI indicated parametrial abscesses and anasarca without thrombosis, and echocardiogram showed dilated right chambers. Past history includes rosacea, acne, hidradenitis suppurativa, diverticulitis, and epiploic appendagitis. Despite broad-spectrum antibiotics (gentamicin, clindamycin, vancomycin, meropenem, later daptomycin and micafungin) and drainage, symptoms worsened with increasing edema and ulceration.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Postpartum Endometritis with Parametrial Abscess and Secondary Skin Involvement",
+            "reasoning": "Step 1: Fever, uterine tenderness, vaginal bleeding, and endometrial neutrophilic infiltration six days postpartum strongly suggest endometritis. Step 2: Pelvic fluid collections and parametrial abscesses on MRI indicate local spread, common in severe postpartum infections. Step 3: Inguinal pustules progressing to ulcers could reflect lymphatic or hematogenous spread, possibly worsened by hidradenitis suppurativa. Step 4: Ascites, leg swelling, and right heart dilation suggest systemic inflammation or fluid overload, potentially from infection or treatment. Step 5: Lack of response to antibiotics may indicate resistant organisms or inadequate source control.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Necrotizing Fasciitis Secondary to Perineal or Pelvic Infection",
+            "reasoning": "Step 1: Rapidly progressing skin lesions (pustules to ulcers), fever, and leukocytosis raise concern for necrotizing fasciitis, especially postpartum with a perineal laceration. Step 2: Pelvic abscesses and systemic symptoms (anasarca, right heart strain) align with a severe soft-tissue infection. Step 3: History of hidradenitis suppurativa increases risk for aggressive skin infections. Step 4: However, imaging lacks classic gas formation or fascial plane involvement, and endometrial findings suggest an intrauterine source. Step 5: Antibiotic failure could support this, but progression is less fulminant than typical.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Septic Pelvic Thrombophlebitis",
+            "reasoning": "Step 1: Postpartum fever, pelvic fluid, and lack of antibiotic response suggest septic pelvic thrombophlebitis. Step 2: Skin lesions and systemic signs (anasarca, right heart dilation) could indicate septic emboli. Step 3: History of perineal trauma supports pelvic infection risk. Step 4: However, MRI showed no thrombosis, a key diagnostic feature, though imaging may miss early thrombus. Step 5: Uterine involvement and abscesses are more consistent with endometritis than isolated thrombophlebitis.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Pyoderma Gangrenosum (PG) with Postpartum Trigger",
+            "reasoning": "Step 1: Progressive ulcerative skin lesions and history of hidradenitis suppurativa raise PG as a possibility, often triggered by trauma or inflammation (e.g., postpartum). Step 2: Lack of antibiotic response supports a non-infectious etiology. Step 3: Systemic symptoms and neutrophilic infiltration could reflect PG’s inflammatory nature. Step 4: However, pelvic abscesses, endometrial findings, and fever strongly suggest infection over PG alone. Step 5: PG typically lacks internal abscesses or ascites.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Disseminated Fungal Infection",
+            "reasoning": "Step 1: Persistent fever, skin ulcers, and lack of bacterial response despite broad antibiotics suggest a fungal etiology (e.g., Candida). Step 2: Postpartum immunosuppression and pelvic involvement could facilitate dissemination. Step 3: Right heart dilation and anasarca might indicate systemic infection. Step 4: However, fungal stains/cultures are not reported, and neutrophilic (vs. eosinophilic) infiltration is less typical. Step 5: Micafungin was added late, but worsening suggests a primary bacterial process.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Postpartum Endometritis with Parametrial Abscess and Secondary Skin Involvement",
+          "justification": "The postpartum onset, uterine tenderness, vaginal bleeding, and endometrial neutrophilic infiltration point to endometritis as the primary process. Pelvic fluid collections and parametrial abscesses on MRI indicate local extension, while inguinal pustules progressing to ulcers suggest lymphatic or hematogenous spread, possibly exacerbated by hidradenitis suppurativa. Ascites, leg swelling, and right heart dilation reflect systemic inflammation and fluid overload. Antibiotic failure likely stems from resistant organisms (e.g., anaerobes or MRSA) or inadequate abscess drainage. No other diagnosis cohesively explains the uterine, pelvic, and skin findings."
+        },
+        "next_steps_recommended_tests": [
+          "Blood, endometrial, and skin lesion cultures (aerobic, anaerobic, fungal) to identify causative organisms and guide therapy.",
+          "Surgical exploration or image-guided drainage of pelvic abscesses for source control, given antibiotic failure.",
+          "Repeat MRI or CT to assess for occult thrombosis or necrotizing infection, despite initial negative findings."
+        ]
+      }
+    ]
+  }

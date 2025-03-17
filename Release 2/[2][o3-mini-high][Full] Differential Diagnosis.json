@@ -1,0 +1,164 @@
+{
+    "cases": [
+      {
+        "case_id": "NEJMcpc2100279",
+        "case_summary": "A 22-year-old woman presented with an 8-day history of nausea, myalgias, and progressive headache evolving into fever, photophobia, confusion, and respiratory failure. Physical exam revealed meningismus, a new holosystolic murmur, petechiae, and a palpable spleen, while imaging demonstrated subarachnoid hemorrhage, multifocal acute cortical infarcts, splenic infarcts, and diffuse pulmonary opacities. Laboratory studies showed marked thrombocytopenia, neutrophilic leukocytosis, and evidence of systemic inflammation.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Infective Endocarditis with Septic Emboli",
+            "reasoning": "The combination of fever, a new holosystolic murmur, and multi-organ embolic phenomena (brain infarcts, splenic infarcts, and pulmonary nodules/effusions) strongly supports infective endocarditis. The presence of petechiae and thrombocytopenia further substantiates embolic events originating from a cardiac source. This diagnosis best explains the constellation of findings, making confidence high.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Bacterial Meningitis with Vasculitic Complications",
+            "reasoning": "The patient’s headache, fever, photophobia, and CSF findings (neutrophil predominance and low glucose) are indicative of bacterial meningitis. However, the associated subarachnoid hemorrhage and cortical infarcts suggest secondary vasculitic or embolic complications. While there is overlap, these features render the diagnosis less classic than endocarditis, so confidence is moderate.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Septic Thrombophlebitis",
+            "reasoning": "Septic thrombophlebitis can lead to systemic embolization, particularly in a healthcare worker with potential exposure risks. Yet, the presence of a cardiac murmur and the pattern of embolic infarcts across multiple organs favor a cardiac source (endocarditis) over thrombophlebitis. Thus, the likelihood is moderate-low.",
+            "confidence_level": "Moderate-Low"
+          },
+          {
+            "diagnosis": "Disseminated Intravascular Coagulation (DIC)",
+            "reasoning": "Thrombocytopenia and multi-organ involvement raise concern for DIC in a septic context. However, the coagulation parameters (e.g., elevated fibrinogen) and the clear embolic pattern on imaging do not fully align with DIC, which typically shows widespread microthrombi and bleeding. Confidence in this diagnosis is low.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP)",
+            "reasoning": "TTP could present with neurological deficits and thrombocytopenia; however, the absence of microangiopathic hemolytic anemia, renal impairment, and the clear evidence of embolic phenomena make TTP an unlikely explanation for this clinical picture. Confidence is therefore low.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Infective Endocarditis with Septic Emboli",
+          "justification": "The overall clinical picture—including fever, a new cardiac murmur, and widespread embolic events (cerebral, splenic, and pulmonary)—coupled with supportive laboratory findings (thrombocytopenia, neutrophilic leukocytosis) and imaging abnormalities, most strongly supports a diagnosis of infective endocarditis with septic embolization."
+        },
+        "next_steps_recommended_tests": [
+          "Transesophageal Echocardiography (TEE) to visualize vegetations on the heart valves and assess the extent of valvular involvement.",
+          "Serial blood cultures to isolate and identify the causative pathogen and tailor antimicrobial therapy.",
+          "Brain MRI/MRA to further characterize cerebral infarcts and evaluate for the presence of mycotic aneurysms."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2300900",
+        "case_summary": "A 54-year-old male athlete with a 17-month history of progressive exertional dyspnea and chest pain. Initial workup including coronary CTA years earlier was normal. Over time, he developed new ECG changes (T-wave inversions, decreased QRS amplitude, rightward axis), a new midsystolic murmur, and imaging studies revealed symmetric left ventricular wall thickening (17–18 mm) with a hyperdynamic cavity, mild mitral regurgitation, and focal midwall late gadolinium enhancement. His cardiopulmonary exercise test showed markedly reduced peak oxygen consumption and impaired stroke volume augmentation. Physical exam findings include a raised jugular venous pressure with Kussmaul’s sign and biatrial as well as right ventricular involvement, with laboratory markers showing elevated troponin T and NT-proBNP.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Cardiac Amyloidosis",
+            "reasoning": "The discordance between significant left ventricular wall thickening and decreased QRS voltage, coupled with diastolic dysfunction (evidenced by impaired oxygen pulse augmentation), elevated cardiac biomarkers (troponin T and NT-proBNP), biatrial dilation, and the presence of a Kussmaul’s sign strongly point toward an infiltrative process such as cardiac amyloidosis.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+            "reasoning": "The MRI findings of concentric LV wall thickening and focal midwall LGE could be seen in HCM. However, the symmetric pattern of hypertrophy, negative genetic testing, and lack of a clear familial pattern make classic HCM less likely in this context.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Idiopathic Restrictive Cardiomyopathy",
+            "reasoning": "Features such as biatrial enlargement, impaired diastolic filling, and elevated biomarkers can be observed in restrictive cardiomyopathies. However, the overall imaging and clinical profile are more suggestive of an infiltrative process like amyloidosis, making this diagnosis less probable.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Hypertensive Heart Disease",
+            "reasoning": "Concentric LV hypertrophy is a classic finding in long-standing hypertension. In this patient, however, normal blood pressure readings and the absence of a hypertension history argue against this diagnosis.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Maladaptive Athlete’s Heart",
+            "reasoning": "Although chronic intense exercise can lead to some degree of cardiac remodeling, the marked wall thickness (17–18 mm), abnormal biomarker elevations, and impaired exercise capacity are inconsistent with benign athlete’s heart adaptations.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Cardiac Amyloidosis",
+          "justification": "The combination of symmetric left ventricular hypertrophy with reduced QRS voltage, diastolic dysfunction (as shown by impaired oxygen pulse augmentation), biatrial enlargement, Kussmaul’s sign, and elevated cardiac biomarkers (troponin T and NT-proBNP) strongly suggests an infiltrative cardiomyopathy. These findings are most consistent with cardiac amyloidosis, which best explains the clinical and imaging features observed."
+        },
+        "next_steps_recommended_tests": [
+          "Technetium-99m pyrophosphate (PYP) scintigraphy to evaluate for transthyretin amyloidosis and differentiate amyloid subtypes.",
+          "Serum and urine immunofixation electrophoresis with free light chain assay to assess for light-chain (AL) amyloidosis.",
+          "Advanced cardiac MRI with T1 mapping and extracellular volume (ECV) quantification to further characterize myocardial tissue composition and extent of infiltration."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309383",
+        "case_summary": "A 73-year-old man with a 22‐month history of recurrent fever, chills, and epigastric discomfort. Serial imaging revealed progressive hepatic lesions with peripheral enhancement and central necrosis as well as splenomegaly. Histopathology of liver and bone marrow biopsies demonstrated nonnecrotizing granulomas, including characteristic fibrin‐ring granulomas. Despite multiple hospital admissions and courses of various antimicrobial therapies (including doxycycline, ceftriaxone, and broad-spectrum antibiotics) as well as a trial of immunosuppression, his symptoms have persisted, and later aspirates grew organisms such as E. coli and Enterococcus faecalis, likely reflecting superimposed infections.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Chronic Q Fever (Coxiella burnetii infection)",
+            "reasoning": "Fibrin‐ring granulomas on liver and bone marrow biopsies combined with recurrent fever and progressive hepatic lesions are classic features of chronic Q fever hepatitis. Despite negative serologic testing, the histopathologic findings strongly support this diagnosis.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Pyogenic Liver Abscesses with Superinfection",
+            "reasoning": "The imaging evolution showing enlarging lesions with central necrosis and the eventual isolation of E. coli and Enterococcus faecalis suggest secondary pyogenic abscess formation. However, these likely represent complications on top of an underlying process.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Sarcoidosis",
+            "reasoning": "Nonnecrotizing granulomas and splenomegaly can be seen in sarcoidosis; however, the presence of fibrin‐ring granulomas and an infectious clinical course make this less likely.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Tuberculous Hepatitis",
+            "reasoning": "Although tuberculosis can cause granulomatous inflammation in the liver, the granulomas in TB are typically caseating and acid-fast bacilli were not detected, making this diagnosis unlikely.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Drug-induced Granulomatous Hepatitis",
+            "reasoning": "Some medications can trigger granulomatous hepatitis; however, the prolonged infectious symptoms and imaging findings of necrotic lesions are more consistent with an infectious etiology rather than a drug reaction.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Chronic Q Fever Hepatitis",
+          "justification": "The clinical picture of recurrent fever, progressive hepatic and splenic lesions, and the distinctive histopathologic finding of fibrin‐ring granulomas strongly point to chronic Q fever hepatitis, even in the face of negative initial serologic tests. This diagnosis best integrates the chronicity, imaging features, and granulomatous inflammation seen in this case."
+        },
+        "next_steps_recommended_tests": [
+          "Repeat serologic testing for Coxiella burnetii (including phase I and II antibody titers) to detect delayed seroconversion.",
+          "PCR testing for Coxiella burnetii DNA in blood or liver tissue to improve diagnostic sensitivity.",
+          "PET scan to evaluate the extent of inflammatory activity and to help guide further targeted biopsies if needed."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309500",
+        "case_summary": "A 30-year-old postpartum woman, 6 days after delivering her baby at 35 weeks 3 days’ gestation, presents with fever, abdominal pain, and worsening leukocytosis. Her postpartum course was complicated by endometritis (supported by an endometrial biopsy showing dense neutrophilic debris) and the development of new pelvic fluid collections along with increasing ascites and anasarca. In addition, she developed tender, erythematous skin lesions at sites of intravenous catheter and percutaneous drainage that evolved into ulcerations. Systemic findings include evidence of right heart strain (dilated right atrium and ventricle with elevated NT-proBNP) despite normal biventricular systolic function, suggesting a possible embolic phenomenon.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Septic Pelvic Thrombophlebitis",
+            "reasoning": "The combination of persistent postpartum fever unresponsive to broad-spectrum antibiotics, development of pelvic fluid collections without a clear abscess source, signs of right heart strain suggestive of septic emboli, and the emergence of ulcerative skin lesions at sites of vascular access strongly points to septic pelvic thrombophlebitis. This condition is notoriously difficult to confirm with imaging, which aligns with the inconclusive vascular studies in this case.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Postpartum Endometritis with Pelvic Abscess Formation",
+            "reasoning": "Endometritis is a common postpartum infection, and the biopsy findings support this diagnosis. Pelvic abscesses can develop as a complication; however, the persistent fever and systemic embolic signs make this less likely to be the sole process.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Catheter-Related Bloodstream Infection",
+            "reasoning": "The appearance of skin lesions at IV catheter sites raises the possibility of a catheter-associated infection leading to septic emboli. Nevertheless, the overall clinical picture—particularly the pelvic findings—points more strongly to a pelvic source.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Pyoderma Gangrenosum",
+            "reasoning": "The ulcerative skin lesions at sites of minor trauma (pathergy) can be seen in pyoderma gangrenosum, a neutrophilic dermatosis. However, this diagnosis does not account for the pelvic fluid collections and systemic signs of sepsis.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Necrotizing Soft Tissue Infection",
+            "reasoning": "Although necrotizing fasciitis can cause rapidly evolving skin ulcerations and systemic toxicity, the distribution and evolution of the skin lesions in this patient, along with the lack of imaging findings supportive of deep tissue necrosis, make this diagnosis unlikely.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Septic Pelvic Thrombophlebitis",
+          "justification": "The persistence of high fever despite broad-spectrum antimicrobial therapy, the development of pelvic fluid collections without a discrete abscess, systemic signs of septic embolization (including right heart strain and elevated NT-proBNP), and the characteristic evolution of skin lesions at sites of vascular access collectively support the diagnosis of septic pelvic thrombophlebitis as the most likely underlying cause."
+        },
+        "next_steps_recommended_tests": [
+          "Transvaginal ultrasound with Doppler imaging to assess for thrombosis in the pelvic veins, which may be subtle and require focused evaluation.",
+          "Pelvic MRI with venography to provide a more detailed evaluation of the pelvic venous system if ultrasound findings are inconclusive.",
+          "Repeat and serial blood cultures to monitor for persistent bacteremia and to help guide adjustments in antimicrobial therapy."
+        ]
+      }
+    ]
+  }

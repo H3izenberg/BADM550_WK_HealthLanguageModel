@@ -1,0 +1,100 @@
+{
+  "Differential Diagnoses": [
+    {
+      "case_id": "NEJMcpc2100279",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Thrombocytopenia",
+          "reasoning": "This was an early and prominent finding that became severe by the patient’s second presentation. The workup excluded pregnancy-related causes (negative beta-hCG) and microangiopathic hemolytic anemias (absence of indirect hyperbilirubinemia, reduced haptoglobin, or elevated lactate dehydrogenase). Although infections (viral such as varicella–zoster, parvovirus, or cytomegalovirus and bacterial including tickborne infections) and infective endocarditis can be associated with thrombocytopenia, the laboratory and clinical findings indicated that thrombocytopenia alone did not narrow the diagnosis."
+        },
+        {
+          "diagnosis": "Headache, Fever, and Meningismus",
+          "reasoning": "The patient initially developed headache with photophobia, later progressing to confusion, somnolence, and fever. On transfer, meningismus, elevated opening pressure on lumbar puncture, and neutrophilic pleocytosis were noted—findings that support meningitis or meningoencephalitis. However, imaging revealed features suggestive of acute subarachnoid hemorrhage and multiterritorial cortical infarcts, raising questions as to why infarcts were present if the process were solely infectious, thus broadening the differential considerations."
+        },
+        {
+          "diagnosis": "Cortical Infarcts",
+          "reasoning": "Imaging demonstrated multiterritorial cortical infarcts. In a young patient, common causes like carotid atherosclerotic disease or cancer are unlikely. The absence of large intraparenchymal hematomas, tumors, or vascular malformations shifted the focus toward embolic phenomena. A cardiac source—particularly embolism from infective endocarditis—was considered more likely, especially given the infarcts in the left parietal and right temporal lobes. Autoimmune causes (such as systemic lupus erythematosus or antiphospholipid syndrome) were also considered but deemed unlikely due to negative relevant tests and absence of systemic features."
+        },
+        {
+          "diagnosis": "Infective Endocarditis",
+          "reasoning": "The presence of a holosystolic murmur, most consistent with mitral regurgitation, along with embolic phenomena (cerebral infarcts and splenic infarcts) and signs of congestive heart failure (pulmonary edema, elevated N-terminal pro–B-type natriuretic peptide) strongly supported a cardiac source. The pattern of emboli suggested that vegetations on the mitral valve could be responsible. Additionally, peripheral pulmonary nodules raised the possibility of right-sided involvement or high-grade bacteremia. Given the lack of exposures typically associated with specific pathogens, the differential included common organisms (streptococci, enterococci, staphylococci) and HACEK organisms, warranting empirical coverage."
+        }
+      ],
+      "final_diagnosis": "Infective endocarditis due to Haemophilus parainfluenzae."
+    },
+    {
+      "case_id": "NEJMcpc2300900",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Hypertrophic Cardiomyopathy",
+          "reasoning": "In the absence of hypertension, the observed left ventricular wall thickening (17 mm, which exceeds the typical 13–15 mm seen in athletes) raised concern for cardiomyopathy. Cardiac MRI findings—biventricular thickening, mild anterior mitral leaflet elongation, and late gadolinium enhancement—were consistent with hypertrophic cardiomyopathy. However, the lack of obstruction on stress echocardiography, negative genetic testing for common mutations, and the 17-month progressive clinical course argue against a classic genetically acquired form."
+        },
+        {
+          "diagnosis": "Restrictive Cardiomyopathy",
+          "reasoning": "Several findings supported a diagnosis of restrictive physiology. The presence of Kussmaul’s sign indicated impaired right ventricular filling. Additionally, a decrease in QRS voltage (when compared to studies from 5 years earlier) despite wall thickening, along with echocardiographic evidence of biatrial enlargement with normal ventricular chamber sizes and reduced stroke volume augmentation on exercise, all point toward an infiltrative process causing restrictive cardiomyopathy."
+        },
+        {
+          "diagnosis": "Sarcoidosis",
+          "reasoning": "Sarcoidosis, an infiltrative disease characterized by noncaseating granulomas, is known to cause restrictive cardiomyopathy. Mediastinal lymphadenopathy from sarcoidosis can compress the left recurrent laryngeal nerve, resulting in vocal cord paralysis and hoarseness—a symptom reported by the patient—making this a plausible consideration."
+        },
+        {
+          "case_id": "NEJMcpc2300900",
+          "diagnosis": "Amyloidosis",
+          "reasoning": "Cardiac amyloidosis leads to restrictive cardiomyopathy through the deposition of abnormal proteins in the myocardium. The patient’s history of ligamentous disorders (notably bilateral rotator cuff tears) is a recognized clue in amyloidosis. In the context of the other findings suggestive of an infiltrative process, amyloidosis emerged as the leading possibility."
+        }
+      ],
+      "final_diagnosis": "AL amyloidosis."
+    },
+    {
+      "case_id": "NEJMcpc2309383",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Infections (Bacterial, Fungal, Mycobacterial, Melioidosis)",
+          "reasoning": "The patient’s 22-month history of intermittent fever, recurrent invasive bacterial infections, persistent lymphopenia, elevated alkaline phosphatase, and progressive liver and splenic lesions—with nonnecrotizing granulomas on histopathology—prompted consideration of an indolent infectious process. Tests for brucellosis, bartonellosis, and C. burnetii, as well as evaluations for fungal infections (histoplasmosis, coccidioidomycosis, cryptococcosis, blastomycosis) and mycobacterial infections, were negative. Although his residence in Vietnam and Thailand raised the possibility of melioidosis (caused by Burkholderia pseudomallei), cultures did not yield this organism."
+        },
+        {
+          "diagnosis": "Sarcoidosis",
+          "reasoning": "Nonnecrotizing granulomas in multiple organs can be seen in sarcoidosis. Despite the absence of classic chest imaging findings (such as hilar lymphadenopathy and reticular opacities), sarcoidosis remains in the differential because of its variable presentation and its association with lymphopenia. However, sarcoidosis would not account for the recurrent invasive bacterial infections observed in this patient."
+        },
+        {
+          "case_id": "NEJMcpc2309383",
+          "diagnosis": "Anti–interferon-γ Autoantibodies",
+          "reasoning": "This condition causes an adult-onset immunodeficiency with increased susceptibility to infections by intracellular organisms, particularly nontuberculous mycobacteria. It is most commonly described in individuals of Asian descent, which makes it less likely in this patient."
+        },
+        {
+          "case_id": "NEJMcpc2309383",
+          "diagnosis": "Chronic Granulomatous Disease",
+          "reasoning": "Although chronic granulomatous disease can result in noncaseating granulomas and recurrent liver abscesses due to defects in the NADPH oxidase system, its onset beyond the sixth decade is rare. This rarity in a 73-year-old man makes the diagnosis unlikely despite some overlapping features."
+        },
+        {
+          "case_id": "NEJMcpc2309383",
+          "diagnosis": "Common Variable Immunodeficiency (CVID)",
+          "reasoning": "CVID is the most common symptomatic primary immunodeficiency in adults. It is characterized by low immunoglobulin levels, recurrent sinopulmonary and gastrointestinal bacterial infections, and can present with noncaseating granulomas, autoimmune cytopenias, and lymphoproliferation. The patient’s recurrent invasive bacterial infections, persistent lymphopenia, elevated alkaline phosphatase, portal hypertension, and liver involvement (possibly due to nodular regenerative hyperplasia) strongly support CVID."
+        }
+      ],
+      "final_diagnosis": "Common variable immunodeficiency."
+    },
+    {
+      "case_id": "NEJMcpc2309500",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Common Postpartum Infections (e.g., Endometritis)",
+          "reasoning": "Postpartum fever, leukocytosis, and abdominal pain initially raised concern for a gynecologic infection such as endometritis. However, the drained intraabdominal fluid was sterile, the patient’s response to broad-spectrum antimicrobials was poor, and although the endometrial biopsy showed a dense neutrophilic infiltrate, these findings do not definitively support this diagnosis."
+        },
+        {
+          "diagnosis": "Atypical Infections and Noninfectious Causes",
+          "reasoning": "Despite broad-spectrum antimicrobial therapy, persistent symptoms with new intraabdominal fluid collections, tachycardia, tachypnea, and hypoxemia were observed. Cultures from blood, genital skin, endometrial tissue, and intraabdominal fluid were negative. Although atypical infections (fungal or mycobacterial) and noninfectious causes (e.g., phlebitis, venous thromboembolism, drug fever, hypersensitivity reactions, or cancer) were considered, the clinical and laboratory findings, as well as the lack of associated abdominal pain in these conditions, make these diagnoses less likely."
+        },
+        {
+          "diagnosis": "Autoinflammatory Syndromes (PAPA/PASH)",
+          "reasoning": "The patient’s history of hidradenitis suppurativa, epiploic appendagitis, moderate peripartum leukocytosis, and a family history of early arthritis and inflammatory bowel disease suggest an underlying autoinflammatory process. Although PAPA syndrome (pyogenic arthritis, pyoderma gangrenosum, and acne) was considered, it is less likely given its usual earlier onset and the absence of inflammatory arthritis in this patient. PASH syndrome (pyoderma gangrenosum, acne, and hidradenitis suppurativa) remains a possibility, but lack of available genetic testing limits confirmation."
+        },
+        {
+          "diagnosis": "Neutrophilic Dermatoses (Sweet’s Syndrome)",
+          "reasoning": "The evolution of bullous, necrotic, and ulcerating skin lesions—especially those occurring at sites of minor trauma (pathergy)—in conjunction with systemic findings such as ascites, anasarca, hepatosplenomegaly, early disseminated intravascular coagulation, and possible right heart failure strongly point to a dysregulated systemic inflammatory process. In the context of the postpartum state and the overall clinical picture, these findings are most consistent with systemic Sweet’s syndrome, an acute febrile neutrophilic dermatosis that can present with extracutaneous manifestations and responds to glucocorticoid therapy."
+        }
+      ],
+      "final_diagnosis": "Sweet’s syndrome."
+    }
+  ]
+}

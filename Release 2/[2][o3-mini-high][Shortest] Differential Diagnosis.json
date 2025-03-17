@@ -1,0 +1,164 @@
+{
+    "cases": [
+      {
+        "case_id": "NEJMcpc2100279",
+        "case_summary": "A 22-year-old woman with an 8-day viral prodrome who develops headache, confusion, and respiratory failure. Imaging reveals subarachnoid hemorrhage and cerebral infarcts, and laboratory results show thrombocytopenia in the setting of sepsis.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Disseminated Intravascular Coagulation (DIC) secondary to sepsis",
+            "reasoning": "Sepsis is a well-known trigger for DIC, leading to a consumptive coagulopathy. The combination of thrombocytopenia, simultaneous hemorrhage (SAH) and thrombosis (infarcts) supports the diagnosis. The preceding viral prodrome could have predisposed the patient to a secondary bacterial infection, precipitating sepsis and DIC.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Septic Embolism from Infective Endocarditis",
+            "reasoning": "Infective endocarditis can produce septic emboli that cause cerebral infarcts and may lead to mycotic aneurysm formation, which can rupture resulting in SAH. Although this scenario fits some of the imaging findings and the presence of sepsis, the absence of documented cardiac abnormalities makes it less likely than DIC.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP)",
+            "reasoning": "TTP is characterized by thrombocytopenia and neurological symptoms (headache, confusion) and may cause microthrombi leading to infarcts. However, TTP typically lacks the systemic sepsis and respiratory failure observed here, and the full pentad of TTP features is not present.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Viral Hemorrhagic Encephalitis",
+            "reasoning": "A severe viral infection could lead to encephalopathy with hemorrhagic complications; however, the presence of sepsis and marked coagulopathy (thrombocytopenia with both hemorrhage and infarcts) points more toward a secondary bacterial process rather than a primary viral hemorrhagic encephalitis.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "CNS Vasculitis Secondary to Infection",
+            "reasoning": "Infectious vasculitis can result in vessel wall inflammation causing both ischemic and hemorrhagic lesions. Nonetheless, the systemic findings of sepsis and coagulopathy make this a less cohesive explanation for the full clinical picture.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Disseminated Intravascular Coagulation (DIC) secondary to sepsis",
+          "justification": "The simultaneous occurrence of hemorrhagic (SAH) and thrombotic (infarcts) cerebral events, along with thrombocytopenia and evidence of systemic sepsis, strongly supports DIC as the final diagnosis. The viral prodrome likely set the stage for a secondary bacterial infection that triggered this consumptive coagulopathy."
+        },
+        "next_steps_recommended_tests": [
+          "Coagulation panel (including PT, aPTT, fibrinogen levels, and D-dimer) to confirm DIC and assess the severity of coagulopathy.",
+          "Blood cultures to identify the causative organism of sepsis.",
+          "Echocardiogram to evaluate for potential infective endocarditis and rule out a cardiac source of septic emboli."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2300900",
+        "case_summary": "A 54-year-old athlete with a 17‑month history of progressive dyspnea and chest pain. ECG and imaging reveal left ventricular thickening accompanied by reduced exercise capacity, suggesting hypertrophic cardiomyopathy.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+            "reasoning": "The patient's symptoms of progressive dyspnea and chest pain along with imaging findings of LV thickening and reduced exercise capacity are classic features of HCM. The pathological hypertrophy in HCM leads to diastolic dysfunction and potential outflow tract obstruction, directly explaining the clinical picture.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Athlete's Heart with Potential Pathologic Remodeling",
+            "reasoning": "Athletes often develop physiologic LV hypertrophy as an adaptation to intense training. However, the progression of symptoms and reduced exercise capacity in this case suggest that the hypertrophy may have transitioned from a benign adaptation to a pathological process.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Hypertensive Cardiomyopathy",
+            "reasoning": "Chronic hypertension can lead to concentric LV hypertrophy that mimics HCM. While this could account for LV thickening and exercise intolerance, the absence of a documented history of hypertension in this athletic patient makes it a less likely explanation.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Aortic Stenosis",
+            "reasoning": "Aortic stenosis increases afterload, causing compensatory LV hypertrophy and potentially chest pain and dyspnea. However, the case details do not mention valvular abnormalities or murmurs, which lowers the likelihood of this diagnosis.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Infiltrative Cardiomyopathy (e.g., Cardiac Amyloidosis)",
+            "reasoning": "Infiltrative disorders like cardiac amyloidosis can cause LV thickening and reduced exercise capacity. Yet, the patient’s profile as an athlete and the absence of other systemic signs make this a less convincing differential in this context.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+          "justification": "The integration of a 17‑month history of progressive symptoms with ECG and imaging findings of LV thickening and decreased exercise capacity aligns most consistently with HCM. The severity and progression of symptoms distinguish this condition from benign athletic adaptations."
+        },
+        "next_steps_recommended_tests": [
+          "Echocardiography with Doppler analysis to assess LV outflow tract gradients and confirm morphological features consistent with HCM.",
+          "Cardiac MRI for detailed evaluation of myocardial structure, tissue characterization, and fibrosis.",
+          "Genetic testing and family screening, considering the hereditary nature of HCM and potential implications for relatives."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309383",
+        "case_summary": "A 73-year-old man with a 22‑month history of recurrent fever, progressive hepatic lesions, splenomegaly, and granulomas; later, a hepatic abscess culture grew Enterococcus faecalis.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Enterococcal Infective Endocarditis",
+            "reasoning": "The chronic recurrent fever, splenomegaly, and granulomatous inflammation, along with hepatic lesions, strongly suggest septic embolization from a cardiac source. Enterococcus faecalis is a recognized cause of subacute infective endocarditis, particularly in older patients, making this the most likely diagnosis.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Primary Hepatic Abscess due to Enterococcus faecalis",
+            "reasoning": "A localized hepatic infection growing Enterococcus faecalis could produce hepatic lesions; however, the systemic signs (recurrent fever, splenomegaly, and granulomas) point to a disseminated process rather than an isolated abscess.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Granulomatous Hepatitis Secondary to Tuberculosis with Superimposed Bacterial Infection",
+            "reasoning": "Tuberculous infection can cause chronic granulomatous inflammation in the liver and spleen, but the isolation of Enterococcus faecalis in the hepatic abscess makes TB a less cohesive explanation, although it remains a possibility in the setting of secondary infection.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Fungal Hepatosplenic Infection (e.g., Histoplasmosis)",
+            "reasoning": "Fungal infections can produce chronic granulomatous lesions in the liver and spleen. However, the presence of Enterococcus faecalis in culture does not support a primary fungal etiology.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Sarcoidosis with Secondary Bacterial Infection",
+            "reasoning": "Sarcoidosis is characterized by granulomatous inflammation affecting multiple organs including the liver and spleen, but it rarely presents with prolonged fever or yields a positive bacterial culture for Enterococcus faecalis, making it an unlikely primary cause.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Enterococcal Infective Endocarditis",
+          "justification": "The patient's prolonged course of recurrent fever combined with systemic findings—splenomegaly, granulomas, and hepatic lesions—and the positive culture for Enterococcus faecalis strongly support a diagnosis of subacute infective endocarditis. This condition can lead to septic emboli, which account for the hepatic abscess and granulomatous inflammation observed."
+        },
+        "next_steps_recommended_tests": [
+          "Transesophageal echocardiography (TEE) to identify vegetations or other valvular abnormalities indicative of endocarditis.",
+          "Serial blood cultures to confirm persistent bacteremia and to aid in tailoring antibiotic therapy.",
+          "Contrast-enhanced CT or MRI of the abdomen to further delineate the extent of hepatic lesions and assess splenic involvement."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309500",
+        "case_summary": "A 30-year-old postpartum woman with endometritis presents with persistent fever and abdominal pain. Imaging reveals ascites, anasarca, and pelvic fluid collections, and she develops ulcerative skin lesions.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Septic Pelvic Thrombophlebitis",
+            "reasoning": "The combination of a postpartum state with endometritis, persistent fever, and pelvic fluid collections is highly suggestive of septic pelvic thrombophlebitis. This condition can lead to septic emboli, which explain the development of ulcerative skin lesions, and the systemic inflammatory response accounts for ascites and anasarca.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Necrotizing Fasciitis",
+            "reasoning": "Ulcerative skin lesions raise concern for necrotizing fasciitis. However, in this postpartum setting, the primary source of infection appears pelvic, making necrotizing fasciitis a less likely primary cause despite its potential to cause severe soft tissue damage.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Endometritis Complicated by Pelvic Abscess",
+            "reasoning": "Persistent fever and abdominal pain in a postpartum patient with endometritis could progress to a pelvic abscess. Yet, the presence of systemic signs such as anasarca and ulcerative skin lesions suggests that the infection is more disseminated than would be expected from a localized abscess alone.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Disseminated Intravascular Coagulation (DIC)",
+            "reasoning": "DIC can occur as a complication of severe sepsis and may lead to skin manifestations due to microthrombi. However, DIC does not fully account for the localized pelvic fluid collections and the typical postpartum context seen here.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Pyoderma Gangrenosum",
+            "reasoning": "While pyoderma gangrenosum can cause ulcerative skin lesions, it is usually associated with underlying autoimmune conditions rather than postpartum infections. This diagnosis does not fit the overall clinical picture.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Septic Pelvic Thrombophlebitis",
+          "justification": "The patient's postpartum status with endometritis, persistent fever, and pelvic fluid collections, along with the development of ulcerative skin lesions, strongly points toward septic pelvic thrombophlebitis. This diagnosis best explains the constellation of local and systemic findings, including the potential for septic emboli causing skin involvement."
+        },
+        "next_steps_recommended_tests": [
+          "Pelvic imaging (transvaginal ultrasound or CT scan) to evaluate for venous thrombosis and delineate pelvic fluid collections.",
+          "Serial blood cultures to identify the causative organism and guide appropriate antimicrobial therapy.",
+          "Coagulation studies and repeat imaging to assess for septic emboli and monitor for potential complications such as abscess formation or DIC."
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,164 @@
+{
+  "cases": [
+    {
+      "case_id": "NEJMcpc2100279",
+      "case_summary": "A 22-year-old woman presented with fever, severe headache, nausea, vomiting, neck stiffness, photophobia, confusion, respiratory distress, and neurologic deterioration over 8 days. Imaging showed subarachnoid hemorrhage, multifocal cortical infarcts, pulmonary infiltrates, splenic infarcts, and thrombocytopenia. CSF showed neutrophil-predominant pleocytosis with elevated opening pressure.",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Infective Endocarditis with Septic Emboli",
+          "reasoning": "The presence of fever, neurological impairment, pulmonary nodules, splenic infarcts, cardiac murmur indicative of valvular vegetations, and rapid clinical decline strongly suggests embolic phenomena secondary to infective endocarditis.",
+          "confidence_level": "High"
+        },
+        {
+          "diagnosis": "Disseminated Meningococcal Infection (Meningococcemia)",
+          "reasoning": "Meningismus, fever, rapid deterioration, and thrombocytopenia are consistent; however, typical purpuric rash is absent, and pulmonary involvement is atypical.",
+          "confidence_level": "Medium"
+        },
+        {
+          "diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP)",
+          "reasoning": "Can explain neurologic impairment, thrombocytopenia, fever, and multiorgan ischemia, but pulmonary nodules and significant lung involvement are unusual.",
+          "confidence_level": "Medium"
+        },
+        {
+          "diagnosis": "Systemic Lupus Erythematosus with Catastrophic Antiphospholipid Syndrome",
+          "reasoning": "Could cause multiorgan infarcts, thrombocytopenia, and neurologic involvement, but negative ANA significantly reduces probability.",
+          "confidence_level": "Low"
+        },
+        {
+          "diagnosis": "Disseminated Fungal Infection (Aspergillus or Fusarium)",
+          "reasoning": "Explains pulmonary nodules and neurological findings, but typically occurs in immunosuppressed patients, making this unlikely given patient history.",
+          "confidence_level": "Low"
+        }
+      ],
+      "final_diagnosis": {
+        "diagnosis": "Infective Endocarditis with Septic Embolization (likely bacterial, e.g., Staphylococcus aureus)",
+        "justification": "Combination of clinical features including embolic infarcts in brain, lungs, and spleen, cardiac murmur suggestive of vegetation, rapid disease progression, thrombocytopenia, and CSF findings strongly align with infective endocarditis complicated by septic emboli."
+      },
+      "next_steps_recommended_tests": [
+        "Urgent transthoracic/transesophageal echocardiogram to confirm vegetation and valvular involvement.",
+        "Repeated blood cultures for identification of causative organisms.",
+        "Continued empirical antibiotic therapy pending culture results.",
+        "Fungal serology and extended cultures from bronchoalveolar lavage specimens to definitively exclude fungal involvement."
+      ]
+    },
+    {
+      "case_id": "NEJMcpc2300900",
+      "case_summary": "A 54-year-old athletic man with progressive exertional dyspnea, chest pressure, mild mitral regurgitation, and new cardiac imaging findings showing concentric left ventricular hypertrophy without genetic markers for hypertrophic cardiomyopathy.",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+          "reasoning": "Concentric left ventricular hypertrophy, hyperdynamic left ventricle, and mild mitral valve changes are classic for HCM, despite negative genetic testing.",
+          "confidence_level": "High"
+        },
+        {
+          "diagnosis": "Cardiac Amyloidosis",
+          "reasoning": "Concentric hypertrophy, progressive symptoms, biatrial dilation, and elevated cardiac biomarkers align with amyloidosis. Lack of genetic HCM markers supports consideration.",
+          "confidence_level": "Moderate-High"
+        },
+        {
+          "diagnosis": "Athlete’s Heart Syndrome",
+          "reasoning": "Athletic background and hypertrophy; however, progressive deterioration and abnormal biomarkers (NT-proBNP, troponin) are unusual for this benign condition.",
+          "confidence_level": "Moderate"
+        },
+        {
+          "diagnosis": "Coronary Artery Disease (CAD)",
+          "reasoning": "Exertional chest pain initially suggests CAD; however, normal coronary CTA and progressive hypertrophy decrease likelihood.",
+          "confidence_level": "Low"
+        },
+        {
+          "diagnosis": "Fabry Disease",
+          "reasoning": "Left ventricular hypertrophy could indicate Fabry, but absence of other systemic symptoms or relevant family history decreases likelihood.",
+          "confidence_level": "Low"
+        }
+      ],
+      "final_diagnosis": {
+        "diagnosis": "Cardiac Amyloidosis",
+        "justification": "Progressive cardiomyopathy, biatrial enlargement, elevated cardiac biomarkers, decreased QRS voltages, and impaired exercise tolerance strongly indicate infiltrative disease, such as amyloidosis, rather than typical HCM."
+      },
+      "next_steps_recommended_tests": [
+        "Technetium-99m pyrophosphate scintigraphy (PYP scan) for amyloidosis detection.",
+        "Serum and urine immunofixation electrophoresis for monoclonal proteins.",
+        "Possible myocardial biopsy if noninvasive tests are inconclusive."
+      ]
+    },
+    {
+      "case_id": "NEJMcpc2309383",
+      "case_summary": "A 73-year-old man with recurrent fevers, hepatic lesions, splenomegaly, granulomas on liver biopsy, and multiple culture-positive hepatic abscesses despite extensive negative infectious workup.",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Chronic Granulomatous Disease (CGD)",
+          "reasoning": "Recurrent bacterial abscesses, granulomas, and persistent infections despite antibiotics align with CGD; atypical onset at advanced age is unusual.",
+          "confidence_level": "Moderate-High"
+        },
+        {
+          "diagnosis": "Chronic Q Fever",
+          "reasoning": "Granulomatous hepatitis, persistent fever, splenomegaly typical for chronic Q fever; however, negative serologies reduce likelihood.",
+          "confidence_level": "Moderate"
+        },
+        {
+          "diagnosis": "Sarcoidosis",
+          "reasoning": "Nonnecrotizing granulomas and fever could suggest sarcoidosis, but repeated infections and hepatic abscesses strongly argue against it.",
+          "confidence_level": "Low-Moderate"
+        },
+        {
+          "diagnosis": "Lymphoma",
+          "reasoning": "Splenomegaly, hepatic lesions, and fever might suggest lymphoma, but no malignant cells were found on biopsies or cytology.",
+          "confidence_level": "Low"
+        },
+        {
+          "diagnosis": "Recurrent Pyogenic Cholangitis",
+          "reasoning": "Multiple liver abscesses fit; however, absence of biliary ductal dilation and strictures on imaging reduce likelihood significantly.",
+          "confidence_level": "Low"
+        }
+      ],
+      "final_diagnosis": {
+        "diagnosis": "Chronic Granulomatous Disease (CGD)",
+        "justification": "Persistent granulomas, recurrent bacterial abscesses (Klebsiella, E. coli, Enterococcus), and lack of response to multiple antibiotics strongly suggest an underlying immunodeficiency disorder such as CGD."
+      },
+      "next_steps_recommended_tests": [
+        "Dihydrorhodamine (DHR) test or Nitroblue Tetrazolium (NBT) test for neutrophil oxidative burst deficiency.",
+        "Genetic testing for mutations associated with CGD."
+      ]
+    },
+    {
+      "case_id": "NEJMcpc2309500",
+      "case_summary": "A 30-year-old postpartum woman developed persistent fever, worsening abdominal pain, leukocytosis, ascites, skin lesions progressing to necrotic ulcers, hepatosplenomegaly, and signs suggestive of septic emboli.",
+      "differential_diagnosis": [
+        {
+          "diagnosis": "Septic Pelvic Thrombophlebitis",
+          "reasoning": "Persistent fever, pelvic fluid collections, postpartum timing strongly suggests septic thrombophlebitis; however, absence of clear venous thrombosis on imaging is atypical.",
+          "confidence_level": "High"
+        },
+        {
+          "diagnosis": "Necrotizing Fasciitis",
+          "reasoning": "Rapidly progressing ulcerative skin lesions, systemic symptoms, postpartum setting could indicate necrotizing infection; however, lesions initially localized and imaging inconsistent.",
+          "confidence_level": "Moderate"
+        },
+        {
+          "diagnosis": "Endometritis complicated by Pelvic Abscess",
+          "reasoning": "Fever, abdominal pain, postpartum state, and imaging findings consistent with infection/abscess; yet, ongoing systemic involvement atypical for uncomplicated endometritis.",
+          "confidence_level": "Moderate"
+        },
+        {
+          "diagnosis": "Disseminated Intravascular Coagulation (DIC)",
+          "reasoning": "Elevated D-dimer, fibrinogen, skin lesions suggest DIC, but coagulation abnormalities relatively mild and platelet count elevated.",
+          "confidence_level": "Low-Moderate"
+        },
+        {
+          "diagnosis": "Pyoderma Gangrenosum (PG)",
+          "reasoning": "Ulcerative skin lesions might suggest PG associated with underlying inflammatory bowel disease or autoimmune conditions; however, severe systemic findings argue against it.",
+          "confidence_level": "Low"
+        }
+      ],
+      "final_diagnosis": {
+        "diagnosis": "Septic Pelvic Thrombophlebitis",
+        "justification": "Persistent postpartum fever, pelvic abscess formation, rapidly progressive skin lesions suggesting septic embolic phenomena, hepatosplenomegaly, and severe systemic involvement strongly indicate septic pelvic thrombophlebitis."
+      },
+      "next_steps_recommended_tests": [
+        "Detailed pelvic MRI or MR venography to visualize venous thrombosis.",
+        "Blood and wound cultures to guide antibiotic therapy.",
+        "Possible surgical exploration and debridement if necrotizing infection suspected."
+      ]
+    }
+  ]
+}

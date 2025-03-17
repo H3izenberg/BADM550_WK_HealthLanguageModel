@@ -1,0 +1,142 @@
+[
+  {
+    "case_id": "NEJMcpc2100279",
+    "case_summary": "A previously healthy 22-year-old woman presented acutely over eight days with severe headache, high fever, photophobia, neck stiffness, confusion, respiratory distress, thrombocytopenia, cerebral infarcts, subarachnoid hemorrhage, pulmonary nodules, and splenic infarcts; CSF showed neutrophilic pleocytosis with elevated pressure.",
+    "differential_diagnosis": [
+      {
+        "diagnosis": "Disseminated Invasive Aspergillosis",
+        "reasoning": "Multisystem infarctions (brain, spleen, lungs), neutrophil-predominant CSF, rapid neurologic decline, and negative viral/bacterial screens strongly suggest angioinvasive fungal infection.",
+        "confidence_level": "High"
+      },
+      {
+        "diagnosis": "Culture-negative Infective Endocarditis",
+        "reasoning": "Systemic embolic events with infarcts are characteristic, although absence of clear cardiac vegetations reduces likelihood.",
+        "confidence_level": "Medium"
+      },
+      {
+        "diagnosis": "Systemic Vasculitis (e.g., GPA)",
+        "reasoning": "Pulmonary nodules and CNS involvement fit vasculitis, but rapid progression and thrombocytopenia less typical.",
+        "confidence_level": "Medium-low"
+      },
+      {
+        "diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP)",
+        "reasoning": "Neurological changes and thrombocytopenia consistent, yet pulmonary nodules and subarachnoid hemorrhage atypical.",
+        "confidence_level": "Low"
+      },
+      {
+        "diagnosis": "Viral Hemorrhagic Fever",
+        "reasoning": "Systemic and hemorrhagic symptoms match, but negative viral tests and prominent infarcts make this unlikely.",
+        "confidence_level": "Very Low"
+      }
+    ],
+    "final_diagnosis": {
+      "diagnosis": "Disseminated Invasive Aspergillosis",
+      "justification": "Rapidly progressive multisystem infarctions, neutrophilic CSF, and pulmonary nodules strongly indicate invasive fungal (likely Aspergillus) infection."
+    },
+    "next_steps_recommended_tests": [
+      "Serum and CSF galactomannan and β-D-glucan tests.",
+      "Pulmonary nodule biopsy or BAL fungal culture.",
+      "Empirical antifungal therapy if tests positive."
+    ]
+  },
+  {
+    "case_id": "NEJMcpc2300900",
+    "case_summary": "A 54-year-old athletic male developed progressive exertional dyspnea, chest pain, fatigue, elevated JVP with Kussmaul’s sign, concentric LV hypertrophy, biatrial dilation, elevated cardiac biomarkers, ECG with low voltage and T-wave inversions, and focal late gadolinium enhancement; genetic screening for HCM negative.",
+    "differential_diagnosis": [
+      {
+        "diagnosis": "Cardiac Amyloidosis",
+        "reasoning": "Restrictive cardiomyopathy features, biatrial enlargement, concentric LVH, low-voltage ECG, and cardiac MRI enhancement strongly suggest amyloid deposition.",
+        "confidence_level": "High"
+      },
+      {
+        "diagnosis": "Cardiac Sarcoidosis",
+        "reasoning": "Could cause focal enhancement and restrictive cardiomyopathy, but systemic manifestations and conduction disturbances less evident here.",
+        "confidence_level": "Medium"
+      },
+      {
+        "diagnosis": "Idiopathic Restrictive Cardiomyopathy",
+        "reasoning": "Restrictive physiology fits, but specific imaging and ECG features less typical for idiopathic forms.",
+        "confidence_level": "Low-medium"
+      },
+      {
+        "diagnosis": "Hemochromatosis",
+        "reasoning": "Can cause restrictive cardiomyopathy, but no systemic iron-overload features or liver abnormalities described.",
+        "confidence_level": "Low"
+      },
+      {
+        "diagnosis": "Fabry Disease",
+        "reasoning": "Usually familial, younger onset, pain crises; presentation inconsistent with typical Fabry phenotype.",
+        "confidence_level": "Very Low"
+      }
+    ],
+    "final_diagnosis": {
+      "diagnosis": "Cardiac Amyloidosis",
+      "justification": "Classic restrictive cardiomyopathy presentation, characteristic ECG and cardiac MRI findings strongly supportive of amyloid cardiomyopathy."
+    },
+    "next_steps_recommended_tests": [
+      "Technetium-99m pyrophosphate scintigraphy for ATTR amyloidosis.",
+      "Serum/urine immunofixation and serum free light-chain assay for AL amyloidosis.",
+      "Endomyocardial biopsy to confirm histologic diagnosis."
+    ]
+  },
+  {
+    "case_id": "NEJMcpc2309383",
+    "case_summary": "A 73-year-old man with nearly two years of recurrent fevers, chills, fatigue, hepatosplenomegaly, cytopenias, pulmonary nodules, and enlarging hepatic/splenic granulomatous lesions; biopsies revealed fibrin-ring granulomas; cultures repeatedly negative aside from one episode of Klebsiella bacteremia with sterile abscesses.",
+    "differential_diagnosis": [
+      {
+        "diagnosis": "Chronic Disseminated Q Fever (Coxiella burnetii)",
+        "reasoning": "Long-lasting culture-negative granulomatous lesions, hepatosplenomegaly, recurrent fever, and systemic symptoms classic for chronic Q fever.",
+        "confidence_level": "High"
+      },
+      {
+        "diagnosis": "Bartonella Infection",
+        "reasoning": "Could cause similar chronic granulomatous lesions, but typically associated with animal exposure.",
+        "confidence_level": "Medium"
+      },
+      {
+        "diagnosis": "Sarcoidosis",
+        "reasoning": "Granulomatous lesions fit partially, but persistent fevers, abscess-like features less typical.",
+        "confidence_level": "Low-medium"
+      },
+      {
+        "diagnosis": "Lymphoma",
+        "reasoning": "Systemic symptoms match lymphoma, but granulomas and abscess-like hepatic/splenic lesions uncommon.",
+        "confidence_level": "Low"
+      },
+      {
+        "diagnosis": "Tuberculosis (Atypical Mycobacteria)",
+        "reasoning": "Granulomatous involvement matches, but persistent negative cultures unusual for tuberculosis or mycobacterial infection.",
+        "confidence_level": "Very Low"
+      }
+    ],
+    "final_diagnosis": {
+      "diagnosis": "Chronic Disseminated Q Fever (Coxiella burnetii)",
+      "justification": "Persistent fevers, culture-negative granulomas (fibrin-ring), hepatosplenic involvement strongly characteristic of chronic Q fever."
+    },
+    "next_steps_recommended_tests": [
+      "Serologic testing (phase I and II antibodies) for Coxiella burnetii.",
+      "PCR for Coxiella DNA in tissue samples.",
+      "Transesophageal echocardiography to exclude endocarditis."
+    ]
+  },
+  {
+    "case_id": "NEJMcpc2309500",
+    "case_summary": "30-year-old postpartum woman deteriorating rapidly despite antibiotics, with fever, severe abdominal pain, ascites, profound leukocytosis, violaceous rapidly enlarging ulcerative plaques, hypoalbuminemia, coagulopathy, elevated NT-proBNP, and hepatosplenomegaly.",
+    "differential_diagnosis": [
+      {
+        "diagnosis": "Pyoderma Gangrenosum secondary to Acute Myeloid Leukemia (AML)",
+        "reasoning": "Rapidly progressive violaceous ulcers, severe leukocytosis, coagulopathy, postpartum trigger consistent with PG associated with underlying AML.",
+        "confidence_level": "High"
+      }
+    ],
+    "final_diagnosis": {
+      "diagnosis": "Pyoderma Gangrenosum secondary to Acute Myeloid Leukemia (AML)",
+      "justification": "Skin lesions, profound leukocytosis, rapid clinical deterioration postpartum strongly suggest AML complicated by PG."
+    },
+    "next_steps_recommended_tests": [
+      "Urgent bone marrow biopsy for AML.",
+      "Skin biopsy to confirm pyoderma gangrenosum diagnosis.",
+      "Peripheral blood smear, CBC with differential, and flow cytometry."
+    ]
+  }
+]

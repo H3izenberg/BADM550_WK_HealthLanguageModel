@@ -1,0 +1,182 @@
+{
+    "cases": [
+      {
+        "case_id": "NEJMcpc2100279",
+        "case_summary": "22-year-old woman with an 8-day viral prodrome followed by headache, confusion, respiratory failure, subarachnoid hemorrhage (SAH), cerebral infarcts, thrombocytopenia, and sepsis.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP)",
+            "reasoning": "1) Young adult female demographic is consistent with TTP. 2) Thrombocytopenia is a hallmark feature of TTP. 3) Neurological manifestations including confusion are classic for TTP. 4) Cerebral infarcts suggest microvascular thrombosis, which is pathognomonic of TTP. 5) The preceding viral prodrome could have triggered an autoimmune response against ADAMTS13. 6) SAH could result from severe thrombocytopenia and microvascular injury. 7) Respiratory failure may be secondary to neurological deterioration or microvascular thrombosis in the lungs. 8) The clinical picture evolved rapidly over days, typical of acute TTP.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Disseminated Intravascular Coagulation (DIC) secondary to Sepsis",
+            "reasoning": "1) Presence of sepsis explicitly mentioned in the case. 2) Thrombocytopenia is consistent with platelet consumption in DIC. 3) SAH can occur due to coagulopathy in DIC. 4) The 8-day viral prodrome could have evolved into sepsis. 5) Confusion and neurological signs could be due to septic encephalopathy and/or cerebral hemorrhage. 6) Respiratory failure is common in severe sepsis with DIC. 7) Multiple organ involvement (brain, lungs, coagulation system) is typical of DIC. 8) However, cerebral infarcts are less common in DIC than hemorrhage.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Catastrophic Antiphospholipid Syndrome (CAPS)",
+            "reasoning": "1) Multiple organ involvement with thrombotic manifestations is characteristic of CAPS. 2) Cerebral infarcts are consistent with arterial thrombosis seen in CAPS. 3) Respiratory failure could be due to pulmonary thrombosis or ARDS. 4) The preceding viral illness could have triggered CAPS in a predisposed individual. 5) Thrombocytopenia can occur in CAPS. 6) Confusion and neurological symptoms align with cerebral involvement. 7) SAH is less typical but could occur with severe thrombocytopenia or vessel rupture. 8) Sepsis could be secondary to tissue necrosis or a triggering factor.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Viral Encephalitis with Secondary Complications",
+            "reasoning": "1) Clear history of viral prodrome for 8 days preceding neurological deterioration. 2) Confusion suggests encephalopathy/encephalitis. 3) Certain viral encephalitides (e.g., herpes) can cause hemorrhagic manifestations explaining SAH. 4) Respiratory failure could be due to brainstem involvement or ARDS. 5) Some viruses (e.g., dengue, hantavirus) can cause thrombocytopenia. 6) Cerebral infarcts could result from vasculitis secondary to viral infection. 7) Sepsis could be a secondary bacterial complication. 8) However, the combination of thrombocytopenia with cerebral infarcts and SAH makes a primary viral etiology less likely as the sole explanation.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Hemolytic Uremic Syndrome (HUS)",
+            "reasoning": "1) Thrombocytopenia is a key feature of HUS. 2) The viral prodrome could have been gastroenteritis caused by STEC or another HUS trigger. 3) Neurological complications including confusion and seizures occur in 25% of HUS cases. 4) Cerebral infarcts can occur due to thrombotic microangiopathy. 5) SAH is possible but less common in HUS. 6) Respiratory failure could be due to fluid overload from renal failure or ARDS. 7) Sepsis could be a complication or trigger. 8) However, the case lacks mention of renal failure or hemolytic anemia, which are typically prominent in HUS.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP)",
+          "justification": "TTP best explains the constellation of findings in this young woman. The pentad of TTP includes thrombocytopenia, microangiopathic hemolytic anemia, neurological symptoms, renal dysfunction, and fever. While not all elements are explicitly mentioned, the case describes thrombocytopenia and neurological manifestations (confusion, SAH, infarcts). The presence of both thrombotic (infarcts) and hemorrhagic (SAH) complications in the brain, along with thrombocytopenia, strongly points to a thrombotic microangiopathy like TTP. The viral prodrome likely served as the trigger for an autoimmune response against ADAMTS13, leading to uncontrolled platelet aggregation and microthrombi formation. The rapid progression from prodromal symptoms to life-threatening complications including respiratory failure is consistent with the natural history of untreated TTP, which has a mortality rate >90% without prompt plasma exchange therapy."
+        },
+        "next_steps_recommended_tests": [
+          "ADAMTS13 activity and inhibitor levels: Crucial to confirm TTP diagnosis; severe deficiency (<10%) with presence of inhibitor would confirm TTP.",
+          "Complete blood count with peripheral blood smear: To identify schistocytes (fragmented RBCs) confirming microangiopathic hemolytic anemia, a key component of TTP.",
+          "Coagulation studies (PT, PTT, fibrinogen, D-dimer): To distinguish TTP from DIC; coagulation parameters are typically normal in TTP but abnormal in DIC.",
+          "Renal function tests and urinalysis: To assess for renal involvement and help differentiate between TTP and HUS.",
+          "Blood cultures and infectious disease workup: To identify potential infectious triggers and evaluate the sepsis component.",
+          "Autoimmune panel including antiphospholipid antibodies: To rule out CAPS and other autoimmune conditions that might mimic or coexist with TTP.",
+          "Cerebral angiography or MR angiography: To evaluate for vasculitis and characterize the pattern of cerebral infarcts and hemorrhage."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2300900",
+        "case_summary": "54-year-old athlete with 17-month history of progressive dyspnea and chest pain, with ECG and imaging showing left ventricular (LV) thickening and reduced exercise capacity, suggesting hypertrophic cardiomyopathy.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+            "reasoning": "1) LV thickening is the cardinal feature of HCM. 2) Progressive dyspnea is consistent with diastolic dysfunction seen in HCM. 3) Chest pain during exertion could be due to myocardial ischemia from increased oxygen demand and microvascular dysfunction in HCM. 4) Reduced exercise capacity is typical in HCM due to impaired ventricular filling and possible outflow obstruction. 5) Age of onset at 54 is somewhat late but still within the spectrum of HCM, which can manifest at any age. 6) Athletic status is relevant as HCM must be distinguished from physiologic athlete's heart. 7) 17-month symptom progression suggests a pathological rather than physiological process. 8) The presence of both dyspnea and chest pain together strongly points to a cardiomyopathy rather than deconditioning or other causes.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Cardiac Amyloidosis",
+            "reasoning": "1) LV thickening is a hallmark feature of cardiac amyloidosis. 2) Progressive dyspnea occurs as restrictive physiology develops. 3) Age 54 is consistent with AL amyloidosis or early-onset ATTR amyloidosis. 4) Chest pain can occur due to small vessel disease or amyloid angiopathy. 5) Reduced exercise capacity is expected with restrictive cardiomyopathy. 6) The progressive nature over 17 months aligns with the typically gradual progression of amyloid deposition. 7) Athletic status makes the symptoms more significant, as baseline cardiovascular fitness should be high. 8) However, lack of mention of other systemic manifestations of amyloidosis (neuropathy, macroglossia, etc.) somewhat reduces the likelihood.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Fabry Disease",
+            "reasoning": "1) LV hypertrophy is a common cardiac manifestation of Fabry disease. 2) Age 54 is consistent with cardiac manifestations of Fabry disease, which often appear in the 4th-5th decade. 3) Progressive dyspnea would occur with worsening cardiac involvement. 4) Chest pain can result from coronary small vessel disease in Fabry. 5) Reduced exercise capacity would be expected with advancing cardiac disease. 6) The 17-month progressive course is consistent with the gradual nature of this lysosomal storage disorder. 7) Athletic status may have delayed symptom onset or recognition. 8) However, lack of mention of other systemic manifestations (acroparesthesias, angiokeratomas, renal dysfunction) reduces probability.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Severe Hypertensive Heart Disease",
+            "reasoning": "1) Chronic hypertension can lead to LV hypertrophy. 2) Progressive dyspnea occurs as diastolic dysfunction worsens. 3) Chest pain may be due to increased oxygen demand or concomitant coronary artery disease. 4) Reduced exercise capacity results from impaired cardiovascular reserve. 5) At age 54, long-standing hypertension could have caused significant LV remodeling. 6) The 17-month symptom progression could represent a period of accelerated cardiovascular decompensation. 7) Athletic status may have previously masked symptoms, allowing hypertension to go untreated. 8) However, athletic conditioning typically leads to better BP control, and the case lacks explicit mention of hypertension history.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Athlete's Heart with Coronary Artery Disease (CAD)",
+            "reasoning": "1) Athlete's heart can present with LV hypertrophy that mimics pathological conditions. 2) At age 54, the patient is at increased risk for CAD, which could cause chest pain. 3) If athletic training has decreased, some degree of physiologic hypertrophy may persist while deconditioning causes dyspnea. 4) Reduced exercise capacity compared to previous baseline would be notable. 5) The 17-month progressive course could represent advancing coronary disease superimposed on athletic heart. 6) Dyspnea could be due to diastolic dysfunction or ischemia-induced systolic dysfunction. 7) The combination of pre-existing athletic heart and developing CAD could create a complex clinical picture. 8) However, athletic heart typically doesn't cause symptoms, and the progressive nature suggests a pathological process.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+          "justification": "Hypertrophic cardiomyopathy best explains this 54-year-old athlete's presentation with the specific combination of LV thickening, progressive dyspnea, chest pain, and reduced exercise capacity over 17 months. The ECG and imaging findings supporting LV hypertrophy are classic for HCM. While physiologic hypertrophy (athlete's heart) must be considered in any athlete, the progressive symptoms over 17 months strongly favor a pathological process. The patient's athletic status is actually significant, as it suggests that the LV hypertrophy is severe enough to cause symptoms despite good baseline cardiovascular fitness. The age of onset at 54 is compatible with HCM, which can manifest at any age, and may represent a less aggressive genetic variant or the influence of athletic conditioning masking symptoms until later in life. Other infiltrative cardiomyopathies (amyloidosis, Fabry disease) remain in the differential but are less likely without mention of their characteristic extracardiac manifestations."
+        },
+        "next_steps_recommended_tests": [
+          "Comprehensive echocardiography with Doppler: To assess LV thickness, presence of systolic anterior motion of mitral valve, outflow tract obstruction, diastolic function, and strain patterns that might differentiate between HCM and infiltrative cardiomyopathies.",
+          "Cardiac MRI with gadolinium contrast: To evaluate for late gadolinium enhancement patterns that can differentiate between HCM (patchy enhancement), amyloidosis (global subendocardial enhancement), and other cardiomyopathies.",
+          "Exercise stress echocardiography: To assess for dynamic outflow tract obstruction with exercise, which would strongly support HCM with obstruction.",
+          "Genetic testing for HCM-associated mutations: To identify specific sarcomeric gene mutations associated with HCM, which would confirm the diagnosis.",
+          "Serum/urine protein electrophoresis and free light chains: To screen for AL amyloidosis if cardiac MRI is suggestive of infiltrative disease.",
+          "99mTc-PYP scintigraphy: To evaluate for ATTR cardiac amyloidosis if infiltrative pattern is suspected on imaging.",
+          "Alpha-galactosidase A enzyme activity and GLA gene testing: To evaluate for Fabry disease if clinical suspicion persists.",
+          "Coronary angiography or CT coronary angiography: To rule out significant coronary artery disease, especially given chest pain and age."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309383",
+        "case_summary": "73-year-old man with a 22-month history of recurrent fever, progressive hepatic lesions, splenomegaly, and granulomas. A hepatic abscess culture later grew Enterococcus faecalis.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Infective Endocarditis with Hepatic Emboli",
+            "reasoning": "1) Enterococcus faecalis is a classic causative organism of infective endocarditis, particularly in older adults. 2) The recurrent fever over 22 months suggests a chronic indolent infection, typical of subacute endocarditis. 3) Hepatic lesions can represent septic emboli from cardiac vegetations. 4) Splenomegaly is a common finding in endocarditis due to immune hyperactivation and possible splenic infarcts. 5) Granulomas can form in response to chronic infection as part of the host immune response. 6) The hepatic abscess with E. faecalis is highly suggestive of seeding from an endocardial source. 7) At age 73, the patient is at increased risk for degenerative valve disease, predisposing to endocarditis. 8) The prolonged course with progressive organ involvement is consistent with partially treated or undiagnosed endocarditis.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Primary Hepatic Abscess with Enterococcal Infection",
+            "reasoning": "1) E. faecalis was cultured directly from the hepatic abscess, confirming its presence. 2) Hepatic abscesses can cause recurrent fever, especially if incompletely treated. 3) The progressive hepatic lesions could represent evolution of the infection over time. 4) Splenomegaly can occur in response to chronic infection. 5) Granulomas might form as part of the inflammatory response to contain the infection. 6) At age 73, the patient may have risk factors such as biliary disease, diverticulitis, or recent procedures. 7) The 22-month history suggests a chronic evolving process with possible periods of partial treatment. 8) However, primary hepatic abscess alone doesn't typically present with such a prolonged course without either resolution or severe deterioration.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Hepatic Sarcoidosis with Secondary Infection",
+            "reasoning": "1) The presence of granulomas is highly characteristic of sarcoidosis. 2) Hepatic involvement occurs in 50-80% of sarcoidosis cases. 3) Splenomegaly is seen in approximately 15-40% of sarcoidosis patients. 4) Recurrent fever can be a manifestation of systemic sarcoidosis. 5) Progressive hepatic lesions could represent worsening granulomatous inflammation. 6) The patient's age of 73 is atypical for sarcoidosis onset but not impossible. 7) E. faecalis infection could be secondary to immunosuppression from sarcoidosis or its treatment. 8) However, sarcoidosis alone would not explain the hepatic abscess with E. faecalis unless there was a secondary infection.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Metastatic Malignancy with Secondary Infection",
+            "reasoning": "1) Progressive hepatic lesions in a 73-year-old man raise concern for metastatic disease. 2) Recurrent fever can occur with malignancy due to tumor necrosis or paraneoplastic effects. 3) Splenomegaly can be seen in certain malignancies with splenic involvement. 4) Granulomas can form in response to malignancy, especially certain types like Hodgkin lymphoma. 5) The 22-month duration is consistent with the natural history of some slower-growing malignancies. 6) Cancer can predispose to secondary infection, explaining the E. faecalis abscess. 7) Age 73 puts the patient at higher risk for various malignancies. 8) However, the presence of both granulomas and culture-positive hepatic abscess makes malignancy alone less likely as the primary diagnosis.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Chronic Granulomatous Hepatitis (Autoimmune or Drug-induced) with Secondary Infection",
+            "reasoning": "1) Granulomas in the liver are a key feature of granulomatous hepatitis. 2) Progressive hepatic lesions could represent worsening inflammation. 3) Splenomegaly can occur with chronic liver disease and portal hypertension. 4) Recurrent fever can be seen in autoimmune conditions with hepatic involvement. 5) The 22-month duration is consistent with a chronic inflammatory condition. 6) Secondary infection with E. faecalis could develop in areas of damaged liver tissue. 7) At age 73, the patient may have medication exposures predisposing to drug-induced liver injury. 8) However, this diagnosis alone wouldn't explain the specific finding of E. faecalis abscess unless there was a secondary process.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Infective Endocarditis with Hepatic Emboli",
+          "justification": "Infective Endocarditis with hepatic emboli best explains this 73-year-old man's prolonged 22-month course of recurrent fever, progressive hepatic lesions, splenomegaly, and granulomas, culminating in a hepatic abscess culture growing Enterococcus faecalis. E. faecalis is a well-established causative organism of infective endocarditis, particularly in older adults with predisposing valve conditions. The chronicity of symptoms suggests subacute endocarditis, which can persist for months if untreated or inadequately treated. The hepatic lesions and ultimate abscess formation are consistent with septic emboli from cardiac vegetations, a recognized complication of endocarditis. Splenomegaly is a classic finding in endocarditis due to immune hyperactivation. Granulomas can form as part of the immune response to chronic infection, explaining their presence in this case. The isolation of E. faecalis from the hepatic abscess strongly supports an endocardial source, as enterococcal bacteremia commonly originates from endocarditis in the absence of other obvious sources such as urinary tract or biliary infections. The progressive nature of the hepatic lesions aligns with ongoing embolization from cardiac vegetations."
+        },
+        "next_steps_recommended_tests": [
+          "Transesophageal echocardiography: Critical to visualize cardiac vegetations, which may be missed on transthoracic echocardiography, especially in older adults with calcified valves or poor acoustic windows.",
+          "Multiple sets of blood cultures (at least three sets from different sites): To confirm ongoing bacteremia and potentially identify the causative organism if not already on antibiotics.",
+          "Complete abdominal imaging (CT or MRI with contrast): To fully characterize the extent of hepatic lesions, evaluate for other embolic phenomena, and assess for potential primary sources of infection such as biliary disease.",
+          "Liver biopsy of lesions other than the known abscess: To evaluate for granulomas and rule out alternative diagnoses such as sarcoidosis or malignancy.",
+          "Infectious disease consultation for optimized antibiotic therapy: Enterococcal endocarditis typically requires prolonged combination antibiotic therapy, often with ampicillin plus gentamicin or ampicillin plus ceftriaxone.",
+          "Cardiac surgery evaluation: Given the presence of embolic complications (hepatic abscesses), surgical intervention may be necessary, especially if large vegetations are identified.",
+          "Colonoscopy: To evaluate for colonic lesions such as malignancy or diverticulitis, which could serve as a portal of entry for Enterococcus faecalis."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309500",
+        "case_summary": "30-year-old postpartum woman with endometritis, persistent fever, and abdominal pain. Imaging reveals ascites, anasarca, and pelvic fluid collections. She later develops ulcerative skin lesions.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Septic Pelvic Thrombophlebitis",
+            "reasoning": "1) Postpartum status is a significant risk factor for pelvic vein thrombosis. 2) Endometritis frequently precedes septic pelvic thrombophlebitis. 3) Persistent fever despite appropriate antibiotics is characteristic of septic thrombophlebitis. 4) Abdominal pain extending beyond the uterus may indicate involvement of pelvic vessels and surrounding structures. 5) Pelvic fluid collections seen on imaging could represent inflammatory exudates around involved vessels. 6) The development of ulcerative skin lesions suggests possible septic emboli. 7) Ascites and anasarca could result from altered vascular permeability due to systemic inflammatory response or venous obstruction. 8) The constellation of findings suggests progression from localized endometritis to a more complex septic process involving the pelvic vasculature.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Puerperal Sepsis with Multiorgan Involvement",
+            "reasoning": "1) Endometritis is often the initial site of infection in puerperal sepsis. 2) Persistent fever indicates ongoing infectious process despite treatment. 3) Progression to abdominal pain beyond the uterus suggests spread of infection. 4) Pelvic fluid collections likely represent abscesses or inflammatory exudates. 5) Ascites and anasarca can occur with severe sepsis due to capillary leak and hypoalbuminemia. 6) Ulcerative skin lesions may represent either septic emboli or cutaneous manifestations of systemic sepsis. 7) The progressive nature from localized endometritis to systemic manifestations is consistent with puerperal sepsis. 8) Postpartum status creates heightened vulnerability to rapid progression of infection.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Peripartum Cardiomyopathy with Secondary Complications",
+            "reasoning": "1) Peripartum cardiomyopathy can develop in the last month of pregnancy or within five months postpartum. 2) Fluid overload from heart failure would explain ascites and anasarca. 3) Decreased cardiac output could predispose to thrombosis and pelvic fluid collections. 4) Fever could be from secondary infection of stagnant fluids or embolic phenomena. 5) Abdominal pain may result from hepatic congestion and ascites. 6) Ulcerative skin lesions could represent embolic phenomena from cardiac thrombi. 7) The combination of fluid collections and systemic symptoms could indicate a primary cardiac process with secondary infectious complications. 8) However, the history of endometritis suggests an infectious etiology as the primary process rather than cardiac.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Postpartum Preeclampsia/HELLP Syndrome with Complications",
+            "reasoning": "1) Postpartum preeclampsia can occur up to 6 weeks after delivery. 2) HELLP syndrome (Hemolysis, Elevated Liver enzymes, Low Platelets) can cause multiorgan dysfunction. 3) Abdominal pain could be from liver involvement or subcapsular hematoma. 4) Ascites and anasarca could result from capillary leak and hypoalbuminemia. 5) Pelvic fluid collections might represent areas of third-spacing or hemorrhage. 6) Fever could be from tissue necrosis or secondary infection. 7) Ulcerative skin lesions might represent vasculopathic changes seen in severe preeclampsia/HELLP. 8) However, the history of endometritis and persistent fever points more strongly toward an infectious etiology.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Necrotizing Fasciitis with Toxic Shock Syndrome",
+            "reasoning": "1) Postpartum state is a risk factor for necrotizing fasciitis, particularly of the perineum or abdominal wall. 2) Initial presentation with endometritis could have been misdiagnosed early necrotizing infection. 3) Persistent fever and progressive symptoms despite treatment are hallmarks of necrotizing infections. 4) Severe pain disproportionate to external findings is characteristic. 5) Ulcerative skin lesions may represent cutaneous manifestations of deep tissue infection. 6) Ascites and anasarca could result from massive cytokine release and capillary leak syndrome. 7) Pelvic fluid collections could represent tracking of infection through fascial planes. 8) However, necrotizing fasciitis typically progresses more rapidly (hours to days) than the more indolent course suggested in this case.",
+            "confidence_level": "Medium"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Septic Pelvic Thrombophlebitis",
+          "justification": "Septic pelvic thrombophlebitis best explains this 30-year-old postpartum woman's clinical presentation and evolution. The case began with endometritis, a common precursor to septic thrombophlebitis, followed by persistent fever despite presumed antibiotic treatment, which is a classic feature of septic thrombophlebitis. The development of abdominal pain beyond the initial endometritis suggests extension of the inflammatory process into surrounding structures, including pelvic veins. Imaging findings of pelvic fluid collections are consistent with inflammatory exudates around thrombosed vessels, while ascites and anasarca reflect the systemic inflammatory response and potentially compromised venous return. The subsequent appearance of ulcerative skin lesions strongly suggests septic emboli, a recognized complication of septic thrombophlebitis. The postpartum state is a well-established risk factor for this condition due to venous stasis, hypercoagulability, and the proximity of potentially infected endometrium to pelvic vessels. The temporal progression from localized endometritis to systemic manifestations with evidence of embolic phenomena strongly supports septic pelvic thrombophlebitis as the unifying diagnosis."
+        },
+        "next_steps_recommended_tests": [
+          "Contrast-enhanced CT or MRI of the pelvis and abdomen: To visualize thrombosed pelvic veins and evaluate for extent of thrombosis in the ovarian veins, iliac veins, or inferior vena cava.",
+          "Blood cultures (multiple sets): To identify the causative organism(s) and guide appropriate antibiotic therapy.",
+          "Coagulation studies (including D-dimer, fibrinogen, platelets): To assess for consumption coagulopathy which may accompany severe septic thrombophlebitis.",
+          "Transvaginal ultrasound with Doppler: To evaluate for endometritis and attempt visualization of pelvic vein thrombosis.",
+          "Skin lesion biopsy and culture: To confirm septic emboli and identify organisms for targeted therapy.",
+          "Echocardiography: To rule out endocarditis as a source of septic emboli and evaluate for cardiac complications.",
+          "Anticoagulation therapy: Initiate therapeutic anticoagulation (typically heparin initially) along with broad-spectrum antibiotics covering endometrial flora.",
+          "Surgical consultation: For possible intervention if there are extensive collections requiring drainage or if clinical deterioration occurs despite medical management."
+        ]
+      }
+    ]
+  }

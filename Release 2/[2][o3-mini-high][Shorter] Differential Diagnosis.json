@@ -1,0 +1,164 @@
+{
+    "cases": [
+      {
+        "case_id": "NEJMcpc2100279",
+        "case_summary": "A 22-year-old previously healthy woman presents with an 8-day history of systemic symptoms including nausea, myalgias, chills, vomiting, neck pain, and a severe headache with sonophobia, progressing to confusion and dyspnea. Evaluation revealed leukocytosis, thrombocytopenia, and imaging findings of acute subarachnoid hemorrhage with cortical infarcts, diffuse ischemic changes, bilateral pleural effusions, multifocal pulmonary nodules/consolidations, and CSF showing elevated opening pressure, neutrophil-predominant pleocytosis, and low glucose. Physical exam notable for tachypnea, meningismus, respiratory distress, a new mitral regurgitation murmur, petechiae, and splenomegaly.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Infective Endocarditis with Septic Emboli",
+            "reasoning": "The presence of a new mitral regurgitation murmur, splenomegaly, and petechiae strongly point to endocardial involvement. Neurological complications (subarachnoid hemorrhage, cortical infarcts) and multifocal pulmonary nodules are consistent with embolic phenomena from cardiac vegetations. CSF findings and systemic inflammatory signs support a bacterial etiology.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Bacterial Meningitis with Secondary Vascular Complications",
+            "reasoning": "CSF analysis showing neutrophilic pleocytosis, low glucose, and elevated opening pressure is characteristic of bacterial meningitis. The development of subarachnoid hemorrhage and ischemic changes could reflect vascular inflammation or secondary vasculitis complicating severe meningitis, though the cardiac findings are less directly explained.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Disseminated Intravascular Coagulation (DIC) Secondary to Sepsis",
+            "reasoning": "Thrombocytopenia and petechiae combined with evidence of hemorrhage (subarachnoid hemorrhage) and infarcts raise concern for a consumptive coagulopathy. However, DIC is more likely a complication of an underlying severe infection (e.g., endocarditis or meningitis) rather than the primary diagnosis.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Septic Pulmonary Emboli from an Alternative Source",
+            "reasoning": "The multifocal pulmonary nodules and consolidations suggest septic emboli; while infective endocarditis is the primary source, alternative sources such as a deep-seated soft tissue or intravascular infection could theoretically produce similar findings. Yet, the cardiac murmur and splenomegaly make this less likely.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Systemic Vasculitis with Secondary Hemorrhagic and Ischemic Events",
+            "reasoning": "Although systemic vasculitis (e.g., ANCA-associated) can present with pulmonary nodules, neurological events, and hemorrhagic phenomena, the neutrophil-predominant CSF profile with low glucose and the acute infectious presentation make a primary vasculitic process less consistent with the overall clinical picture.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Infective Endocarditis with Septic Emboli",
+          "justification": "The combination of a new cardiac murmur, systemic embolic events (cerebral infarcts, subarachnoid hemorrhage, pulmonary nodules), and signs of systemic infection (leukocytosis, CSF findings) most strongly supports infective endocarditis as the underlying process. Septic emboli from vegetations can explain the multi-organ involvement and complex neurological findings."
+        },
+        "next_steps_recommended_tests": [
+          "Transesophageal Echocardiogram (TEE): To visualize cardiac vegetations and confirm the diagnosis of infective endocarditis.",
+          "Blood Cultures: To identify the causative organism and tailor antibiotic therapy accordingly.",
+          "CT Angiography of the Brain: To evaluate for mycotic aneurysms or further vascular complications related to septic emboli."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2300900",
+        "case_summary": "A patient presents with a diastolic murmur, ECG changes (rightward axis, T-wave inversions, new Q-wave in aVL), and imaging findings demonstrating a hyperdynamic left ventricle with concentric thickening (18 mm), right ventricular thickening, biatrial dilation, and mild mitral valve thickening. Cardiac MRI reveals focal late gadolinium enhancement suggestive of hypertrophic cardiomyopathy, although genetic testing was negative. The patient exhibits severe exercise impairment on cardiopulmonary exercise testing with impaired stroke volume, while spirometry remains normal. Additional findings include elevated jugular venous pressure, Kussmaul's sign, and cutaneous angiomas. Past medical history is notable for arthritis and prior orthopedic surgeries, and initial treatment with diuretics (furosemide and spironolactone) has been initiated.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+            "reasoning": "The combination of concentric LV thickening, hyperdynamic function, focal late gadolinium enhancement on MRI, and characteristic ECG changes strongly points toward HCM. Although genetic testing is negative, a significant proportion of clinically diagnosed HCM cases may lack an identifiable genetic mutation, especially in phenotypic variants.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Fabry Cardiomyopathy",
+            "reasoning": "Fabry disease can mimic HCM with concentric LV thickening and may present with angiokeratomas (potentially reflected as angiomas in this case). The severe exercise impairment and diastolic dysfunction support a cardiomyopathic process. Lack of confirmatory enzyme or genetic findings makes this a moderate possibility.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Cardiac Amyloidosis",
+            "reasoning": "Amyloidosis is an infiltrative process that can cause increased wall thickness, diastolic dysfunction, and late gadolinium enhancement. However, the typical ECG pattern (often low voltage) and patient demographics make this less likely compared to HCM, though it remains a consideration in infiltrative cardiomyopathies.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Constrictive Pericarditis",
+            "reasoning": "Elevated jugular venous pressure and a positive Kussmaul's sign are classic for constrictive pericarditis. However, the imaging findings of myocardial thickening with focal fibrosis and lack of definitive pericardial abnormalities reduce its likelihood, making it a lower priority in the differential.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Hypertensive Heart Disease",
+            "reasoning": "Concentric left ventricular thickening can be seen with longstanding hypertension. Nonetheless, the patient's age, the pattern of late gadolinium enhancement, and associated features (e.g., biatrial dilation, specific ECG changes) make this diagnosis less compatible with the overall presentation.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+          "justification": "The imaging findings of concentric LV thickening with focal late gadolinium enhancement, hyperdynamic ventricular function, and corresponding ECG abnormalities strongly favor HCM. Despite negative genetic testing, the clinical phenotype and functional impairment align most consistently with a diagnosis of HCM, acknowledging that genetic mutations are not identified in all cases."
+        },
+        "next_steps_recommended_tests": [
+          "Repeat and expand genetic and enzyme assays: Re-assess for Fabry disease (e.g., alpha-galactosidase activity) and consider broader genetic panels for HCM phenocopies.",
+          "Advanced echocardiographic strain imaging: To further evaluate myocardial mechanics and diastolic function.",
+          "Cardiac catheterization with hemodynamic assessment: To evaluate for possible restrictive physiology and to rule out concomitant coronary or microvascular abnormalities."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309383",
+        "case_summary": "A 73-year-old man with a 22-month history of recurrent fever, cough, and fatigue presents with scattered pulmonary nodules, hepatic lesions up to 2.4 cm with central necrosis, and progressive splenomegaly (15 cm). Liver and bone marrow biopsies revealed nonnecrotizing granulomas, fibrin-ring granulomas, and portal histiocytosis with negative infectious stains. His history includes hypertension, hyperlipidemia, previous cholecystectomy, and exposure to pets and overseas military service. Despite multiple courses of empirical antibiotics, prednisone, and lesion drainage, his symptoms persist. Subsequent hospitalizations have shown growth of E. coli and Enterococcus faecalis in hepatic lesion cultures, likely representing secondary infection.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Chronic Q Fever (Coxiella burnetii Infection)",
+            "reasoning": "Fibrin-ring granulomas are a hallmark of Q fever hepatitis, and the chronic, relapsing fever with hepatic lesions showing central necrosis and splenomegaly strongly supports this diagnosis. The patient's history of pet exposure and overseas military service further raises the possibility of exposure to Coxiella burnetii, even in the absence of classic livestock contact.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Sarcoidosis",
+            "reasoning": "Nonnecrotizing granulomas, pulmonary nodules, and splenomegaly can be seen in sarcoidosis. However, the presence of fibrin-ring granulomas, negative ACE levels, and a prolonged febrile course make sarcoidosis less likely as the primary etiology.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Lymphoma",
+            "reasoning": "Recurrent fever, splenomegaly, and hepatic lesions could represent a lymphoproliferative disorder, such as Hodgkin lymphoma. Although granulomatous inflammation may occasionally be seen, the specific finding of fibrin-ring granulomas is atypical for lymphoma.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Atypical Mycobacterial Infection",
+            "reasoning": "Chronic infection with atypical mycobacteria can present with prolonged fever and granulomatous inflammation. However, negative infectious stains and the specific pattern of fibrin-ring granulomas reduce the likelihood of this diagnosis.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Culture-Negative Infective Endocarditis with Septic Emboli",
+            "reasoning": "While recurrent fever and hepatic lesions could be explained by septic emboli from endocarditis, the granulomatous histology with fibrin-ring features and the chronic course over nearly two years are less typical for endocarditis, making it a less favored diagnosis.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Chronic Q Fever (Coxiella burnetii Infection)",
+          "justification": "The constellation of a prolonged febrile illness, hepatic lesions with central necrosis, splenomegaly, and especially the finding of fibrin-ring granulomas on biopsy is most consistent with chronic Q fever hepatitis. Although classic livestock exposure is not documented, his history of pet exposure and overseas military service provides plausible routes for exposure. This diagnosis best explains the clinical and pathological findings despite previous empirical treatments."
+        },
+        "next_steps_recommended_tests": [
+          "Serologic Testing for Coxiella burnetii: Measure phase I and phase II antibodies to confirm chronic Q fever.",
+          "PCR Assay for Coxiella burnetii: To detect bacterial DNA in blood or tissue samples, aiding in the diagnosis.",
+          "Repeat Imaging and Consideration of Transesophageal Echocardiography (TEE): To evaluate for potential endocarditis, as chronic Q fever can involve the endocardium and complicate the clinical picture."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309500",
+        "case_summary": "A 30-year-old postpartum woman, six days after a spontaneous vaginal delivery complicated by a second-degree perineal laceration, presents with fever, chills, abdominal pain, uterine tenderness, ongoing vaginal bleeding, and painful inguinal pustules that progressed to ulceration. She also has leg swelling and leukocytosis. Imaging revealed increasing ascites, pelvic fluid collections, and parametrial abscesses, while endometrial biopsy showed dense neutrophilic infiltration. Cardiac evaluation disclosed anasarca and dilated right chambers, and despite broad-spectrum antibiotics and drainage, her condition continues to worsen.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Septic Pelvic Thrombophlebitis",
+            "reasoning": "The persistent postpartum fever, uterine tenderness, pelvic abscesses, and refractory response to antibiotics are strongly suggestive of septic pelvic thrombophlebitis—a condition known for its clinical diagnosis despite often negative imaging findings for thrombosis.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Postpartum Endometritis with Complicated Pelvic Abscesses",
+            "reasoning": "The endometrial biopsy showing dense neutrophilic infiltration along with pelvic fluid collections supports severe endometritis that has progressed to abscess formation. However, the lack of response to standard antibiotic therapy indicates a more complicated process.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Necrotizing Soft Tissue Infection",
+            "reasoning": "The progression of inguinal skin lesions to ulceration and draining pustules, particularly in a patient with a history of hidradenitis suppurativa, raises the possibility of a necrotizing soft tissue process contributing to the clinical deterioration.",
+            "confidence_level": "Moderate"
+          },
+          {
+            "diagnosis": "Sepsis-Induced Cardiomyopathy",
+            "reasoning": "The echocardiogram findings of dilated right chambers and anasarca suggest cardiac dysfunction secondary to severe sepsis. While this explains some of the systemic findings, it is likely a complication rather than the primary etiology.",
+            "confidence_level": "Low-Moderate"
+          },
+          {
+            "diagnosis": "Pyoderma Gangrenosum",
+            "reasoning": "Although her history of rosacea, acne, and hidradenitis suppurativa raises the possibility of an autoinflammatory condition such as pyoderma gangrenosum, the accompanying systemic infectious signs and uterine involvement make this diagnosis less likely.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Septic Pelvic Thrombophlebitis",
+          "justification": "The clinical scenario of persistent postpartum fever, pelvic abscesses, and systemic deterioration—despite aggressive antibiotic therapy and drainage—strongly favors septic pelvic thrombophlebitis, a challenging postpartum condition that often eludes definitive imaging confirmation."
+        },
+        "next_steps_recommended_tests": [
+          "Pelvic Venography with Transvaginal Doppler Ultrasound: To assess pelvic venous flow and detect any microthrombosis not apparent on initial imaging.",
+          "Repeat Blood Cultures and Inflammatory Marker Panel: To evaluate for persistent bacteremia and monitor the inflammatory response.",
+          "Cardiac MRI or Repeat Echocardiography: To further evaluate right ventricular function, rule out septic emboli, and assess for sepsis-induced cardiomyopathy."
+        ]
+      }
+    ]
+  }

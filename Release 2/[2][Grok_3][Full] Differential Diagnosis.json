@@ -1,0 +1,164 @@
+{
+    "cases": [
+      {
+        "case_id": "Case 38-2024",
+        "case_summary": "A 22-year-old woman presented with an 8-day history of headache, fever, nausea, myalgias, and neck pain, progressing to photophobia, confusion, respiratory distress, and respiratory failure requiring mechanical ventilation. Key findings include subarachnoid hemorrhage and ischemic changes on head CT, diffuse lung opacities, thrombocytopenia, leukocytosis, a holosystolic murmur, and petechiae. She works in healthcare, has a history of depression, and no recent travel or significant exposures.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Bacterial Meningitis with Secondary Complications",
+            "reasoning": "Step 1: Key clues include headache, fever, neck pain, photophobia, and confusion, classic for meningitis; subarachnoid hemorrhage could result from mycotic aneurysm rupture secondary to bacteremia. Step 2: Leukocytosis with neutrophilia and thrombocytopenia align with severe infection; respiratory failure and lung opacities suggest septic emboli or ARDS. Step 3: The murmur and petechiae raise suspicion for endocarditis as a source, though no vegetations are confirmed yet. Step 4: No lumbar puncture due to thrombocytopenia limits CSF data, but progression fits bacterial meningitis. Step 5: High probability given systemic involvement, though atypical features (e.g., no clear meningeal signs initially) slightly reduce confidence.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Infective Endocarditis with Embolic Phenomena",
+            "reasoning": "Step 1: Holosystolic murmur, petechiae, and systemic symptoms suggest endocarditis; subarachnoid hemorrhage and ischemic changes could be embolic. Step 2: Lung opacities and respiratory failure align with septic pulmonary emboli; thrombocytopenia and leukocytosis fit sepsis. Step 3: Lack of vegetations on initial exam and no clear risk factors (e.g., IV drug use) are inconsistent, but healthcare worker status might suggest exposure. Step 4: Alternative sources (e.g., meningitis) could explain brain findings, but cardiac involvement ties it together. Step 5: Strong fit, though imaging confirmation is pending.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Vasculitis (e.g., CNS Vasculitis or Systemic Vasculitis)",
+            "reasoning": "Step 1: Subarachnoid hemorrhage, ischemic changes, and systemic symptoms (fever, respiratory failure) suggest vasculitic process; petechiae and murmur could indicate systemic involvement. Step 2: Lung opacities and splenomegaly might reflect vasculitis-related inflammation; family history of autoimmune disease (lupus, Hashimoto’s) supports this. Step 3: Lack of antinuclear antibodies and normal coagulation reduce likelihood; meningitis-like onset is atypical. Step 4: Infection fits better given acuity and leukocytosis. Step 5: Possible but less likely given infectious markers.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP)",
+            "reasoning": "Step 1: Thrombocytopenia, fever, confusion, and possible microangiopathic changes (suggested by subarachnoid hemorrhage) align with TTP. Step 2: Normal haptoglobin and lack of schistocytes on smear argue against hemolysis; murmur and lung findings are atypical. Step 3: Doesn’t fully explain respiratory failure or subarachnoid hemorrhage without additional complications. Step 4: Infection or endocarditis better account for systemic features. Step 5: Low probability due to missing classic pentad (e.g., no renal failure, hemolysis).",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Leptospirosis",
+            "reasoning": "Step 1: Fever, myalgias, headache, lung opacities, and thrombocytopenia resemble severe leptospirosis; pulmonary hemorrhage fits bloody bronchoalveolar lavage. Step 2: No clear exposure (e.g., animals, water) and subarachnoid hemorrhage are unusual; murmur and petechiae don’t align well. Step 3: Requires zoonotic transmission, absent here. Step 4: Bacterial meningitis or endocarditis better explain brain and systemic findings. Step 5: Unlikely without exposure history.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Infective Endocarditis with Embolic Phenomena",
+          "justification": "The combination of a holosystolic murmur (suggesting valvular involvement), petechiae (a minor Duke criterion), subarachnoid hemorrhage and ischemic changes (likely embolic from vegetations), diffuse lung opacities (consistent with septic pulmonary emboli), and severe systemic symptoms (fever, respiratory failure, confusion) strongly point to infective endocarditis. Thrombocytopenia and leukocytosis reflect sepsis, and the patient’s healthcare work could imply exposure to pathogens like Staphylococcus or Streptococcus. While meningitis is compelling, the cardiac and embolic findings tip the balance toward endocarditis as the primary process, potentially complicated by secondary meningitis or aneurysm rupture."
+        },
+        "next_steps_recommended_tests": [
+          "Transthoracic or transesophageal echocardiography: To confirm vegetations or valvular damage critical for diagnosing endocarditis.",
+          "Blood cultures (multiple sets): To identify the causative organism and guide antibiotic therapy, especially given broad-spectrum treatment already started.",
+          "Lumbar puncture (if platelets stabilize): To rule in/out meningitis with CSF analysis for cells, glucose, protein, and culture, given thrombocytopenia precluded earlier testing."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2300900",
+        "case_summary": "A 54-year-old male athlete presented with a 17-month history of progressive exertional dyspnea and chest pressure, worsening exercise tolerance, and recent hoarseness and abdominal discomfort. Key findings include a new midsystolic murmur, ECG changes (T-wave inversions, rightward axis, reduced R-wave progression), cardiac MRI showing concentric left ventricular hypertrophy (18 mm) with late gadolinium enhancement, elevated troponin T (91 ng/L) and NT-proBNP (2099 pg/mL), jugular venous distension with Kussmaul’s sign, and severely reduced peak oxygen consumption (59% predicted) on cardiopulmonary exercise testing. Past coronary CTA 5 years prior was normal.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Amyloidosis (Cardiac Amyloidosis, likely AL or ATTR)",
+            "reasoning": "Step 1: Key clues include progressive exertional dyspnea, chest pressure, concentric LV hypertrophy (18 mm) on MRI, late gadolinium enhancement (LGE), elevated troponin and NT-proBNP, and jugular venous distension with Kussmaul’s sign, all classic for restrictive cardiomyopathy like amyloidosis. Step 2: Reduced oxygen consumption and impaired oxygen pulse on exercise testing suggest cardiac limitation; hoarseness could indicate systemic AL amyloidosis (laryngeal involvement). Step 3: Normal coronaries 5 years ago and lack of ischemic wall-motion abnormalities rule out coronary artery disease; genetic HCM panel was negative. Step 4: Alternatives like HCM less likely due to symmetric hypertrophy, lack of outflow gradient, and systemic signs (e.g., hoarseness). Step 5: High probability given restrictive physiology and multi-organ hints, though subtype (AL vs. ATTR) unclear without further testing.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+            "reasoning": "Step 1: LV hypertrophy (18 mm), hyperdynamic LV, T-wave inversions, and exercise intolerance suggest HCM; athletic history could predispose to phenotypic expression. Step 2: MRI findings (LGE, symmetric thickening) and lack of outflow gradient are atypical for classic HCM, which often shows asymmetric hypertrophy and dynamic obstruction. Step 3: Negative genetic panel and absence of family history reduce likelihood; Kussmaul’s sign and systemic symptoms (hoarseness) don’t fit. Step 4: Amyloidosis better explains restrictive features and elevated biomarkers. Step 5: Moderate fit, but less likely given atypical features and negative genetics.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Coronary Artery Disease (CAD) with Ischemia",
+            "reasoning": "Step 1: Chest pressure, dyspnea on exertion, and ST depressions on stress testing suggest ischemia; family history of premature CAD is a risk factor. Step 2: Normal coronary CTA 5 years ago, CAD-RADS 0, and no wall-motion abnormalities on stress echo argue against significant CAD; troponin elevation and LVH are atypical for pure ischemia. Step 3: Progression over 17 months without acute events is unusual for CAD; restrictive physiology doesn’t fit. Step 4: Amyloidosis or HCM better explain structural and functional changes. Step 5: Low probability given prior normal coronaries and lack of ischemic pattern.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Constrictive Pericarditis",
+            "reasoning": "Step 1: Jugular venous distension, Kussmaul’s sign, and exercise intolerance suggest pericardial constriction; dyspnea and elevated NT-proBNP could reflect right heart strain. Step 2: Absence of pericardial thickening or calcification on imaging, presence of LVH, and LGE on MRI are inconsistent; murmur and hoarseness don’t fit. Step 3: Requires prior pericarditis or trauma, not evident here. Step 4: Amyloidosis explains findings more cohesively. Step 5: Low likelihood due to imaging discrepancies.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Sarcoidosis with Cardiac Involvement",
+            "reasoning": "Step 1: LV hypertrophy, LGE, T-wave inversions, and exercise limitation could indicate cardiac sarcoidosis; systemic symptoms (hoarseness) might suggest granulomatous involvement. Step 2: Lack of lung findings, lymphadenopathy, or arrhythmias (only minor ectopy) is atypical; symmetric LVH and restrictive physiology lean toward amyloidosis. Step 3: No history of sarcoidosis or supporting systemic features. Step 4: Amyloidosis fits better with biomarker and imaging profile. Step 5: Possible but unlikely without extracardiac clues.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Cardiac Amyloidosis (likely AL or ATTR)",
+          "justification": "The patient’s progressive exertional dyspnea, chest pressure, symmetric LV hypertrophy (18 mm), restrictive physiology (elevated JVP, Kussmaul’s sign, low oxygen pulse), late gadolinium enhancement on MRI, and markedly elevated troponin T and NT-proBNP strongly suggest cardiac amyloidosis. The insidious onset, severe exercise intolerance (59% predicted VO2 max), and subtle systemic signs (hoarseness, abdominal discomfort) align with amyloid deposition, potentially AL (given hoarseness) or ATTR (given age and hypertrophy). Normal coronaries 5 years prior and negative HCM genetics exclude major alternatives. The restrictive cardiomyopathy pattern and multi-organ hints make this the most cohesive diagnosis."
+        },
+        "next_steps_recommended_tests": [
+          "Serum and urine protein electrophoresis with immunofixation: To detect monoclonal protein suggestive of AL amyloidosis.",
+          "Technetium-99m pyrophosphate (Tc-99m PYP) scan: To evaluate for ATTR amyloidosis if AL testing is negative.",
+          "Endomyocardial biopsy with Congo red staining and mass spectrometry: To confirm amyloid type (AL vs. ATTR) if non-invasive tests are inconclusive."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309383",
+        "case_summary": "A 73-year-old man presented with a 22-month history of recurrent fever, chills, night sweats, fatigue, and epigastric discomfort. Imaging revealed progressive hepatic lesions (up to 4 cm, some necrotic), splenomegaly (15 cm), and stable pulmonary nodules. Liver biopsies showed nonnecrotizing granulomas (some fibrin-ring), later abscesses with bacterial growth (E. coli, Enterococcus faecalis). Bone marrow showed rare granulomas. Blood cultures grew Klebsiella pneumoniae. Extensive infectious and autoimmune workups were negative. Past history includes CAD, hypertension, and travel to Southeast Asia decades ago.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Chronic Bacterial Infection with Hepatic Abscesses",
+            "reasoning": "Step 1: Recurrent fever, hepatic lesions progressing to abscesses, and bacterial growth (Klebsiella, E. coli, Enterococcus) strongly suggest a chronic infectious source. Step 2: Splenomegaly and pulmonary nodules could reflect systemic spread; granulomas might be an early response to infection. Step 3: Negative extensive infectious workup is inconsistent, but cultures confirm bacterial etiology; lack of response to antibiotics suggests occult source (e.g., biliary, endovascular). Step 4: Granulomatous diseases (e.g., TB, sarcoidosis) less likely with abscesses and negative stains. Step 5: High probability given culture evidence and progression, though source remains unclear.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Sarcoidosis with Secondary Infection",
+            "reasoning": "Step 1: Nonnecrotizing granulomas in liver and bone marrow, splenomegaly, and pulmonary nodules suggest sarcoidosis. Step 2: Recurrent fever and hepatic lesions fit systemic inflammation; fibrin-ring granulomas are rare but reported. Step 3: Normal ACE levels, lack of lymphadenopathy, and late abscess formation with bacterial growth are atypical; immunosuppression (e.g., prednisone) could predispose to infection. Step 4: Pure infection better explains abscesses and cultures. Step 5: Moderate fit, but secondary infection complicates the picture.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Mycobacterial Infection (e.g., Tuberculosis)",
+            "reasoning": "Step 1: Granulomas, fever, pulmonary nodules, and splenomegaly raise suspicion for TB; travel history (Vietnam) is a risk factor. Step 2: Fibrin-ring granulomas can occur in atypical mycobacteria; hepatic involvement fits disseminated disease. Step 3: Negative AFB stains, cultures, and TB testing argue against it; abscesses with common bacteria are inconsistent. Step 4: Bacterial infection better explains acute findings. Step 5: Low probability due to negative workup, but not fully excluded.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Q Fever (Coxiella burnetii)",
+            "reasoning": "Step 1: Fibrin-ring granulomas, fever, hepatic lesions, and splenomegaly are classic for Q fever; pet exposure (cats, finches) is a risk. Step 2: Pulmonary nodules and chronicity fit; endocarditis is common but TTE was negative. Step 3: Negative serology and lack of response to doxycycline strongly argue against it; bacterial cultures suggest alternative etiology. Step 4: Chronic bacterial abscesses more likely. Step 5: Low probability given negative testing.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Malignancy (e.g., Lymphoma)",
+            "reasoning": "Step 1: Fever, night sweats, splenomegaly, and hepatic lesions suggest malignancy; granulomas can occur in lymphoma. Step 2: Pulmonary nodules and chronicity fit; bone marrow involvement possible. Step 3: Normal flow cytometry, cytology, and lack of lymphadenopathy argue against it; abscesses with bacterial growth are atypical. Step 4: Infection explains findings more directly. Step 5: Low likelihood without nodal or marrow evidence.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Chronic Bacterial Infection with Hepatic Abscesses",
+          "justification": "The patient’s 22-month history of recurrent fever, progressive hepatic lesions evolving into abscesses, and multiple positive cultures (Klebsiella pneumoniae, E. coli, Enterococcus faecalis) point to a chronic bacterial infection as the primary process. Initial granulomas (including fibrin-ring) suggest an early inflammatory response, possibly to an occult source (e.g., biliary leak, endovascular infection) not fully identified. Splenomegaly and pulmonary nodules reflect systemic involvement, while negative extensive infectious and autoimmune workups exclude most alternatives. Lack of response to antibiotics and recurrence suggest a persistent nidus, outweighing granulomatous diseases like sarcoidosis or TB, which don’t align with late abscess formation and bacterial isolates."
+        },
+        "next_steps_recommended_tests": [
+          "Contrast-enhanced MRI or CT with biliary protocol: To identify a biliary source (e.g., fistula, obstruction) driving recurrent abscesses.",
+          "Transesophageal echocardiography (TEE): To rule out occult endocarditis as a source of seeding, given negative TTE and systemic features.",
+          "PET-CT scan: To detect an occult infectious focus or malignancy contributing to chronic inflammation and abscess formation."
+        ]
+      },
+      {
+        "case_id": "Case 22-2024",
+        "case_summary": "A 30-year-old woman, 6 days postpartum (35 weeks 3 days gestation), presented with fever, chills, abdominal pain, and a history of painful inguinal pustules. She developed worsening symptoms including shortness of breath, marked leukocytosis (34,720/µL), pelvic fluid collections (6.3 cm and 3.2 cm), ascites, anasarca, splenomegaly, hepatomegaly, and right heart dilatation on echocardiography. Laboratory findings included elevated CRP (132 mg/dL), NT-proBNP (9006 pg/mL), D-dimer (3392 ng/mL), and alkaline phosphatase (670 U/L), with hypoalbuminemia (1.9 g/dL). Past history includes hidradenitis suppurativa, diverticulitis, and family history of Crohn’s disease and arthritis.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Postpartum Sepsis with Systemic Inflammatory Response",
+            "reasoning": "Step 1: Fever, leukocytosis, and pelvic fluid collections 6 days postpartum suggest endometritis or pelvic infection; purulent drainage supports this. Step 2: Progression to multisystem involvement (ascites, anasarca, hepatosplenomegaly, right heart strain) and elevated inflammatory markers (CRP, D-dimer) indicate a severe systemic response, possibly sepsis-related organ dysfunction. Step 3: Negative cultures and lack of response to antibiotics are inconsistent, but could reflect sampling issues or resistant organisms; hidradenitis suppurativa may predispose to infection. Step 4: Autoimmune diseases less likely given acute onset and neutrophilic infiltrate. Step 5: High probability due to postpartum timing and systemic features, though exact source unclear.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Systemic Lupus Erythematosus (SLE) or Lupus-like Flare",
+            "reasoning": "Step 1: Fever, multisystem involvement (serositis with ascites, hepatosplenomegaly, right heart strain), leukocytosis, hypoalbuminemia, and skin lesions (pustules) suggest SLE; family history of arthritis supports autoimmunity. Step 2: Elevated CRP, NT-proBNP, and D-dimer align with inflammation and organ stress; postpartum period can trigger flares. Step 3: Lack of classic SLE features (e.g., rash, arthritis, ANA not reported) and neutrophilic endometrial infiltrate are atypical. Step 4: Sepsis better explains acute onset and purulent collections. Step 5: Moderate fit, possibly triggered by pregnancy, but less likely as primary cause.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Inflammatory Bowel Disease (IBD) Flare with Extraintestinal Manifestations",
+            "reasoning": "Step 1: History of diverticulitis, family history of Crohn’s, and abdominal pain raise suspicion for IBD; fever, hepatosplenomegaly, and skin lesions (possible pyoderma gangrenosum) are extraintestinal features. Step 2: Postpartum stress could exacerbate IBD; ascites and anasarca might reflect hypoalbuminemia from gut loss. Step 3: No bowel symptoms (e.g., diarrhea) or imaging evidence of IBD; pelvic collections and neutrophilic infiltrate suggest infection over inflammation. Step 4: Sepsis fits acute presentation better. Step 5: Low probability without gastrointestinal evidence, but possible contributor.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Puerperal Pulmonary Embolism with Secondary Complications",
+            "reasoning": "Step 1: Postpartum state, shortness of breath, right heart dilatation, and elevated D-dimer suggest pulmonary embolism (PE); fever and pain could reflect infarction. Step 2: Negative CT pulmonary angiography rules out large PE; multisystem findings (ascites, hepatosplenomegaly) and leukocytosis are atypical for isolated PE. Step 3: Right heart strain could be from hypoxia or sepsis, not PE. Step 4: Sepsis explains broader picture more cohesively. Step 5: Low likelihood given negative imaging, but small emboli not excluded.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Hidradenitis Suppurativa Superinfection with Systemic Spread",
+            "reasoning": "Step 1: Known hidradenitis suppurativa with draining pustules could be an infectious source; postpartum immune changes might worsen it. Step 2: Fever, leukocytosis, and systemic involvement (pelvic collections, organomegaly) could reflect bacterial dissemination. Step 3: Negative cultures and primary pelvic focus argue against skin as sole source; multisystem failure exceeds typical hidradenitis complications. Step 4: Postpartum sepsis more likely primary. Step 5: Low probability as primary cause, but possible contributing factor.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Postpartum Sepsis with Systemic Inflammatory Response",
+          "justification": "The patient’s presentation 6 days postpartum with fever, abdominal pain, leukocytosis, and pelvic fluid collections (one purulent) strongly suggests a postpartum infectious process, likely endometritis or pelvic abscess, progressing to sepsis. Multisystem involvement (ascites, anasarca, hepatosplenomegaly, right heart strain), marked inflammatory response (CRP 132 mg/dL, D-dimer 3392 ng/mL), and organ stress (NT-proBNP 9006 pg/mL, hypoalbuminemia) indicate a severe systemic inflammatory response syndrome (SIRS) or sepsis-related dysfunction. Negative cultures may reflect prior antibiotics or sampling issues, while lack of response to treatment suggests resistant organisms or inadequate source control. Autoimmune or embolic alternatives are less consistent with the acute, neutrophilic, and postpartum context."
+        },
+        "next_steps_recommended_tests": [
+          "Repeat blood, urine, and pelvic fluid cultures with anaerobic coverage: To identify causative organisms, given prior antibiotics may have suppressed growth.",
+          "Pelvic ultrasound or CT-guided drainage of additional collections: To ensure source control and obtain further samples for culture.",
+          "Autoimmune panel (ANA, anti-dsDNA, complement levels): To rule out SLE or lupus-like flare as a contributing factor, given systemic features and family history."
+        ]
+      }
+    ]
+  }

@@ -1,0 +1,172 @@
+{
+    "cases": [
+      {
+        "case_id": "NEJMcpc2100279",
+        "case_summary": "A 22-year-old woman presented with an 8-day history of progressive illness beginning with nausea, myalgias, chills, vomiting, neck pain, and headache with sonophobia, followed by worsening headache, photophobia, malaise, anorexia, nonproductive cough, dyspnea, confusion, and excessive sleepiness. Initial evaluation showed leukocytosis, thrombocytopenia, and dry mucous membranes. The illness progressed to respiratory failure, with imaging showing subarachnoid hemorrhage, acute cortical infarcts, diffuse lung opacities, and splenic hypodensities consistent with infarcts. Physical examination revealed meningismus, a holosystolic murmur, splenomegaly, and petechiae.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Infective Endocarditis with Septic Emboli",
+            "reasoning": "1) The patient has a progressive systemic illness with fever, suggesting an infectious process. 2) The presence of a new holosystolic murmur radiating to the sternum strongly suggests valvular involvement. 3) Multiple organ involvement with embolic phenomena is evidenced by: cerebral infarcts, subarachnoid hemorrhage (likely mycotic aneurysm rupture), pulmonary nodular opacities, and splenic infarcts. 4) Petechiae on examination, thrombocytopenia, and elevated inflammatory markers are consistent with endocarditis. 5) The combination of meningismus, neurological symptoms, and respiratory deterioration fits with septic emboli from infected heart valves.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Disseminated Neisseria meningitidis infection (Meningococcemia)",
+            "reasoning": "1) The initial presentation with headache, neck pain, sonophobia, and subsequent photophobia strongly suggests meningitis. 2) The CSF shows elevated opening pressure, elevated cell count with neutrophilic predominance, and RBCs consistent with hemorrhagic meningitis. 3) Multiorgan involvement with rash (petechiae), respiratory failure, and circulatory compromise is typical of meningococcemia. 4) The patient's age group (young adult) is consistent with meningococcal disease. 5) Neurological deterioration with confusion and excessive sleepiness suggests progressive meningeal involvement.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Thrombotic Thrombocytopenic Purpura (TTP)",
+            "reasoning": "1) The patient has thrombocytopenia (platelet count as low as 28,000) which is a hallmark of TTP. 2) Neurological manifestations including confusion and headache are consistent with microvascular thrombosis in the CNS. 3) The subarachnoid hemorrhage and cortical infarcts could result from microvascular thrombosis and subsequent hemorrhage. 4) Multiorgan involvement with pulmonary, cerebral, and splenic manifestations fits the pattern of TTP. 5) While fever is present, the absence of a clear infectious source initially might point toward a primary hematologic disorder.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Systemic Lupus Erythematosus with Catastrophic Antiphospholipid Syndrome",
+            "reasoning": "1) Family history of autoimmune disease (mother with cutaneous lupus, grandmother with Hashimoto's) suggests genetic predisposition. 2) Multiorgan thrombotic disease with cerebral infarcts, splenic infarcts, and pulmonary involvement is consistent with catastrophic antiphospholipid syndrome. 3) The presentation with neurological symptoms, thrombocytopenia, and multisystem involvement is consistent with SLE flare. 4) Subarachnoid hemorrhage could result from vasculitis or coagulopathy related to SLE. 5) The rapid progression and severity suggest a catastrophic variant of antiphospholipid syndrome.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Viral Hemorrhagic Fever",
+            "reasoning": "1) The acute presentation with fever, headache, myalgias, followed by multisystem involvement is consistent with viral hemorrhagic fever. 2) Hemorrhagic manifestations (subarachnoid hemorrhage, petechiae) and thrombocytopenia are hallmarks of hemorrhagic fevers. 3) Though the patient's recent travel was more than a year prior to presentation, the Caribbean does have some endemic viral illnesses that can present with hemorrhagic manifestations. 4) Progressive respiratory failure with pulmonary edema can be seen in severe viral hemorrhagic fevers. 5) However, the lack of recent travel to highly endemic areas and the presence of cardiac murmur make this diagnosis less likely.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Infective Endocarditis with Septic Emboli",
+          "justification": "The constellation of findings strongly supports infective endocarditis as the unifying diagnosis. The new holosystolic murmur is a critical finding suggesting valvular vegetation. The pattern of multiorgan involvement with embolic phenomena (cerebral infarcts, splenic infarcts, pulmonary nodules) is classic for septic emboli from endocarditis. The subarachnoid hemorrhage likely represents a ruptured mycotic aneurysm, a known complication of endocarditis. The patient's progressive systemic illness with fever, leukocytosis, and thrombocytopenia is consistent with ongoing bacteremia. The presence of petechiae is a well-recognized cutaneous manifestation of endocarditis. While meningitis is present, it is more likely secondary to the endocarditis rather than a primary meningococcal infection, given the multifocal embolic phenomena and cardiac findings."
+        },
+        "next_steps_recommended_tests": [
+          "Blood cultures (multiple sets) to identify the causative organism, with specific attention to pathogens commonly associated with endocarditis (Staphylococcus, Streptococcus, HACEK organisms).",
+          "Transthoracic echocardiography followed by transesophageal echocardiography to visualize and characterize the suspected valvular vegetations, assess valve function, and detect complications such as perivalvular abscess.",
+          "Comprehensive infectious disease workup including testing for culture-negative endocarditis pathogens (Bartonella, Coxiella, fungi) if initial blood cultures remain negative.",
+          "Cerebral angiography to identify and potentially treat mycotic aneurysms that may have caused the subarachnoid hemorrhage.",
+          "Cardiac surgery consultation for potential urgent valve replacement if large vegetations, severe valvular dysfunction, or heart failure are identified."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2300900",
+        "case_summary": "A 54-year-old male athlete presented with a 17-month history of progressive exertional dyspnea and chest pressure during exercise. Initially presenting with the inability to 'get a full breath' during high-intensity exercise, his condition progressed over time. Physical exam revealed a new systolic murmur, elevated jugular venous pressure, and Kussmaul's sign. ECG showed sinus rhythm, rightward axis, diffuse T-wave inversions, and decreased QRS amplitudes. Imaging studies over time revealed progressive concentric left ventricular wall thickening (up to 18mm), late gadolinium enhancement on cardiac MRI, and biatrial and inferior vena cava dilation. Cardiopulmonary exercise testing showed severely reduced maximal oxygen consumption (59% of predicted). Lab tests revealed elevated troponin T and NT-proBNP levels.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Cardiac Amyloidosis (AL or ATTR type)",
+            "reasoning": "1) Progressive concentric left ventricular wall thickening with lack of apex-base tapering is classic for infiltrative cardiomyopathy. 2) ECG shows low voltage despite increased wall thickness, a hallmark of amyloidosis. 3) Diffuse T-wave inversions are consistent with infiltrative disease. 4) Late gadolinium enhancement pattern on MRI is compatible with amyloidosis. 5) Reduced exercise capacity, elevated filling pressures (JVP 13cm, Kussmaul's sign), and consistently elevated troponin and NT-proBNP support this diagnosis. 6) Extracardiac manifestations (hoarseness, possible autonomic symptoms with abdominal discomfort) fit with systemic amyloidosis. 7) The age of the patient (54) and male gender increase the likelihood of hereditary ATTR amyloidosis.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Hypertrophic Cardiomyopathy (HCM)",
+            "reasoning": "1) Left ventricular hypertrophy (18mm) exceeds the upper limit of physiologic adaptation to exercise. 2) Presence of late gadolinium enhancement on cardiac MRI (3% of myocardium) is consistent with HCM. 3) Dynamic left ventricular outflow tract gradient noted on stress echocardiography, though minimal (12mmHg). 4) Systolic intracavitary obliteration is common in HCM. 5) Mitral valve thickening could represent systolic anterior motion of the mitral valve. 6) However, several features argue against HCM: the genetic testing was negative for 56 HCM-associated genes, the pattern of hypertrophy is concentric rather than asymmetric, family screening was negative, and ECG shows low voltage which is atypical for HCM.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Anderson-Fabry Disease",
+            "reasoning": "1) Concentric LV hypertrophy can be seen in Fabry disease. 2) Middle-aged male presentation is compatible with X-linked inheritance pattern. 3) Late gadolinium enhancement on MRI can occur in Fabry disease, typically in the posterolateral wall. 4) ECG abnormalities including T-wave inversions can occur in Fabry disease. 5) However, argues against this diagnosis: absence of other typical manifestations such as proteinuria, angiokeratomas (only small angiomas noted), neuropathic pain, and corneal deposits. Additionally, the patient developed symptoms relatively late in life for Fabry disease.",
+            "confidence_level": "Low-Medium"
+          },
+          {
+            "diagnosis": "Athlete's Heart with Superimposed Myocarditis",
+            "reasoning": "1) Long history of athletic activity including college sports and triathlons could lead to cardiac remodeling. 2) Onset of symptoms was relatively sudden 17 months ago, which could represent a superimposed inflammatory process. 3) Late gadolinium enhancement on MRI could represent focal myocarditis. 4) Elevated troponin could represent ongoing myocardial injury. 5) However, the degree of hypertrophy (18mm) exceeds physiologic remodeling, the ECG shows low voltage (atypical for athlete's heart), and the clinical course is progressive rather than improving as would be expected with resolving myocarditis.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Restrictive Cardiomyopathy due to other Infiltrative Disease (e.g., Sarcoidosis, Hemochromatosis)",
+            "reasoning": "1) Elevated filling pressures (JVP, Kussmaul's sign) suggest restrictive physiology. 2) Biatrial enlargement is consistent with restrictive cardiomyopathy. 3) Reduced exercise capacity with preserved peak work output suggests cardiac limitation. 4) However, cardiac sarcoidosis typically presents with conduction abnormalities and more patchy LGE on MRI, and hemochromatosis would typically show different MRI characteristics. The absence of other systemic manifestations of these conditions makes them less likely.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Cardiac Amyloidosis (likely ATTR type)",
+          "justification": "The combination of concentric left ventricular hypertrophy with low voltage on ECG is pathognomonic for infiltrative cardiomyopathy, with amyloidosis being the most likely etiology. The progressive nature of symptoms, ECG findings (diffuse T-wave inversions, low voltage), cardiac MRI findings (concentric LVH without apex-base gradient, LGE), and clinical signs of heart failure with preserved ejection fraction (elevated JVP, Kussmaul's sign) all strongly support cardiac amyloidosis. The lack of family history of HCM, negative genetic testing for HCM, and the pattern of LVH argue against hypertrophic cardiomyopathy. Given the patient's age (54), male gender, and the insidious progressive course, ATTR amyloidosis (either wild-type or hereditary) is more likely than AL amyloidosis, though both remain possibilities without tissue confirmation."
+        },
+        "next_steps_recommended_tests": [
+          "Technetium pyrophosphate (99mTc-PYP) cardiac scintigraphy to assess for ATTR cardiac amyloidosis, which has high sensitivity and specificity when combined with absence of monoclonal protein.",
+          "Serum and urine immunofixation electrophoresis and serum free light chain assay to rule out AL amyloidosis.",
+          "Genetic testing for transthyretin (TTR) gene mutations if ATTR amyloidosis is confirmed to distinguish between hereditary and wild-type forms.",
+          "Endomyocardial biopsy with Congo red staining for definitive diagnosis of cardiac amyloidosis and typing if non-invasive workup is inconclusive.",
+          "Comprehensive autonomic testing and evaluation for other organ involvement, particularly neuropathy, gastrointestinal symptoms, and carpal tunnel syndrome, which are common in systemic amyloidosis."
+        ]
+      },
+      {
+        "case_id": "NEJMcpc2309383",
+        "case_summary": "A 73-year-old man presented with a 22-month history of recurrent fever. Initially diagnosed with pneumonia, he had persistent intermittent fevers despite empirical antibiotics. Imaging revealed scattered solid pulmonary nodules, progressive enlarging hepatic hypodensities (up to 2.4 cm), and worsening splenomegaly. Multiple biopsies of liver and bone marrow showed nonnecrotizing granulomas, with some fibrin-ring granulomas in the liver. Despite extensive infectious disease workup and multiple courses of empirical antibiotics, the patient's condition progressively worsened with expanding hepatic and splenic lesions. Cultures from hepatic lesions eventually grew Klebsiella pneumoniae, Escherichia coli, and Enterococcus faecalis at different times.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Chronic Granulomatous Disease (CGD)",
+            "reasoning": "1) The patient has recurrent infections with catalase-positive organisms (K. pneumoniae, E. coli) which are characteristic of CGD. 2) Persistent hepatic and splenic abscesses despite appropriate antibiotic therapy strongly suggest an underlying immune defect. 3) Nonnecrotizing granulomas in both liver and bone marrow are classic histopathologic findings in CGD. 4) The presence of fibrin-ring granulomas in the liver, while not specific, can be seen in CGD. 5) Progressive nature of disease despite multiple antibiotic courses suggests an underlying immune dysfunction rather than conventional infections. 6) While CGD typically presents in childhood, late-onset or adult presentations can occur, particularly in X-linked carriers or those with residual NADPH oxidase activity.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Disseminated Mycobacterial Infection (NTM or MTB)",
+            "reasoning": "1) Recurrent fever with hepatosplenic involvement and granulomatous inflammation is classic for disseminated mycobacterial infection. 2) The clinical course is indolent and progressive, consistent with mycobacterial disease. 3) Negative acid-fast stains and cultures do not exclude mycobacterial infection, as these organisms can be difficult to culture. 4) The patient's military service in Southeast Asia (including Vietnam) could have exposed him to various mycobacterial pathogens. 5) Pulmonary nodules with hepatosplenic lesions fit the pattern of disseminated mycobacterial disease. 6) However, the predominantly hepatic involvement without significant pulmonary disease and the presence of fibrin-ring granulomas are somewhat atypical for mycobacterial infection.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "Q Fever (Chronic)",
+            "reasoning": "1) Chronic Q fever can present with recurrent fever and granulomatous inflammation in various organs. 2) Fibrin-ring granulomas in the liver are classically associated with Q fever, though not specific. 3) The patient has potential exposure risk from pets (cats) and possible environmental exposures. 4) Negative serology for Coxiella burnetii does not completely exclude chronic Q fever, especially if testing was performed during antibiotic therapy. 5) Hepatosplenic involvement without prominent respiratory symptoms fits the profile of chronic Q fever. 6) However, the progressive nature of lesions despite doxycycline therapy (which is typically effective against C. burnetii) makes this diagnosis less likely.",
+            "confidence_level": "Medium-Low"
+          },
+          {
+            "diagnosis": "Disseminated Fungal Infection",
+            "reasoning": "1) The patient traveled to the Southwestern US, an endemic area for coccidioidomycosis and histoplasmosis. 2) Granulomatous inflammation is typical of many fungal infections. 3) Indolent progressive course with multiorgan involvement is consistent with disseminated fungal disease. 4) Negative fungal stains and cultures do not exclude fungal infection, particularly if the patient received antifungal therapy or if sampling was not optimal. 5) However, the presence of bacterial superinfections (rather than fungal isolation) from the hepatic lesions and the pattern of predominantly hepatic involvement are somewhat atypical for primary fungal infection.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Sarcoidosis with Secondary Bacterial Infections",
+            "reasoning": "1) Nonnecrotizing granulomas in multiple organs are the hallmark of sarcoidosis. 2) Recurrent fever and progressive hepatosplenic involvement can occur in sarcoidosis. 3) The family history of autoimmune conditions (including granuloma annulare) could suggest a genetic predisposition to granulomatous disorders. 4) The patient has a history of brief response to prednisone, which would be expected in sarcoidosis. 5) However, the development of multiple bacterial infections in the hepatic lesions and the progressive course despite steroid therapy argue against uncomplicated sarcoidosis. 6) Normal ACE levels and the patient's age make sarcoidosis less likely as the primary diagnosis.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Chronic Granulomatous Disease (likely X-linked CGD with residual oxidase activity)",
+          "justification": "The constellation of findings strongly supports an underlying primary immunodeficiency, most likely Chronic Granulomatous Disease. The hallmark features supporting this diagnosis include: recurrent infections with catalase-positive organisms (K. pneumoniae, E. coli) despite appropriate antibiotic therapy; characteristic granulomatous inflammation in multiple organs; progressive hepatosplenic abscesses; and failure to clear infections despite multiple antibiotic courses. While CGD typically presents in childhood, cases of adult-onset or late diagnosis of CGD have been reported, particularly in individuals with residual NADPH oxidase activity or X-linked carriers with skewed X-inactivation. The patient's military service and potential environmental exposures may have led to encounters with various pathogens, but the underlying immune defect in CGD would explain his inability to clear infections and the development of characteristic granulomatous inflammation."
+        },
+        "next_steps_recommended_tests": [
+          "Neutrophil oxidative burst assay (dihydrorhodamine [DHR] flow cytometry test) to assess NADPH oxidase function, which is the gold standard for diagnosing CGD.",
+          "Genetic testing for mutations in CYBB, CYBA, NCF1, NCF2, and NCF4 genes to identify the specific genetic defect causing CGD, which would help with genetic counseling and potentially guide therapy.",
+          "Comprehensive microbiological sampling of hepatic lesions with extended cultures for bacteria (including fastidious organisms), mycobacteria, and fungi, ideally before any antimicrobial therapy, to identify all potential pathogens.",
+          "Therapeutic trial of prophylactic antimicrobials (trimethoprim-sulfamethoxazole and an antifungal) along with interferon-gamma, which is the standard of care for CGD.",
+          "Evaluation of closely related family members for potential carrier status or milder forms of CGD, particularly given the family history of autoimmune conditions."
+        ]
+      },
+      {
+        "case_id": "NEJM-22-2024",
+        "case_summary": "A 30-year-old woman (G1P1) presented 6 days postpartum with fever and abdominal pain. She had preterm delivery at 35 weeks 3 days and developed painful inguinal bumps during pregnancy that drained blood and pus. Her hospital course was marked by persistent fever and abdominal pain despite broad-spectrum antibiotics. Imaging revealed pelvic fluid collections, progressive ascites, anasarca, hepatosplenomegaly, and intrahepatic fluid collections. Multiple skin ulcers developed at sites of trauma (IV insertion sites, drainage catheter sites, inguinal areas). She had preexisting hidradenitis suppurativa, rosacea, and acne. Family history included a brother with Crohn's disease, father with early-onset arthritis, and brother with neurofibromatosis.",
+        "differential_diagnosis": [
+          {
+            "diagnosis": "Pyoderma Gangrenosum with Inflammatory Bowel Disease",
+            "reasoning": "1) The rapid development of painful pustules/bullae that progress to deep ulcers with violaceous undermined borders is highly characteristic of pyoderma gangrenosum (PG). 2) The pathergy phenomenon (development of lesions at sites of trauma - IV sites, drainage catheter sites) strongly supports PG. 3) Family history of Crohn's disease and personal history of recurrent abdominal issues (diverticulitis, epiploic appendagitis) suggest possible undiagnosed IBD. 4) The systemic inflammatory response with fever, leukocytosis, elevated inflammatory markers, and multi-organ involvement is consistent with severe IBD flare precipitated by pregnancy/delivery stress. 5) The patient's hidradenitis suppurativa is a known neutrophilic dermatosis that can be associated with IBD and PG as part of the autoinflammatory spectrum. 6) The lack of response to multiple antibiotics argues against a primary infectious etiology.",
+            "confidence_level": "High"
+          },
+          {
+            "diagnosis": "Postpartum Sepsis with Septic Emboli/Bacterial Endocarditis",
+            "reasoning": "1) The postpartum timing and initial presentation with fever suggest puerperal infection. 2) Persistently elevated WBC count (22,940 to 34,720) with predominantly neutrophilic response suggests ongoing bacterial infection. 3) Imaging showed pelvic fluid collections consistent with postpartum endometritis/parametritis. 4) Echocardiographic findings of right heart chamber dilatation could represent right-sided endocarditis with septic emboli to skin and liver. 5) However, the lack of response to multiple broad-spectrum antibiotics, negative cultures from drained fluid, and the characteristic appearance and distribution of skin lesions make isolated bacterial infection less likely. 6) Blood cultures were obtained but results were not reported, which could have supported this diagnosis if positive.",
+            "confidence_level": "Medium"
+          },
+          {
+            "diagnosis": "DRESS Syndrome (Drug Reaction with Eosinophilia and Systemic Symptoms)",
+            "reasoning": "1) The patient had exposure to multiple medications during delivery and subsequent hospitalizations. 2) Multi-organ involvement including hepatitis (elevated liver enzymes, hepatomegaly) and skin manifestations is consistent with DRESS. 3) Timing of 2-8 weeks after drug exposure fits with DRESS syndrome. 4) However, eosinophilia, which is typically seen in DRESS, was not prominent in this case. 5) The skin lesions of DRESS typically present as a morbilliform eruption rather than ulcerative lesions. 6) The pathergy phenomenon and progression of skin lesions are more characteristic of neutrophilic dermatoses than DRESS.",
+            "confidence_level": "Low"
+          },
+          {
+            "diagnosis": "Sweet Syndrome (Acute Febrile Neutrophilic Dermatosis)",
+            "reasoning": "1) The patient has an acute febrile illness with painful skin lesions and neutrophilic infiltrate on endometrial biopsy. 2) Sweet syndrome can be precipitated by pregnancy, delivery, or infections. 3) The patient's elevated inflammatory markers and neutrophilia support a neutrophilic process. 4) However, the destructive ulcerating nature of the skin lesions is more characteristic of pyoderma gangrenosum than Sweet syndrome, which typically presents with tender erythematous papules, plaques, or nodules. 5) The presence of pathergy strongly suggests PG rather than Sweet syndrome. 6) Nonetheless, there is significant overlap between these neutrophilic dermatoses, and they can coexist.",
+            "confidence_level": "Medium-Low"
+          },
+          {
+            "diagnosis": "Behçet's Disease Flare",
+            "reasoning": "1) Behçet's disease can present with recurrent oral and genital ulcers, skin lesions, and systemic inflammation. 2) The pathergy phenomenon (development of skin lesions at sites of trauma) is a characteristic feature of Behçet's disease. 3) Multi-organ involvement including possible gastrointestinal and vascular manifestations fits with Behçet's. 4) Flares can be triggered by pregnancy and delivery. 5) However, the absence of prior oral ulcers in the history and the initial presentation in the postpartum period make this diagnosis less likely as the first manifestation. 6) The pattern of skin lesions and family history are more consistent with pyoderma gangrenosum and IBD than with Behçet's disease.",
+            "confidence_level": "Low"
+          }
+        ],
+        "final_diagnosis": {
+          "diagnosis": "Pyoderma Gangrenosum with likely underlying Inflammatory Bowel Disease",
+          "justification": "The clinical presentation strongly supports pyoderma gangrenosum as the unifying diagnosis. The rapid development of painful ulcers with characteristic violaceous undermined borders at sites of trauma (pathergy) is pathognomonic for PG. The lack of response to multiple broad-spectrum antibiotics argues against a primary infectious etiology. The patient's personal history of hidradenitis suppurativa (another neutrophilic dermatosis) and recurrent abdominal issues (diverticulitis, epiploic appendagitis), along with a family history of Crohn's disease, strongly suggest an underlying inflammatory bowel disease. IBD is one of the most common conditions associated with PG, and both conditions can be exacerbated by the hormonal and physiological changes of pregnancy and delivery. The multi-organ involvement with hepatosplenic abnormalities, ascites, and systemic inflammatory response further supports the diagnosis of an IBD flare with extra-intestinal manifestations including PG."
+        },
+        "next_steps_recommended_tests": [
+          "Skin biopsy of an early ulcer edge for histopathology to confirm neutrophilic infiltration consistent with pyoderma gangrenosum, while excluding infectious etiologies with special stains and cultures.",
+          "Colonoscopy and upper endoscopy with biopsies to evaluate for inflammatory bowel disease, especially given the family history of Crohn's disease and the patient's history of recurrent abdominal issues.",
+          "Initiation of systemic corticosteroids (prednisone 1mg/kg/day or equivalent) as first-line therapy for pyoderma gangrenosum, with careful monitoring for response.",
+          "Blood cultures and echocardiography to definitively exclude infective endocarditis, given the right heart changes noted on initial echocardiogram.",
+          "Multidisciplinary care involving dermatology, gastroenterology, infectious disease, and rheumatology to coordinate optimal management of this complex autoinflammatory condition."
+        ]
+      }
+    ]
+  }
