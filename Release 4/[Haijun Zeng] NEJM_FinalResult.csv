@@ -1,0 +1,463 @@
+Case Number,Final Diagnosis,Top-1 Hit,Top-3 Hit,Rank,DCG,MMR,Output(TOP 8),Notes,,
+NEJMcpc2100279,Infective endocarditis due to Haemophilus parainfluenzae.,TRUE,TRUE,1,1,1,"Infectious Endocarditis — 32%
+
+Systemic Lupus Erythematosus (SLE) — 20%
+
+Meningitis — 15%
+
+Thrombotic Thrombocytopenic Purpura (TTP) — 10%
+
+Viral Hemorrhagic Fever — 8%
+
+Antiphospholipid Syndrome — 6%
+
+Disseminated Intravascular Coagulation (DIC) — 5%
+
+Vasculitis — 4%
+
+",,Conclusion:,"In this evaluation of diagnostic prediction performance, the correct diagnosis appeared in the top 1 prediction in 11 out of 25 cases, in the top 3 predictions in 16 cases, and in the top 8 predictions in 19 cases. These results correspond to a top-1 accuracy of 44%, top-3 accuracy of 64%, and a top-8 accuracy of 76%. The average Discounted Cumulative Gain (DCG) across all cases was 0.5402, and the average Mean Reciprocal Rank (MRR) was 0.4955, indicating moderate model performance in ranking the correct diagnosis near the top."
+NEJMcpc2300900,AL amyloidosis.,TRUE,TRUE,1,1,1,"Cardiac Amyloidosis (AL type) — 35%
+
+Hypertrophic Cardiomyopathy (non-obstructive) — 25%
+
+Hypertensive Heart Disease — 12%
+
+Athlete's Heart with Pathologic Remodeling — 10%
+
+Fabry Disease — 8%
+
+Cardiac Sarcoidosis — 5%
+
+Hemochromatosis — 3%
+
+Transthyretin Amyloidosis (ATTR) — 2%",,,
+NEJMcpc2309383,Common variable immunodeficiency.,FALSE,FALSE,N/A,0,0,"Sarcoidosis — 32%
+
+Infectious Causes (e.g., TB, Fungal Infections) — 20%
+
+Lymphoma — 15%
+
+Autoimmune Disorders (e.g., Crohn's Disease, Rheumatoid Arthritis) — 10%
+
+Chronic Bacterial Infections (e.g., Brucellosis, Bartonellosis) — 8%
+
+Familial Mediterranean Fever — 5%
+
+Granulomatosis with Polyangiitis (Wegener's Granulomatosis) — 5%
+
+Idiopathic Multicentric Castleman Disease — 5%",,,
+NEJMcpc2309500,Sweet’s syndrome.,FALSE,FALSE,N/A,0,0,"Disseminated Neisseria gonorrhoeae infection — 15%
+
+Pyoderma gangrenosum — 12%
+
+Behçet's disease — 8%
+
+Lemierre's syndrome variant — 7%
+
+Autoinflammatory syndrome (e.g., CAPS) — 6%
+
+Hidradenitis suppurativa-related systemic inflammation — 5%
+
+Disseminated mycobacterial infection — 4%
+
+Paraneoplastic phenomenon — 3%
+
+",,,
+NEJMcpc2309726,"Nutritional optic neuropathy due to multiple nutritional deficits, including vitamin A, copper, and zinc deficiencies.",TRUE,TRUE,1,1,1,"Vitamin A Deficiency — 25%
+
+Leber Congenital Amaurosis — 18%
+
+Optic Neuritis — 15%
+
+Nutritional Deficiencies (General) — 12%
+
+Toxic or Medication-Induced Vision Loss — 8%
+
+Infectious Causes (e.g., Toxoplasmosis) — 6%
+
+Genetic Disorders (e.g., Retinitis Pigmentosa) — 5%
+
+Trauma or Physical Injury — 4%","Although AI's prediction did not fully state ""nutritional optic neuropathy"", its first two items ""Vitamin A Deficiency"" have basically covered the core reasons for the correct diagnosis.",,
+NEJMcpc2312734,Myasthenia gravis.,FALSE,FALSE,8,0.3154648768,0.125,"Chronic Heart Failure — 32%
+
+Chronic Obstructive Pulmonary Disease (COPD) — 20%
+
+Pulmonary Embolism — 15%
+
+Hypertensive Heart Disease — 10%
+
+Chronic Thromboembolic Pulmonary Hypertension (CTEPH) — 8%
+
+Amyotrophic Lateral Sclerosis (ALS) — 6%
+
+Pulmonary Vasculitis (e.g., SLE-related) — 5%
+
+Neuromuscular Disorder (e.g., Myasthenia Gravis) — 4%",,,
+NEJMcpc2312735,Postpartum obsessive–compulsive disorder.,TRUE,TRUE,1,1,1,"Postpartum Obsessive-Compulsive Disorder — 45% 
+
+Postpartum Major Depressive Disorder with Anxious Distress — 25%
+
+Postpartum Psychosis — 10%
+
+Postpartum Anxiety Disorder — 8%
+
+Post-Traumatic Stress Disorder — 5%
+
+Bipolar Disorder with Peripartum Onset — 3%
+
+Medical Condition-Induced Psychiatric Symptoms — 2%
+
+Adjustment Disorder with Anxious Mood — 2%",,,
+NEJMcpc2402483,"Overlap syndrome of rheumatoid arthritis and systemic lupus erythematosus complicated by pro-iferative lupus nephritis, superimposed on amy-loid A amyloidosis.",TRUE,TRUE,1,1,1,"AA Amyloidosis — 35% 
+
+Multiple Myeloma Relapse — 20% 
+
+Rheumatoid Vasculitis — 15% 
+
+Paraneoplastic Syndrome — 10% 
+
+Hepatitis C-Associated Cryoglobulinemia — 8% 
+
+Tuberculosis — 5% 
+
+Drug-Induced Nephropathy — 4% 
+
+Chikungunya Reactivation — 3% 
+
+","Partially correct, Perplexity correctly identified ""AA amyloidosis"" as the key diagnosis and recognized the inflammatory drive of RA. However, it missed the important overlapping conditions of ""systemic lupus erythematosus (SLE)"" and ""lupus nephritis"". Perhaps more detailed information is needed to obtain a more detailed diagnosis",,
+NEJMcpc2402485,24-Hydroxylase deficiency due to a homozygous CYP24A1 variant.,FALSE,FALSE,N/A,0,0,"Hyperparathyroidism — 32%
+
+Vitamin D Toxicity — 20%
+
+Medullary Thyroid Carcinoma (MTC) — 15%
+
+Williams Syndrome — 10%
+
+Idiopathic Infantile Hypercalcemia — 8%
+
+GERD Complications — 6%
+
+DiGeorge Syndrome — 5%
+
+Other Metabolic Disorders — 4%",,,
+NEJMcpc2402486,Rosai–Dorfman–Destombes disease.,FALSE,FALSE,6,0.3562071871,0.1666666667,"IgG4-related disease with atypical skeletal involvement — 35%
+
+Erdheim-Chester disease — 25%
+
+Multifocal osteomyelitis (chronic recurrent multifocal) — 12%
+
+Plasma cell neoplasm (atypical) — 10%
+
+Angioimmunoblastic T-cell lymphoma — 8%
+
+Rosai-Dorfman disease — 5%
+
+Metastatic carcinoma (occult primary) — 3%
+
+SAPHO syndrome — 2%",,,
+NEJMcpc2402487,Intralobar bronchopulmonary sequestration.,FALSE,FALSE,N/A,0,0,"Persistent Pulmonary Hypertension of the Newborn (PPHN) — 32%
+
+Congenital Heart Disease — 20%
+
+Pneumonia or Pulmonary Infection — 15%
+
+Neonatal Sepsis — 10%
+
+Hypoxic-Ischemic Encephalopathy (HIE) — 8%
+
+Congenital Urinary Tract Anomalies — 6%
+
+Meconium Aspiration Syndrome (MAS) — 5%
+
+Intraventricular Hemorrhage (IVH) or Other CNS Pathology — 4%",,,
+NEJMcpc2402488,Paraneoplastic encephalomyelitis due to small-cell lung carcinoma and concurrent cerebral amy-loid angiopathy.,TRUE,TRUE,1,1,1,"Paraneoplastic Autoimmune Encephalitis — 40%
+
+Small-Cell Lung Cancer with Brain Metastases — 25%
+
+Vascular Dementia — 15%
+
+Alzheimer's Disease — 8%
+
+Creutzfeldt-Jakob Disease — 5%
+
+Limbic Encephalitis due to Other Causes — 4%
+
+Infectious Encephalitis — 2%
+
+Toxic or Metabolic Encephalopathy — 1%","The perplexity prediction correctly included the principal diagnosis (paraneoplastic encephalomyelitis), but did not capture concurrent cerebral amyloid angiopathy (CAA).",,
+NEJMcpc2402489,"Metastatic adenoid cystic carcinoma, originating in the breast.",TRUE,TRUE,1,1,1,"Metastatic Breast Cancer — 40%
+
+Inflammatory Breast Cancer — 25%
+
+Hemorrhagic Stroke Complications — 10%
+
+Paraneoplastic Syndrome — 8%
+
+Disseminated Intravascular Coagulation (DIC) — 5%
+
+Chronic Infection or Abscess — 4%
+
+Sepsis — 3%
+
+Thrombotic Thrombocytopenic Purpura (TTP) — 5%","The general direction is correct (metastatic breast cancer), but the pathological subtype is missed.",,
+NEJMcpc2402490,Disseminated Mycobacterium kansasii and Mycobac-terium abscessus infections due to mendelian sus-ceptibility to mycobacterial disease.,TRUE,TRUE,1,1,1,"Disseminated Mycobacterium avium complex (MAC) infection — 35%
+
+Hemophagocytic lymphohistiocytosis (HLH) — 20%
+
+Chronic granulomatous disease (CGD) — 15%
+
+Autoinflammatory disorder (e.g., TRAPS) — 10%
+
+Leukemia/Lymphoma — 8%
+
+Bartonella henselae infection — 5%
+
+Systemic juvenile idiopathic arthritis — 4%
+
+Primary immunodeficiency (e.g., STAT1 gain-of-function) — 3%","The general direction (disseminated mycobacterial infection) is correct, but the details (specific bacterial species and genetic immunodeficiency) are missed.",,
+NEJMcpc2402491,"Bronchopneumonia, most likely due to influ-enza.",FALSE,TRUE,2,0.6309297536,0.5,"Pneumonia (Bacterial) — 40%
+
+Influenza Pneumonia — 25%
+
+Tuberculosis (TB) — 10%
+
+Pneumococcal Pneumonia — 8%
+
+Staphylococcal Pneumonia — 5%
+
+Viral Pneumonia (other than influenza) — 4%
+
+Pulmonary Embolism — 3%
+
+Acute Respiratory Distress Syndrome (ARDS) — 5%",,,
+NEJMcpc2402492,Legionella infection complicated by rhabdo-myolysis.,TRUE,TRUE,1,1,1,"Legionella pneumonia with multi-organ failure — 35%
+
+Rhabdomyolysis-induced acute kidney injury — 25%
+
+Toxic ingestion (supplements/contaminants) — 15%
+
+Viral myositis with AKI — 8%
+
+Autoimmune encephalomyositis — 7%
+
+Heat stroke with multi-organ injury — 5%
+
+Hemophagocytic lymphohistiocytosis — 3%
+
+Leptospirosis — 2%",,,
+NEJMcpc2402493,Icteric leptospirosis.,FALSE,TRUE,3,0.5,0.3333333333,"Severe Infection (e.g., Sepsis) — 32%
+
+Viral Hemorrhagic Fever — 20%
+
+Leptospirosis — 15%
+
+Autoimmune Hemolytic Anemia (AIHA) — 10%
+
+Wilson's Disease — 8%
+
+Hemophagocytic Lymphohistiocytosis (HLH) — 6%
+
+Drug-Induced Liver Injury — 5%
+
+Malaria — 4%",,,
+NEJMcpc2402496,Brain abscess due to infection with Listeria monocytogenes.,FALSE,FALSE,4,0.4306765581,0.25,"Primary CNS Lymphoma — 35%
+
+Glioblastoma — 25%
+
+Metastatic Carcinoma — 15%
+
+Infectious Abscess — 8%
+
+Autoimmune Encephalitis — 7%
+
+Progressive Multifocal Leukoencephalopathy — 5%
+
+Cerebral Toxoplasmosis — 3%
+
+Demyelinating Lesion — 2%
+
+","The fourth diagnosis of Perplexity was Infectious Abscess (8%), which was the general direction of the correct diagnosis, but Listeria was not identified.",,
+NEJMcpc2402498,Postpartum nephrotic syndrome due to focal segmental glomerulosclerosis.,FALSE,TRUE,2,0.6309297536,0.5,"Postpartum Preeclampsia with Severe Features — 32%
+
+Nephrotic Syndrome — 20%
+
+Heart Failure — 15%
+
+Thyroid Dysfunction — 10%
+
+Deep Vein Thrombosis (DVT) — 8%
+
+Pulmonary Embolism — 6%
+
+Chronic Kidney Disease — 5%
+
+Idiopathic Edema — 4%","Perplexity indicates nephrotic syndrome, but no specific cause is identified FSGS",,
+NEJMcpc2402499,Trichobezoar.,FALSE,FALSE,N/A,0,0,"Gastroesophageal Reflux Disease (GERD) or Peptic Ulcer Disease — 32%
+
+Functional Dyspepsia — 20%
+
+Inflammatory Bowel Disease (IBD) — 15%
+
+Appendicitis — 10%
+
+Gastrointestinal Obstruction — 8%
+
+Eating Disorder or Gastric Motility Disorder — 6%
+
+Chronic Pancreatitis — 5%
+
+Infectious Gastroenteritis — 4%",,,
+NEJMcpc2402500,Psychotic disorder due to a general medical con-dition (postictal psychosis).,TRUE,TRUE,1,1,1,"Postictal Psychosis — 35%
+
+Antiseizure Medication Toxicity — 20%
+
+Interictal Psychotic Disorder — 12%
+
+Autoimmune Encephalitis — 10%
+
+Kindling Phenomenon — 8%
+
+Functional Neurological Disorder — 6%
+
+Substance-Induced Psychosis — 5%
+
+Neurodegenerative Disease — 4%
+",,,
+NEJMcpc2402504,Cryptococcal meningoencephalitis.,FALSE,FALSE,N/A,0,0,"Hepatic Encephalopathy — 32%
+
+Spontaneous Bacterial Peritonitis (SBP) — 20%
+
+Acute Renal Injury — 15%
+
+Portal Hypertensive Gastropathy — 10%
+
+Infection (e.g., Pneumonia) — 8%
+
+Migraine or Other Headache Disorder — 6%
+
+Chronic Small-Vessel Disease — 5%
+
+Medication Side Effects — 4%",,,
+NEJMcpc2402505,Postmyocardial infarction (scar-related) reentrant ventricular tachycardia.,FALSE,TRUE,2,0.6309297536,0.5,"Heart Failure Exacerbation — 35%
+
+Ventricular Tachycardia or Arrhythmia — 25%
+
+Prosthetic Valve Dysfunction — 15%
+
+Pulmonary Embolism — 10%
+
+Acute Coronary Syndrome — 8%
+
+Anemia-Related Symptoms — 5%
+
+Cardiac Tamponade — 4%
+
+Other Causes of Dyspnea (e.g., Pulmonary Hypertension) — 3%",,,
+NEJMcpc2412511,Posterior reversible encephalopathy syndrome due to sickle cell disease.,FALSE,TRUE,2,0.6309297536,0.5,"Sickle Cell Crisis with Cerebral Vasculopathy — 40%
+
+Posterior Reversible Encephalopathy Syndrome (PRES) — 25%
+
+Seizure Disorder — 15%
+
+Intracranial Hemorrhage — 8%
+
+Cerebral Venous Thrombosis — 5%
+
+Infection or Sepsis — 4%
+
+Hypertensive Encephalopathy — 2%
+
+Other Causes of Loss of Consciousness (e.g., Metabolic, Cardiac) — 1%",,,
+NEJMcpc2412513,Sarcoidosis (Löfgren’s syndrome).,TRUE,TRUE,1,1,1,"Sarcoidosis — 35%
+
+Lymphoma — 20%
+
+Granulomatous Infection (e.g., Histoplasmosis) — 15%
+
+Rheumatologic Disorder (e.g., Rheumatoid Arthritis) — 10%
+
+Paraneoplastic Syndrome — 8%
+
+Drug Reaction — 6%
+
+Cardiac Syncope (Recurrent) — 4%
+
+Cat-Scratch Disease — 2%",,,
+,,Top 1: 11/25,Top 3: 16/25,Top-8 accuracy: 19 out of 25.,Average DCG: 0.5402,Average MMR: 0.4955,,,,
+Prompt,,,,,,,,,,
+Prompt,"PROMPT_1 = """"""Prompt: NEJM Medical Case Analysis with Atom-of-Thought Reasoning (JSON Output, using percentage confidence)
+Goal:
+Analyze a provided NEJM medical case record and generate a differential diagnosis (top 8) ranked by likelihood as a percentage, along with the final diagnosis. Justify each ranking using atom-of-thought reasoning and suggest next diagnostic steps/tests a physician would perform. The response must be formatted as structured JSON.
+
+Context Dump:
+You are a highly advanced medical AI trained in clinical reasoning, differential diagnosis, and diagnostic testing. Your task is to analyze patient case data methodically, using the atom-of-thought reasoning process, breaking down each step into granular diagnostic components before synthesizing conclusions. You follow evidence-based medicine and best clinical practices.
+
+You will be provided with a full NEJM medical case record, including history, symptoms, lab results, imaging findings, and other relevant data. Your role is to act as an expert diagnostician, systematically working through the case to generate an accurate and well-supported differential diagnosis.
+
+Warnings & Considerations:
+Do NOT fabricate data—base all reasoning strictly on the given case information.
+Clearly state uncertainty levels for each differential diagnosis.
+Emphasize clinical reasoning rather than just listing conditions.
+Do NOT provide patient-specific medical advice—this is a simulated diagnostic reasoning exercise.
+Use the provided filename as the 'case_id' in the JSON output if no other unique identifier is present in the text.
+- Do NOT fabricate data—only use information provided.
+- Clearly express diagnostic confidence as a percentage (e.g., 82%).
+- Use logical reasoning for every diagnosis.
+- Sum of all  confidence percentages should be approximately 100%.
+
+Return Format (JSON Structure):
+Your response must be structured as a valid JSON object using the following schema:
+
+{
+  ""case_id"": ""<unique_case_id_or_filename>"",
+  ""case_summary"": ""<brief summary of the patient's key symptoms, history, and findings>"",
+  ""differential_diagnosis"": [
+    { ""diagnosis"": ""<1st most likely>"", ""reasoning"": ""<step-by-step justification>"", ""confidence_percent"": ""32%"" },
+    { ""diagnosis"": ""<2nd most likely>"", ""reasoning"": ""<step-by-step justification>"", ""confidence_percent"": ""20%"" },
+    { ""diagnosis"": ""<3rd most likely>"", ""reasoning"": ""<step-by-step justification>"", ""confidence_percent"": ""15%"" },
+    { ""diagnosis"": ""<4th most likely>"", ""reasoning"": ""<step-by-step justification>"", ""confidence_percent"": ""10%"" },
+    { ""diagnosis"": ""<5th most likely>"", ""reasoning"": ""<step-by-step justification>"", ""confidence_percent"": ""8%"" },
+    { ""diagnosis"": ""<6th most likely>"", ""reasoning"": ""<step-by-step justification>"", ""confidence_percent"": ""6%"" },
+    { ""diagnosis"": ""<7th most likely>"", ""reasoning"": ""<step-by-step justification>"", ""confidence_percent"": ""5%"" },
+    { ""diagnosis"": ""<8th most likely>"", ""reasoning"": ""<step-by-step justification>"", ""confidence_percent"": ""4%"" }
+ ],
+  ""final_diagnosis"": {
+    ""diagnosis"": ""<most probable final diagnosis>"",
+    ""justification"": ""<detailed reasoning explaining why this diagnosis is most likely>""
+  },
+  ""next_steps_recommended_tests"": [
+    ""<test 1: explanation>"",
+    ""<test 2: explanation>"",
+    ""<test 3: explanation>""
+    // Add more tests as appropriate
+  ]
+}
+
+
+Atom-of-Thought Reasoning Process:
+For each differential diagnosis, apply the following structured approach:
+
+Identify key clinical clues (e.g., symptoms, lab values, imaging findings).
+Compare with characteristic disease patterns (match findings to potential conditions).
+Assess probability & fit (Does this condition fully explain the case? Are there inconsistencies?).
+Consider alternative explanations (What else could explain this? Are there competing diagnoses?).
+Rank & justify (Determine the most likely and why).
+Determine next steps (What additional data is needed to confirm the diagnosis?).
+
+Input Example (User Provides):
+""Input Case File: NEJMcpc2309500.pdf
+Case Details:
+[Insert case details].""
+
+Expected Output Example (LLM Response in JSON):
+// (Example structure implies 8 entries in differential_diagnosis array)
+{
+  ""case_id"": ""NEJMcpc2309500.pdf"", // Example using filename
+  ""case_summary"": ""A 30-year-old postpartum woman developed persistent fever..."",
+  ""differential_diagnosis"": [
+    { ""diagnosis"": ""Septic Pelvic Thrombophlebitis"", ""reasoning"": ""..."", ""confidence_level"": ""High"" },
+    // ... (up to 8 diagnoses)
+  ],
+  ""final_diagnosis"": { ... },
+  ""next_steps_recommended_tests"": [ ... ]
+}""""""",,,,,,,,,
