@@ -1,0 +1,233 @@
+--- Processing Case: NEJMcpc2100279 ---
+  Rank 1: Comparing...
+    --> Match found by LLM at rank 1!
+------------------------------
+--- Processing Case: NEJMcpc2300900 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  Rank 4: Comparing...
+  Rank 5: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2309383 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  Rank 4: Comparing...
+  Rank 5: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2309500 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  Rank 4: Comparing...
+  Rank 5: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2309726 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  Rank 4: Comparing...
+  Rank 5: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2312734 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+    --> Match found by LLM at rank 2!
+------------------------------
+--- Processing Case: NEJMcpc2312735 ---
+  Rank 1: Comparing...
+    --> Match found by LLM at rank 1!
+------------------------------
+--- Processing Case: NEJMcpc2402483 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+    --> Match found by LLM at rank 2!
+------------------------------
+--- Processing Case: NEJMcpc2402485 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+    --> Match found by LLM at rank 2!
+------------------------------
+--- Processing Case: NEJMcpc2402486 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402487 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402488 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402489 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402490 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402491 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+    --> Match found by LLM at rank 2!
+------------------------------
+--- Processing Case: NEJMcpc2402492 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+    --> Match found by LLM at rank 2!
+------------------------------
+--- Processing Case: NEJMcpc2402493 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402496 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402498 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  Rank 3: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402499 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402500 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402504 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2402505 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2412511 ---
+  Rank 1: Comparing...
+  Rank 2: Comparing...
+  No Match Found for this case.
+------------------------------
+--- Processing Case: NEJMcpc2412513 ---
+  Rank 1: Comparing...
+    --> Match found by LLM at rank 1!
+------------------------------
+
+============================================================
+--- Individual Case Match Details (Rank of First LLM Match) ---
+============================================================
+NEJMcpc2100279:
+  Rank 1: 'Infective endocarditis due to Haemophilus parainfluenzae.' vs 'Infective Endocarditis'
+------------------------------
+NEJMcpc2300900:
+  No Match Found
+------------------------------
+NEJMcpc2309383:
+  No Match Found
+------------------------------
+NEJMcpc2309500:
+  No Match Found
+------------------------------
+NEJMcpc2309726:
+  No Match Found
+------------------------------
+NEJMcpc2312734:
+  Rank 2: 'Myasthenia gravis.' vs 'Myasthenia Gravis'
+------------------------------
+NEJMcpc2312735:
+  Rank 1: 'Postpartum obsessive–compulsive disorder.' vs 'Postpartum Obsessive-Compulsive Disorder'
+------------------------------
+NEJMcpc2402483:
+  Rank 2: 'Overlap syndrome of rheumatoid arthritis and systemic lupus erythematosus complicated by pro-liferative lupus nephritis, superimposed on amy- loid A amyloidosis.' vs 'AA Amyloidosis'
+------------------------------
+NEJMcpc2402485:
+  Rank 2: '24-Hydroxylase deficiency due to a homozygous CYP24A1 variant.' vs 'Infantile Hypercalcemia Type 1 (CYP24A1 mutation)'
+------------------------------
+NEJMcpc2402486:
+  No Match Found
+------------------------------
+NEJMcpc2402487:
+  No Match Found
+------------------------------
+NEJMcpc2402488:
+  No Match Found
+------------------------------
+NEJMcpc2402489:
+  No Match Found
+------------------------------
+NEJMcpc2402490:
+  No Match Found
+------------------------------
+NEJMcpc2402491:
+  Rank 2: 'Bronchopneumonia, most likely due to influenza.' vs 'Influenza A/H1N1 with Secondary Bacterial Pneumonia'
+------------------------------
+NEJMcpc2402492:
+  Rank 2: 'Legionella infection complicated by rhabdomyolysis.' vs 'Legionnaires' Disease'
+------------------------------
+NEJMcpc2402493:
+  No Match Found
+------------------------------
+NEJMcpc2402496:
+  No Match Found
+------------------------------
+NEJMcpc2402498:
+  No Match Found
+------------------------------
+NEJMcpc2402499:
+  No Match Found
+------------------------------
+NEJMcpc2402500:
+  No Match Found
+------------------------------
+NEJMcpc2402504:
+  No Match Found
+------------------------------
+NEJMcpc2402505:
+  No Match Found
+------------------------------
+NEJMcpc2412511:
+  No Match Found
+------------------------------
+NEJMcpc2412513:
+  Rank 1: 'Sarcoidosis (Löfgren’s syndrome).' vs 'Sarcoidosis'
+------------------------------
+
+============================================================
+--- Overall Evaluation Results (LLM-based) ---
+============================================================
+LLM Model Used: models/gemini-2.5-pro-preview-03-25
+Total Cases Processed: 25
+Cases Where LLM Found a Match: 8 (32.0%)
+-------------------------
+MRR (Mean Reciprocal Rank): 0.2200
+Mean NDCG@5: 0.2462
+Top-1 Accuracy (LLM match at rank 1): 12.00%
+============================================================
